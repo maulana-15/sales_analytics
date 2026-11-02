@@ -1,0 +1,6 @@
+table,field,data_type,description,example
+orders,order_id,text,Unique transaction ID,ORD-00001
+orders,order_date,date,Transaction date,2025-01-15
+order_details,revenue,number,Net sales after discount,250000
+order_details,profit,number,Revenue minus product cost,75000
+sales_targets,target_revenue,number,Monthly target by region,500000000

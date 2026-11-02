@@ -1,0 +1,3001 @@
+order_id,customer_id,order_date,region,sales_channel,order_status
+ORD-00001,CUST-0242,2025-12-21,Jakarta,Website,Completed
+ORD-00002,CUST-0377,2025-06-01,Makassar,Marketplace,Completed
+ORD-00003,CUST-0719,2025-08-01,Makassar,Reseller,Completed
+ORD-00004,CUST-0458,2025-09-27,Makassar,Offline Store,Completed
+ORD-00005,CUST-0587,2025-04-14,Makassar,Marketplace,Completed
+ORD-00006,CUST-0457,2025-09-19,Denpasar,Website,Completed
+ORD-00007,CUST-0689,2025-08-25,Denpasar,Offline Store,Completed
+ORD-00008,CUST-0071,2025-01-31,Medan,Website,Completed
+ORD-00009,CUST-0678,2025-12-16,Denpasar,Social Commerce,Completed
+ORD-00010,CUST-0306,2025-01-12,Medan,Social Commerce,Completed
+ORD-00011,CUST-0785,2025-11-11,Jakarta,Marketplace,Completed
+ORD-00012,CUST-0613,2025-08-17,Semarang,Website,Completed
+ORD-00013,CUST-0223,2025-10-04,Denpasar,Website,Completed
+ORD-00014,CUST-0310,2025-05-02,Bandung,Social Commerce,Completed
+ORD-00015,CUST-0353,2025-01-25,Semarang,Reseller,Completed
+ORD-00016,CUST-0231,2025-05-04,Surabaya,Marketplace,Completed
+ORD-00017,CUST-0543,2025-10-13,Bandung,Reseller,Completed
+ORD-00018,CUST-0053,2025-04-08,Surabaya,Reseller,Cancelled
+ORD-00019,CUST-0573,2025-12-10,Bandung,Reseller,Completed
+ORD-00020,CUST-0619,2025-12-23,Semarang,Marketplace,Completed
+ORD-00021,CUST-0368,2025-11-29,Surabaya,Offline Store,Completed
+ORD-00022,CUST-0017,2025-03-16,Surabaya,Social Commerce,Cancelled
+ORD-00023,CUST-0264,2025-06-22,Denpasar,Reseller,Completed
+ORD-00024,CUST-0035,2025-09-26,Denpasar,Website,Completed
+ORD-00025,CUST-0070,2025-04-29,Semarang,Marketplace,Completed
+ORD-00026,CUST-0632,2025-12-08,Medan,Reseller,Completed
+ORD-00027,CUST-0018,2025-01-07,Makassar,Offline Store,Completed
+ORD-00028,CUST-0247,2025-03-18,Bandung,Social Commerce,Completed
+ORD-00029,CUST-0232,2025-12-23,Surabaya,Website,Completed
+ORD-00030,CUST-0488,2025-10-10,Jakarta,Website,Completed
+ORD-00031,CUST-0580,2025-06-19,Denpasar,Website,Completed
+ORD-00032,CUST-0487,2025-10-18,Surabaya,Website,Completed
+ORD-00033,CUST-0771,2025-03-15,Denpasar,Reseller,Completed
+ORD-00034,CUST-0706,2025-03-13,Semarang,Website,Completed
+ORD-00035,CUST-0793,2025-07-23,Surabaya,Website,Completed
+ORD-00036,CUST-0303,2025-11-13,Denpasar,Marketplace,Completed
+ORD-00037,CUST-0650,2025-12-31,Bandung,Reseller,Completed
+ORD-00038,CUST-0090,2025-03-09,Bandung,Reseller,Completed
+ORD-00039,CUST-0398,2025-07-31,Denpasar,Website,Completed
+ORD-00040,CUST-0276,2025-03-13,Surabaya,Offline Store,Completed
+ORD-00041,CUST-0079,2025-09-05,Surabaya,Offline Store,Completed
+ORD-00042,CUST-0451,2025-06-18,Surabaya,Reseller,Cancelled
+ORD-00043,CUST-0182,2025-06-10,Medan,Offline Store,Completed
+ORD-00044,CUST-0699,2025-04-03,Denpasar,Social Commerce,Completed
+ORD-00045,CUST-0259,2025-05-04,Semarang,Marketplace,Completed
+ORD-00046,CUST-0719,2025-07-04,Denpasar,Social Commerce,Cancelled
+ORD-00047,CUST-0364,2025-12-07,Bandung,Social Commerce,Completed
+ORD-00048,CUST-0705,2025-10-25,Makassar,Marketplace,Completed
+ORD-00049,CUST-0108,2025-09-05,Surabaya,Reseller,Completed
+ORD-00050,CUST-0352,2025-06-09,Medan,Marketplace,Completed
+ORD-00051,CUST-0024,2025-02-28,Denpasar,Offline Store,Completed
+ORD-00052,CUST-0574,2025-06-19,Medan,Reseller,Completed
+ORD-00053,CUST-0440,2025-10-31,Medan,Website,Completed
+ORD-00054,CUST-0375,2025-04-06,Surabaya,Marketplace,Completed
+ORD-00055,CUST-0655,2025-09-28,Surabaya,Social Commerce,Completed
+ORD-00056,CUST-0689,2025-02-13,Bandung,Offline Store,Completed
+ORD-00057,CUST-0398,2025-09-19,Medan,Social Commerce,Completed
+ORD-00058,CUST-0192,2025-03-13,Surabaya,Reseller,Cancelled
+ORD-00059,CUST-0200,2025-03-11,Denpasar,Reseller,Completed
+ORD-00060,CUST-0034,2025-05-30,Surabaya,Marketplace,Completed
+ORD-00061,CUST-0275,2025-02-28,Denpasar,Social Commerce,Completed
+ORD-00062,CUST-0224,2025-10-07,Medan,Website,Completed
+ORD-00063,CUST-0706,2025-10-29,Surabaya,Social Commerce,Completed
+ORD-00064,CUST-0546,2025-06-29,Surabaya,Social Commerce,Completed
+ORD-00065,CUST-0696,2025-09-21,Denpasar,Website,Completed
+ORD-00066,CUST-0502,2025-07-21,Bandung,Social Commerce,Completed
+ORD-00067,CUST-0336,2025-09-07,Makassar,Website,Completed
+ORD-00068,CUST-0291,2025-06-15,Surabaya,Social Commerce,Cancelled
+ORD-00069,CUST-0642,2025-02-20,Denpasar,Reseller,Completed
+ORD-00070,CUST-0439,2025-01-01,Bandung,Marketplace,Completed
+ORD-00071,CUST-0681,2025-07-10,Semarang,Marketplace,Completed
+ORD-00072,CUST-0080,2025-09-02,Bandung,Social Commerce,Completed
+ORD-00073,CUST-0749,2025-02-15,Denpasar,Website,Completed
+ORD-00074,CUST-0577,2025-09-29,Jakarta,Social Commerce,Completed
+ORD-00075,CUST-0144,2025-02-21,Denpasar,Website,Cancelled
+ORD-00076,CUST-0292,2025-11-08,Denpasar,Website,Completed
+ORD-00077,CUST-0662,2025-06-01,Jakarta,Marketplace,Completed
+ORD-00078,CUST-0431,2025-10-19,Surabaya,Social Commerce,Completed
+ORD-00079,CUST-0644,2025-05-27,Semarang,Social Commerce,Completed
+ORD-00080,CUST-0209,2025-09-19,Denpasar,Marketplace,Completed
+ORD-00081,CUST-0448,2025-12-24,Semarang,Marketplace,Completed
+ORD-00082,CUST-0317,2025-01-29,Semarang,Marketplace,Completed
+ORD-00083,CUST-0168,2025-01-06,Medan,Offline Store,Completed
+ORD-00084,CUST-0279,2025-08-08,Makassar,Website,Completed
+ORD-00085,CUST-0057,2025-07-04,Medan,Social Commerce,Completed
+ORD-00086,CUST-0003,2025-09-18,Jakarta,Website,Completed
+ORD-00087,CUST-0184,2025-03-18,Denpasar,Website,Completed
+ORD-00088,CUST-0054,2025-12-11,Bandung,Marketplace,Completed
+ORD-00089,CUST-0793,2025-05-25,Denpasar,Offline Store,Completed
+ORD-00090,CUST-0206,2025-07-08,Surabaya,Social Commerce,Completed
+ORD-00091,CUST-0779,2025-10-07,Denpasar,Marketplace,Completed
+ORD-00092,CUST-0355,2025-10-05,Semarang,Website,Completed
+ORD-00093,CUST-0107,2025-06-07,Bandung,Social Commerce,Completed
+ORD-00094,CUST-0766,2025-08-23,Jakarta,Social Commerce,Completed
+ORD-00095,CUST-0679,2025-08-11,Bandung,Marketplace,Completed
+ORD-00096,CUST-0208,2025-02-08,Bandung,Social Commerce,Completed
+ORD-00097,CUST-0549,2025-03-03,Surabaya,Marketplace,Completed
+ORD-00098,CUST-0042,2025-11-05,Bandung,Offline Store,Completed
+ORD-00099,CUST-0526,2025-07-22,Jakarta,Offline Store,Completed
+ORD-00100,CUST-0097,2025-05-08,Medan,Website,Completed
+ORD-00101,CUST-0203,2025-03-08,Denpasar,Reseller,Completed
+ORD-00102,CUST-0023,2025-02-08,Jakarta,Marketplace,Completed
+ORD-00103,CUST-0588,2025-03-28,Medan,Reseller,Completed
+ORD-00104,CUST-0363,2025-03-30,bandung,Marketplace,Completed
+ORD-00105,CUST-0422,2025-09-13,Makassar,Reseller,Completed
+ORD-00106,CUST-0205,2025-08-03,Semarang,Social Commerce,Completed
+ORD-00107,CUST-0558,2025-09-03,Denpasar,Reseller,Completed
+ORD-00108,CUST-0484,2025-01-30,Makassar,Offline Store,Cancelled
+ORD-00109,CUST-0755,2025-10-01,Jakarta,Marketplace,Cancelled
+ORD-00110,CUST-0361,2025-12-25,Makassar,Social Commerce,Completed
+ORD-00111,CUST-0058,2025-02-16,Bandung,Social Commerce,Completed
+ORD-00112,CUST-0629,2025-06-19,Bandung,Marketplace,Completed
+ORD-00113,CUST-0793,2025-03-14,Jakarta,Social Commerce,Completed
+ORD-00114,CUST-0601,2025-07-22,Jakarta,Offline Store,Completed
+ORD-00115,CUST-0576,2025-12-29,Semarang,Social Commerce,Completed
+ORD-00116,CUST-0302,2025-12-19,Bandung,Marketplace,Completed
+ORD-00117,CUST-0340,2025-03-14,semarang,Website,Completed
+ORD-00118,CUST-0012,2025-08-17,Surabaya,Marketplace,Completed
+ORD-00119,CUST-0050,2025-01-01,Medan,Reseller,Completed
+ORD-00120,CUST-0491,2025-02-21,Denpasar,Social Commerce,Completed
+ORD-00121,CUST-0108,2025-05-14,Jakarta,Offline Store,Completed
+ORD-00122,CUST-0169,2025-12-01,Makassar,Reseller,Completed
+ORD-00123,CUST-0420,2025-04-08,Semarang,Social Commerce,Completed
+ORD-00124,CUST-0158,2025-09-09,Jakarta,Offline Store,Completed
+ORD-00125,CUST-0084,2025-05-30,Medan,Website,Completed
+ORD-00126,CUST-0457,2025-04-06,Jakarta,Offline Store,Completed
+ORD-00127,CUST-0555,2025-06-26,Medan,Social Commerce,Completed
+ORD-00128,CUST-0704,2025-10-02,Denpasar,Reseller,Cancelled
+ORD-00129,CUST-0585,2025-09-15,Makassar,Social Commerce,Cancelled
+ORD-00130,CUST-0044,2025-03-06,Medan,Website,Completed
+ORD-00131,CUST-0090,2025-02-04,Medan,Social Commerce,Completed
+ORD-00132,CUST-0425,2025-02-27,Bandung,Marketplace,Cancelled
+ORD-00133,CUST-0549,2025-05-27,Surabaya,Reseller,Completed
+ORD-00134,CUST-0711,2025-12-15,Medan,Website,Completed
+ORD-00135,CUST-0319,2025-06-05,Surabaya,Reseller,Completed
+ORD-00136,CUST-0620,2025-08-02,Semarang,Website,Completed
+ORD-00137,CUST-0414,2025-09-17,Bandung,Social Commerce,Cancelled
+ORD-00138,CUST-0256,2025-01-30,Jakarta,Reseller,Completed
+ORD-00139,CUST-0032,2025-12-15,Bandung,Offline Store,Completed
+ORD-00140,CUST-0396,2025-01-15,Jakarta,Marketplace,Cancelled
+ORD-00141,CUST-0420,2025-11-30,Makassar,Website,Completed
+ORD-00142,CUST-0434,2025-05-21,Medan,Offline Store,Completed
+ORD-00143,CUST-0524,2025-01-04,Semarang,Offline Store,Completed
+ORD-00144,CUST-0268,2025-05-22,Semarang,Offline Store,Completed
+ORD-00145,CUST-0698,2025-06-13,Bandung,Website,Completed
+ORD-00146,CUST-0352,2025-04-08,Semarang,Marketplace,Completed
+ORD-00147,CUST-0743,2025-05-13,Denpasar,Social Commerce,Completed
+ORD-00148,CUST-0267,2025-07-10,Makassar,Offline Store,Completed
+ORD-00149,CUST-0595,2025-10-26,Makassar,Website,Completed
+ORD-00150,CUST-0056,2025-07-31,Denpasar,Marketplace,Completed
+ORD-00151,CUST-0798,2025-04-03,Jakarta,Reseller,Completed
+ORD-00152,CUST-0780,2025-04-18,Denpasar,Marketplace,Cancelled
+ORD-00153,CUST-0414,2025-08-08,Medan,Reseller,Completed
+ORD-00154,CUST-0015,2025-07-11,Surabaya,Social Commerce,Completed
+ORD-00155,CUST-0232,2025-05-08,Semarang,Offline Store,Completed
+ORD-00156,CUST-0047,2025-02-03,Surabaya,Offline Store,Completed
+ORD-00157,CUST-0020,2025-07-26,Bandung,Marketplace,Completed
+ORD-00158,CUST-0729,2025-07-07,Semarang,Website,Completed
+ORD-00159,CUST-0050,2025-01-11,Semarang,Website,Completed
+ORD-00160,CUST-0431,2025-06-04,Semarang,Website,Completed
+ORD-00161,CUST-0290,2025-03-02,Jakarta,Website,Completed
+ORD-00162,CUST-0420,2025-12-27,Surabaya,Marketplace,Completed
+ORD-00163,CUST-0153,2025-09-10,Jakarta,Social Commerce,Completed
+ORD-00164,CUST-0304,2025-08-22,Surabaya,Reseller,Completed
+ORD-00165,CUST-0694,2025-07-04,Surabaya,Reseller,Completed
+ORD-00166,CUST-0680,2025-03-12,Semarang,Marketplace,Completed
+ORD-00167,CUST-0410,2025-07-25,Medan,Offline Store,Completed
+ORD-00168,CUST-0583,2025-09-05,Semarang,Reseller,Completed
+ORD-00169,CUST-0065,2025-01-24,Surabaya,Offline Store,Completed
+ORD-00170,CUST-0098,2025-11-13,Medan,Marketplace,Completed
+ORD-00171,CUST-0161,2025-11-26,Makassar,Reseller,Completed
+ORD-00172,CUST-0520,2025-01-26,Bandung,Social Commerce,Completed
+ORD-00173,CUST-0019,2025-12-01,Jakarta,Reseller,Completed
+ORD-00174,CUST-0619,2025-02-16,Makassar,Offline Store,Completed
+ORD-00175,CUST-0466,2025-04-25,Surabaya,Social Commerce,Cancelled
+ORD-00176,CUST-0299,2025-11-21,Makassar,Social Commerce,Completed
+ORD-00177,CUST-0735,2025-03-13,Semarang,Reseller,Completed
+ORD-00178,CUST-0111,2025-06-23,Denpasar,Reseller,Completed
+ORD-00179,CUST-0604,2025-12-04,Makassar,Marketplace,Completed
+ORD-00180,CUST-0444,2025-10-11,Denpasar,Social Commerce,Completed
+ORD-00181,CUST-0674,2025-07-18,Makassar,Social Commerce,Completed
+ORD-00182,CUST-0617,2025-07-31,Semarang,Social Commerce,Completed
+ORD-00183,CUST-0704,2025-05-29,Surabaya,Marketplace,Completed
+ORD-00184,CUST-0691,2025-08-02,Semarang,Social Commerce,Completed
+ORD-00185,CUST-0700,2025-05-27,Surabaya,Marketplace,Completed
+ORD-00186,CUST-0230,2025-10-15,Semarang,Social Commerce,Completed
+ORD-00187,CUST-0397,2025-07-15,Medan,Offline Store,Completed
+ORD-00188,CUST-0636,2025-04-14,denpasar,Reseller,Completed
+ORD-00189,CUST-0460,2025-05-31,Bandung,Website,Completed
+ORD-00190,CUST-0570,2025-05-23,Surabaya,Marketplace,Completed
+ORD-00191,CUST-0793,2025-01-27,Semarang,Social Commerce,Completed
+ORD-00192,CUST-0426,2025-03-23,Makassar,Social Commerce,Completed
+ORD-00193,CUST-0340,2025-12-06,Surabaya,Offline Store,Completed
+ORD-00194,CUST-0118,2025-01-05,Semarang,Offline Store,Completed
+ORD-00195,CUST-0391,2025-06-14,Denpasar,Website,Completed
+ORD-00196,CUST-0045,2025-09-07,Surabaya,Marketplace,Completed
+ORD-00197,CUST-0008,2025-10-01,Semarang,Website,Completed
+ORD-00198,CUST-0663,2025-08-11,Denpasar,Website,Completed
+ORD-00199,CUST-0090,2025-01-20,Jakarta,Website,Completed
+ORD-00200,CUST-0444,2025-07-27,Surabaya,Website,Completed
+ORD-00201,CUST-0065,2025-11-13,Denpasar,Social Commerce,Completed
+ORD-00202,CUST-0703,2025-05-29,Surabaya,Social Commerce,Completed
+ORD-00203,CUST-0140,2025-04-23,Semarang,Reseller,Completed
+ORD-00204,CUST-0145,2025-10-12,Jakarta,Website,Completed
+ORD-00205,CUST-0146,2025-09-20,Bandung,Marketplace,Completed
+ORD-00206,CUST-0563,2025-11-27,Jakarta,Offline Store,Completed
+ORD-00207,CUST-0241,2025-12-02,Jakarta,Offline Store,Cancelled
+ORD-00208,CUST-0337,2025-08-19,Makassar,Offline Store,Cancelled
+ORD-00209,CUST-0321,2025-01-03,Bandung,Marketplace,Completed
+ORD-00210,CUST-0499,2025-06-06,Makassar,Website,Completed
+ORD-00211,CUST-0270,2025-04-11,Semarang,Website,Completed
+ORD-00212,CUST-0593,2025-10-25,Medan,Social Commerce,Completed
+ORD-00213,CUST-0484,2025-10-04,Semarang,Marketplace,Completed
+ORD-00214,CUST-0679,2025-01-06,Bandung,Social Commerce,Completed
+ORD-00215,CUST-0754,2025-03-16,Semarang,Reseller,Completed
+ORD-00216,CUST-0271,2025-02-02,Surabaya,Marketplace,Completed
+ORD-00217,CUST-0665,2025-01-21,Surabaya,Website,Completed
+ORD-00218,CUST-0602,2025-07-07,Semarang,Website,Completed
+ORD-00219,CUST-0514,2025-01-04,Bandung,Reseller,Completed
+ORD-00220,CUST-0162,2025/04/06,Surabaya,Social Commerce,Completed
+ORD-00221,CUST-0491,2025-09-03,Bandung,Social Commerce,Completed
+ORD-00222,CUST-0058,2025-03-17,Bandung,Offline Store,Completed
+ORD-00223,CUST-0494,2025-08-30,Bandung,Marketplace,Completed
+ORD-00224,CUST-0742,2025-03-27,Semarang,Offline Store,Completed
+ORD-00225,CUST-0112,2025-03-09,Jakarta,Marketplace,Completed
+ORD-00226,CUST-0676,2025-09-04,Bandung,Social Commerce,Completed
+ORD-00227,CUST-0535,2025-08-09,Medan,Offline Store,Completed
+ORD-00228,CUST-0489,2025-05-11,Denpasar,Marketplace,Completed
+ORD-00229,CUST-0536,2025-10-23,Jakarta,Social Commerce,Completed
+ORD-00230,CUST-0549,2025-05-14,Medan,Social Commerce,Completed
+ORD-00231,CUST-0569,2025-10-14,Medan,Offline Store,Completed
+ORD-00232,CUST-0717,2025-08-17,Bandung,Website,Completed
+ORD-00233,CUST-0483,2025-03-16,Makassar,Reseller,Completed
+ORD-00234,CUST-0624,2025-02-10,Jakarta,Reseller,Completed
+ORD-00235,CUST-0673,2025-04-14,Denpasar,Social Commerce,Completed
+ORD-00236,CUST-0174,2025-11-11,Semarang,Website,Completed
+ORD-00237,CUST-0686,2025-06-30,Medan,Reseller,Cancelled
+ORD-00238,CUST-0292,2025-10-09,Semarang,Social Commerce,Cancelled
+ORD-00239,CUST-0180,2025-05-14,Medan,Social Commerce,Completed
+ORD-00240,CUST-0526,2025-03-01,Surabaya,Social Commerce,Cancelled
+ORD-00241,CUST-0472,2025-12-15,Makassar,Website,Completed
+ORD-00242,CUST-0226,2025-11-21,Semarang,Marketplace,Completed
+ORD-00243,CUST-0078,2025-06-25,Makassar,Marketplace,Completed
+ORD-00244,CUST-0241,2025-04-13,Semarang,Marketplace,Completed
+ORD-00245,CUST-0123,2025-02-24,Jakarta,Reseller,Cancelled
+ORD-00246,CUST-0381,2025-09-04,Makassar,Offline Store,Completed
+ORD-00247,CUST-0539,2025-01-28,Denpasar,Reseller,Completed
+ORD-00248,CUST-0795,2025-12-18,Bandung,Reseller,Completed
+ORD-00249,CUST-0192,2025-05-13,Makassar,Offline Store,Completed
+ORD-00250,CUST-0771,2025-12-25,Surabaya,Offline Store,Completed
+ORD-00251,CUST-0242,2025-05-19,Makassar,Reseller,Completed
+ORD-00252,CUST-0512,2025-08-04,Bandung,Social Commerce,Completed
+ORD-00253,CUST-0062,2025-03-25,Bandung,Offline Store,Completed
+ORD-00254,CUST-0370,2025-05-14,Surabaya,Social Commerce,Completed
+ORD-00255,CUST-0666,2025-10-22,Semarang,Social Commerce,Completed
+ORD-00256,CUST-0294,2025-11-11,Medan,Marketplace,Completed
+ORD-00257,CUST-0322,2025-04-27,Surabaya,Offline Store,Completed
+ORD-00258,CUST-0678,2025-05-01,Surabaya,Website,Completed
+ORD-00259,CUST-0027,2025-01-28,Denpasar,Reseller,Completed
+ORD-00260,CUST-0087,2025-03-21,Semarang,Reseller,Completed
+ORD-00261,CUST-0540,2025-03-09,Denpasar,Marketplace,Completed
+ORD-00262,CUST-0479,2025-09-01,Denpasar,Social Commerce,Completed
+ORD-00263,CUST-0656,2025-09-26,Semarang,Social Commerce,Completed
+ORD-00264,CUST-0311,2025-03-21,Jakarta,Website,Completed
+ORD-00265,CUST-0774,2025-09-09,Medan,Offline Store,Completed
+ORD-00266,CUST-0733,2025-03-25,Semarang,Reseller,Completed
+ORD-00267,CUST-0711,2025-11-10,Semarang,Offline Store,Completed
+ORD-00268,CUST-0464,2025-11-13,Surabaya,Social Commerce,Completed
+ORD-00269,CUST-0105,2025-04-06,Surabaya,Offline Store,Completed
+ORD-00270,CUST-0475,2025-07-10,Semarang,Website,Completed
+ORD-00271,CUST-0795,2025-05-17,Medan,Website,Completed
+ORD-00272,CUST-0204,2025-01-18,Medan,Website,Completed
+ORD-00273,CUST-0746,2025-11-19,Jakarta,Social Commerce,Completed
+ORD-00274,CUST-0204,2025-06-02,Surabaya,Website,Completed
+ORD-00275,CUST-0016,2025-06-16,Bandung,Offline Store,Cancelled
+ORD-00276,CUST-0596,2025-01-22,Denpasar,Reseller,Cancelled
+ORD-00277,CUST-0634,2025-12-18,Surabaya,Website,Completed
+ORD-00278,CUST-0661,2025-10-13,Denpasar,Offline Store,Completed
+ORD-00279,CUST-0041,2025-05-09,Medan,Reseller,Completed
+ORD-00280,CUST-0282,2025-08-28,Denpasar,Social Commerce,Completed
+ORD-00281,CUST-0376,2025-10-05,Medan,Website,Completed
+ORD-00282,CUST-0195,2025/07/18,Makassar,Reseller,Completed
+ORD-00283,CUST-0099,2025-02-26,Makassar,Website,Completed
+ORD-00284,CUST-0033,2025-02-20,makassar,Reseller,Completed
+ORD-00285,CUST-0082,2025-09-09,Medan,Website,Completed
+ORD-00286,CUST-0100,2025-09-23,Jakarta,Marketplace,Completed
+ORD-00287,CUST-0785,2025-02-24,Semarang,Social Commerce,Completed
+ORD-00288,CUST-0615,2025-10-01,Medan,Offline Store,Completed
+ORD-00289,CUST-0220,2025-10-07,Medan,Social Commerce,Completed
+ORD-00290,CUST-0139,2025-09-23,Surabaya,Website,Completed
+ORD-00291,CUST-0524,2025-10-11,Makassar,Social Commerce,Cancelled
+ORD-00292,CUST-0376,2025-05-16,Makassar,Marketplace,Completed
+ORD-00293,CUST-0495,2025-06-16,Bandung,Reseller,Cancelled
+ORD-00294,CUST-0749,2025-01-20,Denpasar,Social Commerce,Completed
+ORD-00295,CUST-0445,2025-06-28,Medan,Website,Completed
+ORD-00296,CUST-0313,2025-01-28,Makassar,Website,Completed
+ORD-00297,CUST-0750,2025-12-11,Medan,Reseller,Cancelled
+ORD-00298,CUST-0152,2025-07-21,Bandung,Offline Store,Completed
+ORD-00299,CUST-0493,2025-03-11,Makassar,Marketplace,Completed
+ORD-00300,CUST-0702,2025-06-15,Makassar,Website,Completed
+ORD-00301,CUST-0632,2025-06-29,Denpasar,Reseller,Cancelled
+ORD-00302,CUST-0776,2025-03-21,Semarang,Website,Completed
+ORD-00303,CUST-0015,2025-05-28,Surabaya,Website,Completed
+ORD-00304,CUST-0638,2025-09-05,Semarang,Marketplace,Completed
+ORD-00305,CUST-0477,2025-01-28,Semarang,Website,Completed
+ORD-00306,CUST-0727,2025-09-18,Jakarta,Offline Store,Completed
+ORD-00307,CUST-0575,2025-08-23,Semarang,Website,Completed
+ORD-00308,CUST-0019,2025-03-22,Surabaya,Offline Store,Completed
+ORD-00309,CUST-0231,2025-05-24,Bandung,Offline Store,Completed
+ORD-00310,CUST-0703,2025-11-17,Bandung,Reseller,Completed
+ORD-00311,CUST-0212,2025-03-09,Semarang,Marketplace,Cancelled
+ORD-00312,CUST-0789,2025-08-09,Bandung,Social Commerce,Completed
+ORD-00313,CUST-0784,2025-01-16,Surabaya,Reseller,Completed
+ORD-00314,CUST-0190,2025-03-09,Jakarta,Social Commerce,Cancelled
+ORD-00315,CUST-0082,2025-07-03,Semarang,Reseller,Completed
+ORD-00316,CUST-0783,2025-07-29,Jakarta,Offline Store,Completed
+ORD-00317,CUST-0450,2025-04-01,Denpasar,Social Commerce,Completed
+ORD-00318,CUST-0404,2025-06-10,Makassar,Social Commerce,Cancelled
+ORD-00319,CUST-0044,2025-08-22,Bandung,Social Commerce,Completed
+ORD-00320,CUST-0473,2025-05-27,Bandung,Reseller,Completed
+ORD-00321,CUST-0662,2025-08-26,Medan,Website,Completed
+ORD-00322,CUST-0139,2025-10-07,Medan,Reseller,Completed
+ORD-00323,CUST-0168,2025-12-31,Semarang,Website,Completed
+ORD-00324,CUST-0088,2025-07-05,Makassar,Reseller,Completed
+ORD-00325,CUST-0676,2025-10-17,Denpasar,Marketplace,Completed
+ORD-00326,CUST-0296,2025-08-17,Semarang,Marketplace,Completed
+ORD-00327,CUST-0510,2025-08-23,Denpasar,Reseller,Completed
+ORD-00328,CUST-0603,2025-04-22,Semarang,Reseller,Completed
+ORD-00329,CUST-0190,2025-01-26,Bandung,Website,Completed
+ORD-00330,CUST-0618,2025-10-23,Surabaya,Offline Store,Completed
+ORD-00331,CUST-0689,2025-03-24,Surabaya,Social Commerce,Cancelled
+ORD-00332,CUST-0331,2025-06-03,Surabaya,Reseller,Completed
+ORD-00333,CUST-0713,2025-04-18,Bandung,Social Commerce,Completed
+ORD-00334,CUST-0090,2025-09-28,Medan,Social Commerce,Completed
+ORD-00335,CUST-0510,2025-11-20,medan,Marketplace,Cancelled
+ORD-00336,CUST-0641,2025-08-27,Denpasar,Website,Completed
+ORD-00337,CUST-0070,2025-05-11,Surabaya,Offline Store,Completed
+ORD-00338,CUST-0030,2025-11-12,Denpasar,Marketplace,Completed
+ORD-00339,CUST-0472,2025-11-18,Denpasar,Social Commerce,Completed
+ORD-00340,CUST-0592,2025-04-17,Semarang,Offline Store,Completed
+ORD-00341,CUST-0385,2025-06-23,Semarang,Social Commerce,Completed
+ORD-00342,CUST-0244,2025-09-12,Surabaya,Reseller,Completed
+ORD-00343,CUST-0095,2025-04-14,Medan,Social Commerce,Completed
+ORD-00344,CUST-0136,2025-12-13,Bandung,Website,Completed
+ORD-00345,CUST-0534,2025-02-22,Denpasar,Offline Store,Completed
+ORD-00346,CUST-0688,2025-08-14,Jakarta,Offline Store,Completed
+ORD-00347,CUST-0212,2025-02-22,Makassar,Offline Store,Completed
+ORD-00348,CUST-0347,2025-11-10,Makassar,Reseller,Completed
+ORD-00349,CUST-0089,2025-01-28,Medan,Reseller,Completed
+ORD-00350,CUST-0096,2025-03-09,Denpasar,Reseller,Completed
+ORD-00351,CUST-0188,2025-07-20,Semarang,Offline Store,Completed
+ORD-00352,CUST-0131,2025-10-22,Makassar,Website,Completed
+ORD-00353,CUST-0310,2025-02-06,Makassar,Reseller,Completed
+ORD-00354,CUST-0446,2025-08-09,Makassar,Offline Store,Completed
+ORD-00355,CUST-0499,2025-10-21,Jakarta,Social Commerce,Cancelled
+ORD-00356,CUST-0336,2025-07-14,Medan,Website,Completed
+ORD-00357,CUST-0464,2025-03-18,Makassar,Offline Store,Completed
+ORD-00358,CUST-0009,2025-10-26,Makassar,Social Commerce,Completed
+ORD-00359,CUST-0574,2025-12-27,Denpasar,Offline Store,Completed
+ORD-00360,CUST-0416,2025-07-15,Medan,Reseller,Completed
+ORD-00361,CUST-0369,2025-07-16,Denpasar,Reseller,Completed
+ORD-00362,CUST-0674,2025-09-07,Medan,Marketplace,Completed
+ORD-00363,CUST-0185,2025-11-16,Medan,Social Commerce,Completed
+ORD-00364,CUST-0276,2025-09-14,Medan,Social Commerce,Cancelled
+ORD-00365,CUST-0082,2025-12-20,Bandung,Social Commerce,Completed
+ORD-00366,CUST-0649,2025-12-17,Makassar,Social Commerce,Completed
+ORD-00367,CUST-0465,2025-08-29,Makassar,Reseller,Cancelled
+ORD-00368,CUST-0745,2025-06-05,Denpasar,Social Commerce,Completed
+ORD-00369,CUST-0587,2025-03-28,Jakarta,Offline Store,Cancelled
+ORD-00370,CUST-0518,2025-03-06,Jakarta,Offline Store,Completed
+ORD-00371,CUST-0619,2025-02-27,Bandung,Social Commerce,Completed
+ORD-00372,CUST-0158,2025-11-01,Denpasar,Reseller,Completed
+ORD-00373,CUST-0774,2025-05-16,Denpasar,Website,Completed
+ORD-00374,CUST-0240,2025-09-30,Medan,Reseller,Completed
+ORD-00375,CUST-0700,2025-09-29,Jakarta,Website,Completed
+ORD-00376,CUST-0599,2025-12-02,Medan,Reseller,Completed
+ORD-00377,CUST-0011,2025-10-08,Semarang,Website,Completed
+ORD-00378,CUST-0702,2025-02-23,medan,Offline Store,Completed
+ORD-00379,CUST-0614,2025/04/22,Semarang,Website,Completed
+ORD-00380,CUST-0783,2025-12-03,Semarang,Social Commerce,Completed
+ORD-00381,CUST-0479,2025-05-31,Semarang,Website,Completed
+ORD-00382,CUST-0392,2025-02-01,Medan,Offline Store,Completed
+ORD-00383,CUST-0504,2025-11-27,Jakarta,Marketplace,Completed
+ORD-00384,CUST-0796,2025-05-09,Medan,Website,Completed
+ORD-00385,CUST-0156,2025-05-17,Semarang,Offline Store,Completed
+ORD-00386,CUST-0447,2025-09-02,Medan,Website,Completed
+ORD-00387,CUST-0549,2025-10-18,Surabaya,Offline Store,Completed
+ORD-00388,CUST-0181,2025-04-14,Makassar,Website,Completed
+ORD-00389,CUST-0499,2025-07-03,Jakarta,Reseller,Completed
+ORD-00390,CUST-0399,2025-09-08,Jakarta,Social Commerce,Completed
+ORD-00391,CUST-0684,2025-12-01,Makassar,Reseller,Completed
+ORD-00392,CUST-0501,2025-03-14,Semarang,Website,Completed
+ORD-00393,CUST-0015,2025-03-08,Bandung,Website,Completed
+ORD-00394,CUST-0066,2025-10-30,Denpasar,Website,Completed
+ORD-00395,CUST-0590,2025-12-17,Makassar,Marketplace,Completed
+ORD-00396,CUST-0281,2025-03-03,Bandung,Reseller,Completed
+ORD-00397,CUST-0386,2025-11-10,denpasar,Marketplace,Completed
+ORD-00398,CUST-0130,2025-12-21,Bandung,Marketplace,Completed
+ORD-00399,CUST-0309,2025-11-18,Surabaya,Reseller,Completed
+ORD-00400,CUST-0520,2025-10-04,Bandung,Reseller,Completed
+ORD-00401,CUST-0045,2025-12-10,Jakarta,Offline Store,Completed
+ORD-00402,CUST-0759,2025-02-23,Jakarta,Social Commerce,Completed
+ORD-00403,CUST-0607,2025-08-16,Makassar,Offline Store,Completed
+ORD-00404,CUST-0101,2025-04-27,Bandung,Reseller,Completed
+ORD-00405,CUST-0383,2025-07-18,Bandung,Reseller,Completed
+ORD-00406,CUST-0114,2025-03-11,Denpasar,Reseller,Completed
+ORD-00407,CUST-0422,2025-02-14,Denpasar,Social Commerce,Completed
+ORD-00408,CUST-0754,2025-08-08,Denpasar,Marketplace,Completed
+ORD-00409,CUST-0482,2025-01-21,Semarang,Social Commerce,Completed
+ORD-00410,CUST-0224,2025-07-28,Bandung,Offline Store,Completed
+ORD-00411,CUST-0721,2025-03-24,Medan,Social Commerce,Cancelled
+ORD-00412,CUST-0416,2025-12-27,Bandung,Offline Store,Completed
+ORD-00413,CUST-0341,2025-12-20,Makassar,Website,Completed
+ORD-00414,CUST-0528,2025-01-29,Semarang,Offline Store,Completed
+ORD-00415,CUST-0042,2025-11-13,Surabaya,Offline Store,Completed
+ORD-00416,CUST-0343,2025-03-12,Bandung,Social Commerce,Completed
+ORD-00417,CUST-0056,2025-05-22,Jakarta,Offline Store,Completed
+ORD-00418,CUST-0690,2025-07-08,Semarang,Website,Completed
+ORD-00419,CUST-0155,2025-09-12,Denpasar,Marketplace,Completed
+ORD-00420,CUST-0136,2025-10-05,Medan,Offline Store,Completed
+ORD-00421,CUST-0352,2025-10-24,Semarang,Offline Store,Completed
+ORD-00422,CUST-0362,2025-03-17,Surabaya,Reseller,Completed
+ORD-00423,CUST-0683,2025-12-21,Denpasar,Marketplace,Completed
+ORD-00424,CUST-0379,2025-05-14,Bandung,Marketplace,Completed
+ORD-00425,CUST-0382,2025-03-17,Medan,Social Commerce,Completed
+ORD-00426,CUST-0520,2025-10-07,Surabaya,Offline Store,Completed
+ORD-00427,CUST-0750,2025-02-27,Medan,Website,Completed
+ORD-00428,CUST-0226,2025-11-13,Medan,Offline Store,Completed
+ORD-00429,CUST-0086,2025-01-12,Makassar,Reseller,Completed
+ORD-00430,CUST-0379,2025-08-07,Medan,Offline Store,Completed
+ORD-00431,CUST-0454,2025-08-01,Surabaya,Marketplace,Completed
+ORD-00432,CUST-0091,2025-07-12,Jakarta,Reseller,Completed
+ORD-00433,CUST-0310,2025-01-22,Denpasar,Social Commerce,Completed
+ORD-00434,CUST-0670,2025-03-05,Semarang,Offline Store,Completed
+ORD-00435,CUST-0505,2025-05-22,Jakarta,Social Commerce,Completed
+ORD-00436,CUST-0266,2025-01-09,Bandung,Social Commerce,Completed
+ORD-00437,CUST-0280,2025-01-28,Surabaya,Reseller,Completed
+ORD-00438,CUST-0079,2025-11-24,Makassar,Marketplace,Completed
+ORD-00439,CUST-0324,2025-06-15,Denpasar,Offline Store,Completed
+ORD-00440,CUST-0798,2025-07-10,Medan,Reseller,Completed
+ORD-00441,CUST-0629,2025-10-14,Semarang,Social Commerce,Completed
+ORD-00442,CUST-0135,2025-03-01,Jakarta,Reseller,Completed
+ORD-00443,CUST-0312,2025-12-30,Jakarta,Website,Completed
+ORD-00444,CUST-0134,2025-04-18,Jakarta,Reseller,Completed
+ORD-00445,CUST-0202,2025-01-22,Jakarta,Website,Completed
+ORD-00446,CUST-0068,2025-01-23,Surabaya,Website,Completed
+ORD-00447,CUST-0190,2025-04-13,Semarang,Offline Store,Completed
+ORD-00448,CUST-0357,2025-10-24,Surabaya,Marketplace,Completed
+ORD-00449,CUST-0223,2025-09-28,Semarang,Marketplace,Completed
+ORD-00450,CUST-0725,2025-09-16,Medan,Offline Store,Cancelled
+ORD-00451,CUST-0220,2025-08-06,Makassar,Marketplace,Completed
+ORD-00452,CUST-0113,2025-08-27,Makassar,Marketplace,Completed
+ORD-00453,CUST-0291,2025-07-17,Medan,Social Commerce,Completed
+ORD-00454,CUST-0504,2025-12-12,Semarang,Website,Completed
+ORD-00455,CUST-0067,2025-03-28,Surabaya,Marketplace,Completed
+ORD-00456,CUST-0286,2025-09-13,Denpasar,Social Commerce,Cancelled
+ORD-00457,CUST-0286,2025-09-19,Bandung,Reseller,Completed
+ORD-00458,CUST-0644,2025-04-29,Bandung,Website,Completed
+ORD-00459,CUST-0184,2025-01-14,Medan,Social Commerce,Completed
+ORD-00460,CUST-0786,2025-09-24,Medan,Reseller,Completed
+ORD-00461,CUST-0783,2025-01-10,Jakarta,Reseller,Completed
+ORD-00462,CUST-0504,2025-03-26,Medan,Marketplace,Completed
+ORD-00463,CUST-0161,2025-10-15,Makassar,Website,Completed
+ORD-00464,CUST-0029,2025-02-01,Makassar,Website,Completed
+ORD-00465,CUST-0366,2025-06-26,Medan,Offline Store,Completed
+ORD-00466,CUST-0068,2025-12-19,Denpasar,Offline Store,Completed
+ORD-00467,CUST-0432,2025-09-21,Surabaya,Website,Completed
+ORD-00468,CUST-0331,2025-07-19,Makassar,Website,Completed
+ORD-00469,CUST-0509,2025-06-22,Makassar,Offline Store,Completed
+ORD-00470,CUST-0049,2025-05-16,Surabaya,Social Commerce,Completed
+ORD-00471,CUST-0345,2025-10-31,Surabaya,Website,Cancelled
+ORD-00472,CUST-0425,2025-04-13,Medan,Offline Store,Cancelled
+ORD-00473,CUST-0275,2025-08-28,Semarang,Social Commerce,Cancelled
+ORD-00474,CUST-0784,2025-12-17,Surabaya,Reseller,Completed
+ORD-00475,CUST-0616,2025-12-18,Bandung,Reseller,Completed
+ORD-00476,CUST-0318,2025-05-06,Medan,Reseller,Completed
+ORD-00477,CUST-0660,2025-04-01,Denpasar,Website,Completed
+ORD-00478,CUST-0306,2025-11-05,Denpasar,Website,Completed
+ORD-00479,CUST-0124,2025-09-14,Makassar,Social Commerce,Completed
+ORD-00480,CUST-0767,2025-07-19,Semarang,Marketplace,Completed
+ORD-00481,CUST-0261,2025-07-29,Denpasar,Social Commerce,Completed
+ORD-00482,CUST-0487,2025-07-05,Semarang,Offline Store,Completed
+ORD-00483,CUST-0056,2025-12-06,Semarang,Marketplace,Completed
+ORD-00484,CUST-0309,2025-05-11,Jakarta,Marketplace,Completed
+ORD-00485,CUST-0281,2025-01-18,Denpasar,Website,Completed
+ORD-00486,CUST-0617,2025-08-04,Semarang,Social Commerce,Completed
+ORD-00487,CUST-0644,2025-04-13,Surabaya,Offline Store,Cancelled
+ORD-00488,CUST-0731,2025-09-22,Denpasar,Marketplace,Cancelled
+ORD-00489,CUST-0425,2025-02-13,Surabaya,Marketplace,Completed
+ORD-00490,CUST-0719,2025-05-15,Denpasar,Marketplace,Completed
+ORD-00491,CUST-0446,2025-09-27,Denpasar,Reseller,Completed
+ORD-00492,CUST-0273,2025-04-08,Surabaya,Reseller,Completed
+ORD-00493,CUST-0194,2025-12-13,Medan,Marketplace,Completed
+ORD-00494,CUST-0379,2025-05-08,Makassar,Reseller,Completed
+ORD-00495,CUST-0408,2025-12-21,Semarang,Marketplace,Completed
+ORD-00496,CUST-0687,2025-11-07,Denpasar,Social Commerce,Completed
+ORD-00497,CUST-0310,2025-07-15,Medan,Offline Store,Completed
+ORD-00498,CUST-0516,2025-03-28,Medan,Offline Store,Completed
+ORD-00499,CUST-0120,2025-05-14,Surabaya,Website,Completed
+ORD-00500,CUST-0755,2025-06-11,Medan,Marketplace,Completed
+ORD-00501,CUST-0119,2025-08-12,Medan,Website,Completed
+ORD-00502,CUST-0096,2025-06-28,bandung,Offline Store,Completed
+ORD-00503,CUST-0598,2025-04-19,Jakarta,Social Commerce,Cancelled
+ORD-00504,CUST-0337,2025-02-18,Jakarta,Offline Store,Completed
+ORD-00505,CUST-0276,2025-11-18,Makassar,Website,Completed
+ORD-00506,CUST-0750,2025-06-16,Semarang,Social Commerce,Completed
+ORD-00507,CUST-0561,2025-02-06,Makassar,Reseller,Completed
+ORD-00508,CUST-0771,2025-11-28,Semarang,Marketplace,Completed
+ORD-00509,CUST-0377,2025-02-19,Makassar,Marketplace,Completed
+ORD-00510,CUST-0437,2025-11-19,Jakarta,Website,Completed
+ORD-00511,CUST-0663,2025-11-19,Makassar,Website,Completed
+ORD-00512,CUST-0049,2025-10-19,Makassar,Website,Completed
+ORD-00513,CUST-0476,2025-02-18,Semarang,Social Commerce,Completed
+ORD-00514,CUST-0184,2025-08-25,Denpasar,Marketplace,Completed
+ORD-00515,CUST-0322,2025-06-02,Makassar,Reseller,Completed
+ORD-00516,CUST-0445,2025-02-24,Makassar,Website,Completed
+ORD-00517,CUST-0311,2025-09-07,Makassar,Social Commerce,Completed
+ORD-00518,CUST-0665,2025-09-04,Bandung,Marketplace,Completed
+ORD-00519,CUST-0120,2025-01-12,Bandung,Marketplace,Completed
+ORD-00520,CUST-0646,2025-02-22,Denpasar,Reseller,Completed
+ORD-00521,CUST-0695,2025-11-10,Denpasar,Reseller,Completed
+ORD-00522,CUST-0324,2025-10-23,Makassar,Website,Completed
+ORD-00523,CUST-0481,2025-04-09,Surabaya,Reseller,Completed
+ORD-00524,CUST-0135,2025-08-28,Surabaya,Reseller,Completed
+ORD-00525,CUST-0133,2025-09-05,Bandung,Marketplace,Completed
+ORD-00526,CUST-0163,2025-12-13,Bandung,Social Commerce,Completed
+ORD-00527,CUST-0233,2025-11-13,Jakarta,Social Commerce,Completed
+ORD-00528,CUST-0724,2025-02-23,Jakarta,Reseller,Completed
+ORD-00529,CUST-0576,2025-02-22,Jakarta,Social Commerce,Completed
+ORD-00530,CUST-0726,2025-05-30,Medan,Social Commerce,Completed
+ORD-00531,CUST-0142,2025-06-21,Jakarta,Marketplace,Completed
+ORD-00532,CUST-0370,2025-08-01,Semarang,Marketplace,Completed
+ORD-00533,CUST-0735,2025-01-06,Denpasar,Social Commerce,Completed
+ORD-00534,CUST-0445,2025-03-26,Jakarta,Reseller,Completed
+ORD-00535,CUST-0430,2025-06-01,Medan,Social Commerce,Completed
+ORD-00536,CUST-0211,2025-11-26,Makassar,Social Commerce,Cancelled
+ORD-00537,CUST-0533,2025-03-06,Makassar,Offline Store,Completed
+ORD-00538,CUST-0349,2025-09-24,Denpasar,Marketplace,Completed
+ORD-00539,CUST-0793,2025-05-04,Surabaya,Reseller,Completed
+ORD-00540,CUST-0643,2025-05-13,Makassar,Offline Store,Completed
+ORD-00541,CUST-0306,2025-08-18,Makassar,Website,Completed
+ORD-00542,CUST-0359,2025-04-30,Surabaya,Offline Store,Cancelled
+ORD-00543,CUST-0529,2025-06-17,Makassar,Marketplace,Completed
+ORD-00544,CUST-0080,2025-08-17,Surabaya,Social Commerce,Completed
+ORD-00545,CUST-0131,2025-09-16,Medan,Reseller,Completed
+ORD-00546,CUST-0034,2025-08-31,Semarang,Marketplace,Completed
+ORD-00547,CUST-0157,2025-09-25,Jakarta,Offline Store,Completed
+ORD-00548,CUST-0291,2025-06-06,Bandung,Marketplace,Completed
+ORD-00549,CUST-0046,2025-02-04,Medan,Reseller,Cancelled
+ORD-00550,CUST-0652,2025-09-16,Medan,Reseller,Completed
+ORD-00551,CUST-0397,2025-07-29,Bandung,Reseller,Completed
+ORD-00552,CUST-0662,2025-05-23,Jakarta,Marketplace,Completed
+ORD-00553,CUST-0776,2025-10-23,Jakarta,Social Commerce,Completed
+ORD-00554,CUST-0185,2025-09-30,Jakarta,Offline Store,Completed
+ORD-00555,CUST-0412,2025-06-14,Makassar,Website,Completed
+ORD-00556,CUST-0025,2025-08-01,Denpasar,Social Commerce,Completed
+ORD-00557,CUST-0418,2025-06-07,Semarang,Marketplace,Completed
+ORD-00558,CUST-0332,2025-07-31,Surabaya,Reseller,Completed
+ORD-00559,CUST-0243,2025-10-28,Medan,Social Commerce,Completed
+ORD-00560,CUST-0020,2025-04-30,Surabaya,Social Commerce,Cancelled
+ORD-00561,CUST-0312,2025-03-06,Makassar,Reseller,Completed
+ORD-00562,CUST-0383,2025-03-14,Makassar,Marketplace,Completed
+ORD-00563,CUST-0613,2025-05-20,Surabaya,Reseller,Completed
+ORD-00564,CUST-0577,2025-10-01,Jakarta,Offline Store,Completed
+ORD-00565,CUST-0651,2025-06-25,Surabaya,Reseller,Completed
+ORD-00566,CUST-0017,2025-06-18,Semarang,Marketplace,Completed
+ORD-00567,CUST-0665,2025-02-11,Semarang,Website,Completed
+ORD-00568,CUST-0362,2025-03-05,Denpasar,Reseller,Cancelled
+ORD-00569,CUST-0227,2025-01-05,Semarang,Website,Completed
+ORD-00570,CUST-0038,2025-07-05,Surabaya,Reseller,Cancelled
+ORD-00571,CUST-0513,2025-10-19,Medan,Marketplace,Completed
+ORD-00572,CUST-0180,2025-10-17,Jakarta,Social Commerce,Completed
+ORD-00573,CUST-0536,2025-04-27,Semarang,Offline Store,Completed
+ORD-00574,CUST-0259,2025-11-11,Semarang,Social Commerce,Completed
+ORD-00575,CUST-0054,2025-11-29,Denpasar,Offline Store,Completed
+ORD-00576,CUST-0431,2025-05-23,Makassar,Reseller,Completed
+ORD-00577,CUST-0586,2025-02-11,Denpasar,Website,Completed
+ORD-00578,CUST-0025,2025-08-10,Makassar,Offline Store,Completed
+ORD-00579,CUST-0243,2025-09-24,Jakarta,Social Commerce,Cancelled
+ORD-00580,CUST-0131,2025-02-03,Jakarta,Reseller,Completed
+ORD-00581,CUST-0391,2025-05-31,Medan,Website,Cancelled
+ORD-00582,CUST-0667,2025-06-23,Semarang,Website,Completed
+ORD-00583,CUST-0587,2025-04-10,Bandung,Social Commerce,Completed
+ORD-00584,CUST-0131,2025-01-31,surabaya,Social Commerce,Completed
+ORD-00585,CUST-0299,2025-06-25,Surabaya,Website,Completed
+ORD-00586,CUST-0201,2025-06-26,Bandung,Marketplace,Completed
+ORD-00587,CUST-0580,2025-10-24,Surabaya,Social Commerce,Completed
+ORD-00588,CUST-0639,2025-08-27,Bandung,Marketplace,Completed
+ORD-00589,CUST-0031,2025-07-03,Makassar,Website,Completed
+ORD-00590,CUST-0179,2025-05-26,Bandung,Offline Store,Completed
+ORD-00591,CUST-0141,2025-12-13,Medan,Website,Completed
+ORD-00592,CUST-0540,2025-03-29,Denpasar,Social Commerce,Completed
+ORD-00593,CUST-0197,2025-04-08,Makassar,Reseller,Completed
+ORD-00594,CUST-0153,2025-05-31,Surabaya,Marketplace,Completed
+ORD-00595,CUST-0067,2025-11-11,Bandung,Social Commerce,Completed
+ORD-00596,CUST-0733,2025-09-05,Medan,Reseller,Completed
+ORD-00597,CUST-0387,2025-08-06,Makassar,Marketplace,Completed
+ORD-00598,CUST-0598,2025-04-28,Jakarta,Reseller,Completed
+ORD-00599,CUST-0026,2025-07-15,Bandung,Reseller,Completed
+ORD-00600,CUST-0284,2025-02-10,Bandung,Website,Completed
+ORD-00601,CUST-0342,2025-04-13,Bandung,Offline Store,Completed
+ORD-00602,CUST-0268,2025-10-06,Jakarta,Offline Store,Completed
+ORD-00603,CUST-0408,2025-03-18,Bandung,Marketplace,Completed
+ORD-00604,CUST-0428,2025-12-24,Bandung,Reseller,Completed
+ORD-00605,CUST-0313,2025-03-07,Semarang,Website,Completed
+ORD-00606,CUST-0334,2025-06-03,Makassar,Website,Cancelled
+ORD-00607,CUST-0645,2025-10-18,Denpasar,Social Commerce,Cancelled
+ORD-00608,CUST-0312,2025-11-24,Jakarta,Marketplace,Completed
+ORD-00609,CUST-0072,2025-04-12,Medan,Offline Store,Completed
+ORD-00610,CUST-0531,2025-07-08,Jakarta,Marketplace,Completed
+ORD-00611,CUST-0318,2025-04-16,Medan,Reseller,Completed
+ORD-00612,CUST-0457,2025-03-15,Jakarta,Reseller,Cancelled
+ORD-00613,CUST-0041,2025-10-22,Semarang,Website,Completed
+ORD-00614,CUST-0469,2025-08-10,Medan,Marketplace,Cancelled
+ORD-00615,CUST-0162,2025-05-03,Surabaya,Social Commerce,Completed
+ORD-00616,CUST-0506,2025-04-22,Medan,Social Commerce,Completed
+ORD-00617,CUST-0519,2025-04-17,Jakarta,Reseller,Completed
+ORD-00618,CUST-0391,2025-08-25,Surabaya,Reseller,Completed
+ORD-00619,CUST-0085,2025-02-04,Makassar,Marketplace,Completed
+ORD-00620,CUST-0182,2025-02-21,Surabaya,Website,Completed
+ORD-00621,CUST-0692,2025-01-18,Makassar,Marketplace,Completed
+ORD-00622,CUST-0734,2025-12-06,Semarang,Website,Completed
+ORD-00623,CUST-0245,2025-07-11,Bandung,Website,Completed
+ORD-00624,CUST-0046,2025-03-27,Medan,Social Commerce,Completed
+ORD-00625,CUST-0238,2025-03-03,Bandung,Website,Completed
+ORD-00626,CUST-0068,2025-04-23,Semarang,Offline Store,Cancelled
+ORD-00627,CUST-0583,2025-10-02,Bandung,Offline Store,Completed
+ORD-00628,CUST-0326,2025-12-19,Denpasar,Reseller,Completed
+ORD-00629,CUST-0602,2025-09-15,Semarang,Website,Completed
+ORD-00630,CUST-0756,2025-05-02,Medan,Marketplace,Cancelled
+ORD-00631,CUST-0304,2025-09-13,Bandung,Marketplace,Completed
+ORD-00632,CUST-0138,2025-06-18,Surabaya,Offline Store,Completed
+ORD-00633,CUST-0704,2025-05-08,Semarang,Marketplace,Cancelled
+ORD-00634,CUST-0210,2025-03-14,Bandung,Website,Completed
+ORD-00635,CUST-0169,2025-06-09,Semarang,Marketplace,Completed
+ORD-00636,CUST-0408,2025-07-04,Medan,Marketplace,Completed
+ORD-00637,CUST-0551,2025-11-01,Bandung,Social Commerce,Completed
+ORD-00638,CUST-0342,2025-02-06,Bandung,Reseller,Completed
+ORD-00639,CUST-0504,2025-07-11,Medan,Reseller,Completed
+ORD-00640,CUST-0580,2025-07-17,Bandung,Marketplace,Completed
+ORD-00641,CUST-0060,2025-12-23,Semarang,Reseller,Completed
+ORD-00642,CUST-0029,2025-12-13,Semarang,Marketplace,Completed
+ORD-00643,CUST-0394,2025-12-31,Medan,Social Commerce,Completed
+ORD-00644,CUST-0546,2025-09-14,Semarang,Reseller,Cancelled
+ORD-00645,CUST-0767,2025-05-18,Bandung,Reseller,Completed
+ORD-00646,CUST-0072,2025-02-19,Denpasar,Reseller,Completed
+ORD-00647,CUST-0515,2025-04-04,Jakarta,Reseller,Cancelled
+ORD-00648,CUST-0419,2025-05-13,Medan,Social Commerce,Completed
+ORD-00649,CUST-0351,2025-02-02,Jakarta,Social Commerce,Completed
+ORD-00650,CUST-0535,2025-04-19,Denpasar,Website,Completed
+ORD-00651,CUST-0246,2025-06-11,Surabaya,Reseller,Completed
+ORD-00652,CUST-0468,2025-01-02,Denpasar,Reseller,Completed
+ORD-00653,CUST-0717,2025-05-24,Denpasar,Marketplace,Completed
+ORD-00654,CUST-0369,2025-11-21,Denpasar,Website,Completed
+ORD-00655,CUST-0752,2025-02-21,Medan,Offline Store,Cancelled
+ORD-00656,CUST-0131,2025-01-17,Medan,Website,Completed
+ORD-00657,CUST-0109,2025-02-15,Medan,Website,Completed
+ORD-00658,CUST-0140,2025-12-07,Makassar,Reseller,Completed
+ORD-00659,CUST-0670,2025-07-15,Semarang,Social Commerce,Completed
+ORD-00660,CUST-0349,2025-02-15,Semarang,Social Commerce,Completed
+ORD-00661,CUST-0390,2025-06-10,Makassar,Website,Completed
+ORD-00662,CUST-0434,2025-07-18,Surabaya,Offline Store,Completed
+ORD-00663,CUST-0304,2025-03-16,Denpasar,Marketplace,Completed
+ORD-00664,CUST-0127,2025-12-19,Surabaya,Social Commerce,Completed
+ORD-00665,CUST-0734,2025-03-20,Bandung,Marketplace,Completed
+ORD-00666,CUST-0562,2025-01-12,Medan,Offline Store,Completed
+ORD-00667,CUST-0100,2025-07-21,Bandung,Offline Store,Cancelled
+ORD-00668,CUST-0168,2025-12-02,Makassar,Marketplace,Completed
+ORD-00669,CUST-0695,2025-02-22,Denpasar,Marketplace,Completed
+ORD-00670,CUST-0445,2025-10-31,Bandung,Reseller,Completed
+ORD-00671,CUST-0310,2025-09-08,Semarang,Social Commerce,Completed
+ORD-00672,CUST-0012,2025-07-08,Jakarta,Website,Completed
+ORD-00673,CUST-0231,2025-09-18,Jakarta,Social Commerce,Cancelled
+ORD-00674,CUST-0129,2025-10-20,Jakarta,Offline Store,Completed
+ORD-00675,CUST-0501,2025-09-29,jakarta,Social Commerce,Cancelled
+ORD-00676,CUST-0186,2025-03-02,Denpasar,Social Commerce,Completed
+ORD-00677,CUST-0041,2025-03-04,Bandung,Social Commerce,Completed
+ORD-00678,CUST-0519,2025-03-05,Surabaya,Offline Store,Completed
+ORD-00679,CUST-0301,2025-09-23,Semarang,Social Commerce,Completed
+ORD-00680,CUST-0552,2025-11-07,Makassar,Marketplace,Completed
+ORD-00681,CUST-0307,2025-03-14,Denpasar,Marketplace,Completed
+ORD-00682,CUST-0077,2025-08-05,Makassar,Offline Store,Completed
+ORD-00683,CUST-0645,2025-02-06,Semarang,Offline Store,Completed
+ORD-00684,CUST-0389,2025-08-11,Jakarta,Social Commerce,Completed
+ORD-00685,CUST-0701,2025-02-26,Makassar,Reseller,Completed
+ORD-00686,CUST-0387,2025-02-20,Bandung,Reseller,Completed
+ORD-00687,CUST-0603,2025-06-06,Denpasar,Reseller,Completed
+ORD-00688,CUST-0770,2025-06-12,Medan,Marketplace,Completed
+ORD-00689,CUST-0582,2025-07-13,Semarang,Offline Store,Completed
+ORD-00690,CUST-0480,2025-07-01,Makassar,Offline Store,Completed
+ORD-00691,CUST-0748,2025-02-09,Bandung,Website,Completed
+ORD-00692,CUST-0505,2025-10-11,Denpasar,Website,Completed
+ORD-00693,CUST-0128,2025-12-24,Medan,Website,Cancelled
+ORD-00694,CUST-0251,2025-06-26,Semarang,Social Commerce,Cancelled
+ORD-00695,CUST-0783,2025-12-12,Makassar,Marketplace,Completed
+ORD-00696,CUST-0053,2025-06-30,Medan,Reseller,Completed
+ORD-00697,CUST-0298,2025-03-02,Surabaya,Reseller,Completed
+ORD-00698,CUST-0037,2025-09-21,Medan,Social Commerce,Completed
+ORD-00699,CUST-0337,2025-08-24,Surabaya,Offline Store,Completed
+ORD-00700,CUST-0364,2025-07-25,Jakarta,Website,Completed
+ORD-00701,CUST-0482,2025-04-26,Medan,Offline Store,Completed
+ORD-00702,CUST-0363,2025-03-13,Semarang,Reseller,Completed
+ORD-00703,CUST-0033,2025-06-19,Bandung,Marketplace,Completed
+ORD-00704,CUST-0514,2025-07-24,Semarang,Reseller,Completed
+ORD-00705,CUST-0353,2025-03-21,Makassar,Website,Completed
+ORD-00706,CUST-0756,2025-11-02,Jakarta,Reseller,Completed
+ORD-00707,CUST-0192,2025-09-19,Bandung,Offline Store,Completed
+ORD-00708,CUST-0626,2025-09-15,Bandung,Marketplace,Cancelled
+ORD-00709,CUST-0150,2025-04-09,Medan,Website,Cancelled
+ORD-00710,CUST-0649,2025-12-25,Bandung,Marketplace,Completed
+ORD-00711,CUST-0429,2025-12-31,Bandung,Offline Store,Completed
+ORD-00712,CUST-0293,2025-04-19,Medan,Offline Store,Cancelled
+ORD-00713,CUST-0373,2025-09-09,Surabaya,Offline Store,Completed
+ORD-00714,CUST-0789,2025-10-10,Denpasar,Marketplace,Completed
+ORD-00715,CUST-0283,2025-11-29,Bandung,Social Commerce,Completed
+ORD-00716,CUST-0124,2025-11-05,Jakarta,Social Commerce,Completed
+ORD-00717,CUST-0309,2025-06-25,Semarang,Reseller,Completed
+ORD-00718,CUST-0778,2025-05-10,Denpasar,Social Commerce,Completed
+ORD-00719,CUST-0023,2025-09-15,Bandung,Social Commerce,Completed
+ORD-00720,CUST-0507,2025-07-23,Semarang,Social Commerce,Completed
+ORD-00721,CUST-0576,2025-07-16,Denpasar,Reseller,Completed
+ORD-00722,CUST-0467,2025-09-20,Makassar,Social Commerce,Completed
+ORD-00723,CUST-0244,2025-10-01,Surabaya,Website,Completed
+ORD-00724,CUST-0356,2025-11-29,Semarang,Social Commerce,Completed
+ORD-00725,CUST-0059,2025-06-16,Semarang,Website,Completed
+ORD-00726,CUST-0797,2025-12-03,Denpasar,Social Commerce,Completed
+ORD-00727,CUST-0645,2025-10-25,Denpasar,Reseller,Completed
+ORD-00728,CUST-0194,2025-04-01,Makassar,Reseller,Completed
+ORD-00729,CUST-0074,2025-03-15,Medan,Marketplace,Completed
+ORD-00730,CUST-0782,2025-01-07,Denpasar,Website,Completed
+ORD-00731,CUST-0010,2025-01-07,Denpasar,Website,Completed
+ORD-00732,CUST-0491,2025-06-19,Bandung,Marketplace,Completed
+ORD-00733,CUST-0426,2025-09-19,Bandung,Website,Completed
+ORD-00734,CUST-0362,2025-03-17,Semarang,Offline Store,Completed
+ORD-00735,CUST-0122,2025-06-20,Surabaya,Website,Completed
+ORD-00736,CUST-0436,2025-12-14,Bandung,Offline Store,Cancelled
+ORD-00737,CUST-0153,2025-01-02,Denpasar,Marketplace,Completed
+ORD-00738,CUST-0438,2025-10-23,Semarang,Offline Store,Completed
+ORD-00739,CUST-0362,2025-07-17,Surabaya,Reseller,Completed
+ORD-00740,CUST-0547,2025-10-03,Medan,Social Commerce,Completed
+ORD-00741,CUST-0796,2025-10-23,Semarang,Marketplace,Completed
+ORD-00742,CUST-0137,2025-08-31,Jakarta,Website,Completed
+ORD-00743,CUST-0058,2025-04-25,Semarang,Marketplace,Completed
+ORD-00744,CUST-0719,2025-01-28,Jakarta,Social Commerce,Completed
+ORD-00745,CUST-0784,2025-03-18,Bandung,Reseller,Completed
+ORD-00746,CUST-0160,2025-02-26,Jakarta,Website,Cancelled
+ORD-00747,CUST-0568,2025-08-21,Semarang,Offline Store,Cancelled
+ORD-00748,CUST-0411,2025-04-19,Makassar,Website,Completed
+ORD-00749,CUST-0169,2025-07-14,Jakarta,Offline Store,Completed
+ORD-00750,CUST-0029,2025-06-21,Bandung,Offline Store,Completed
+ORD-00751,CUST-0775,2025-01-06,Surabaya,Marketplace,Completed
+ORD-00752,CUST-0046,2025-10-17,Makassar,Reseller,Completed
+ORD-00753,CUST-0366,2025-01-05,Denpasar,Offline Store,Completed
+ORD-00754,CUST-0100,2025-12-12,Surabaya,Reseller,Completed
+ORD-00755,CUST-0392,2025-10-28,Medan,Social Commerce,Completed
+ORD-00756,CUST-0698,2025-04-21,Semarang,Marketplace,Completed
+ORD-00757,CUST-0397,2025-12-16,Bandung,Marketplace,Cancelled
+ORD-00758,CUST-0100,2025-09-12,Denpasar,Website,Completed
+ORD-00759,CUST-0287,2025-02-04,Makassar,Offline Store,Completed
+ORD-00760,CUST-0265,2025-08-24,Medan,Offline Store,Completed
+ORD-00761,CUST-0419,2025-07-25,Denpasar,Social Commerce,Completed
+ORD-00762,CUST-0636,2025-01-22,Semarang,Website,Completed
+ORD-00763,CUST-0163,2025-07-12,Makassar,Reseller,Completed
+ORD-00764,CUST-0658,2025-08-28,Makassar,Reseller,Completed
+ORD-00765,CUST-0787,2025-07-23,Medan,Marketplace,Completed
+ORD-00766,CUST-0286,2025-02-28,Medan,Website,Completed
+ORD-00767,CUST-0616,2025-01-17,Denpasar,Reseller,Completed
+ORD-00768,CUST-0259,2025-05-19,Semarang,Marketplace,Completed
+ORD-00769,CUST-0430,2025-08-20,Makassar,Marketplace,Completed
+ORD-00770,CUST-0358,2025-04-12,Medan,Reseller,Completed
+ORD-00771,CUST-0575,2025-01-06,Denpasar,Social Commerce,Completed
+ORD-00772,CUST-0149,2025-11-12,Surabaya,Offline Store,Completed
+ORD-00773,CUST-0270,2025-07-28,Makassar,Website,Completed
+ORD-00774,CUST-0764,2025-04-22,Bandung,Reseller,Completed
+ORD-00775,CUST-0591,2025-12-14,Jakarta,Offline Store,Completed
+ORD-00776,CUST-0717,2025-03-05,Medan,Reseller,Completed
+ORD-00777,CUST-0610,2025-10-11,Bandung,Social Commerce,Completed
+ORD-00778,CUST-0666,2025-02-15,Jakarta,Social Commerce,Completed
+ORD-00779,CUST-0103,2025-10-06,Semarang,Reseller,Completed
+ORD-00780,CUST-0229,2025-04-19,Denpasar,Reseller,Completed
+ORD-00781,CUST-0230,2025-07-11,Makassar,Offline Store,Completed
+ORD-00782,CUST-0384,2025-03-20,Denpasar,Social Commerce,Cancelled
+ORD-00783,CUST-0403,2025-11-26,Denpasar,Website,Cancelled
+ORD-00784,CUST-0130,2025-12-30,Makassar,Website,Cancelled
+ORD-00785,CUST-0789,2025-11-18,Makassar,Marketplace,Completed
+ORD-00786,CUST-0465,2025-03-08,Semarang,Offline Store,Completed
+ORD-00787,CUST-0789,2025-07-13,Surabaya,Website,Completed
+ORD-00788,CUST-0594,2025-11-23,Denpasar,Website,Completed
+ORD-00789,CUST-0104,2025-07-20,Medan,Website,Completed
+ORD-00790,CUST-0704,2025-04-18,Medan,Reseller,Completed
+ORD-00791,CUST-0496,2025-06-27,Makassar,Social Commerce,Completed
+ORD-00792,CUST-0125,2025-05-11,Bandung,Social Commerce,Completed
+ORD-00793,CUST-0374,2025-04-21,Jakarta,Marketplace,Completed
+ORD-00794,CUST-0095,2025-04-13,Surabaya,Social Commerce,Completed
+ORD-00795,CUST-0106,2025-07-21,Makassar,Social Commerce,Completed
+ORD-00796,CUST-0766,2025-11-02,Surabaya,Offline Store,Cancelled
+ORD-00797,CUST-0581,2025-04-13,Surabaya,Offline Store,Completed
+ORD-00798,CUST-0118,2025-01-16,Bandung,Offline Store,Completed
+ORD-00799,CUST-0149,2025-07-10,Denpasar,Offline Store,Completed
+ORD-00800,CUST-0219,2025-06-18,Medan,Social Commerce,Completed
+ORD-00801,CUST-0223,2025-09-27,Jakarta,Social Commerce,Completed
+ORD-00802,CUST-0775,2025-12-16,Medan,Offline Store,Completed
+ORD-00803,CUST-0123,2025-08-04,Jakarta,Reseller,Completed
+ORD-00804,CUST-0473,2025-01-03,Surabaya,Marketplace,Completed
+ORD-00805,CUST-0661,2025-06-22,Jakarta,Website,Completed
+ORD-00806,CUST-0325,2025-05-21,Denpasar,Offline Store,Completed
+ORD-00807,CUST-0049,2025-11-10,Medan,Offline Store,Completed
+ORD-00808,CUST-0742,2025-12-19,Medan,Marketplace,Completed
+ORD-00809,CUST-0006,2025-10-03,Semarang,Website,Completed
+ORD-00810,CUST-0271,2025-02-08,Surabaya,Social Commerce,Completed
+ORD-00811,CUST-0424,2025-10-27,Semarang,Reseller,Completed
+ORD-00812,CUST-0232,2025-09-05,Jakarta,Offline Store,Completed
+ORD-00813,CUST-0663,2025-12-04,Semarang,Marketplace,Completed
+ORD-00814,CUST-0687,2025-01-07,Bandung,Reseller,Completed
+ORD-00815,CUST-0321,2025-09-21,Denpasar,Offline Store,Completed
+ORD-00816,CUST-0636,2025-08-20,Makassar,Marketplace,Completed
+ORD-00817,CUST-0664,2025-10-23,Jakarta,Marketplace,Completed
+ORD-00818,CUST-0472,2025-01-09,Bandung,Offline Store,Completed
+ORD-00819,CUST-0515,2025-07-23,Medan,Social Commerce,Completed
+ORD-00820,CUST-0051,2025-02-20,Semarang,Reseller,Completed
+ORD-00821,CUST-0623,2025-09-29,Medan,Social Commerce,Completed
+ORD-00822,CUST-0114,2025-05-08,Bandung,Website,Completed
+ORD-00823,CUST-0545,2025-02-03,Jakarta,Offline Store,Completed
+ORD-00824,CUST-0295,2025-11-23,Semarang,Social Commerce,Completed
+ORD-00825,CUST-0638,2025-12-25,Medan,Offline Store,Completed
+ORD-00826,CUST-0146,2025-08-22,Jakarta,Reseller,Completed
+ORD-00827,CUST-0486,2025-06-30,Makassar,Website,Completed
+ORD-00828,CUST-0234,2025-05-29,Makassar,Social Commerce,Completed
+ORD-00829,CUST-0503,2025-08-20,Semarang,Offline Store,Completed
+ORD-00830,CUST-0531,2025-06-20,Denpasar,Social Commerce,Completed
+ORD-00831,CUST-0022,2025-11-24,Bandung,Reseller,Completed
+ORD-00832,CUST-0442,2025-12-23,Surabaya,Marketplace,Completed
+ORD-00833,CUST-0461,2025-10-06,Makassar,Marketplace,Completed
+ORD-00834,CUST-0719,2025-09-24,Surabaya,Social Commerce,Completed
+ORD-00835,CUST-0297,2025-09-25,Makassar,Social Commerce,Completed
+ORD-00836,CUST-0127,2025-10-31,Jakarta,Reseller,Completed
+ORD-00837,CUST-0052,2025-01-01,Surabaya,Marketplace,Completed
+ORD-00838,CUST-0443,2025-04-11,Makassar,Website,Completed
+ORD-00839,CUST-0433,2025-07-17,medan,Website,Completed
+ORD-00840,CUST-0787,2025-12-16,Bandung,Offline Store,Completed
+ORD-00841,CUST-0099,2025-08-12,Bandung,Social Commerce,Completed
+ORD-00842,CUST-0473,2025-07-30,Jakarta,Social Commerce,Completed
+ORD-00843,CUST-0055,2025-05-31,Denpasar,Reseller,Completed
+ORD-00844,CUST-0609,2025-06-20,jakarta,Offline Store,Cancelled
+ORD-00845,CUST-0529,2025-04-15,Bandung,Social Commerce,Completed
+ORD-00846,CUST-0737,2025-06-09,Jakarta,Reseller,Cancelled
+ORD-00847,CUST-0100,2025-09-24,Bandung,Marketplace,Completed
+ORD-00848,CUST-0628,2025-05-14,Semarang,Reseller,Cancelled
+ORD-00849,CUST-0190,2025-01-12,Bandung,Marketplace,Completed
+ORD-00850,CUST-0505,2025-10-29,Surabaya,Offline Store,Completed
+ORD-00851,CUST-0595,2025-01-06,Surabaya,Website,Cancelled
+ORD-00852,CUST-0358,2025-04-18,Semarang,Social Commerce,Completed
+ORD-00853,CUST-0672,2025-06-30,Semarang,Social Commerce,Completed
+ORD-00854,CUST-0675,2025-11-07,Bandung,Social Commerce,Completed
+ORD-00855,CUST-0047,2025-02-04,Jakarta,Marketplace,Completed
+ORD-00856,CUST-0488,2025-12-14,Surabaya,Marketplace,Completed
+ORD-00857,CUST-0066,2025-08-04,Jakarta,Social Commerce,Completed
+ORD-00858,CUST-0782,2025-08-15,Surabaya,Social Commerce,Completed
+ORD-00859,CUST-0588,2025-11-23,Makassar,Marketplace,Completed
+ORD-00860,CUST-0197,2025-09-28,Jakarta,Social Commerce,Completed
+ORD-00861,CUST-0369,2025-01-03,Denpasar,Reseller,Cancelled
+ORD-00862,CUST-0541,2025-11-25,Medan,Marketplace,Completed
+ORD-00863,CUST-0081,2025-10-19,Bandung,Social Commerce,Completed
+ORD-00864,CUST-0616,2025-01-27,Makassar,Offline Store,Completed
+ORD-00865,CUST-0295,2025-03-22,Jakarta,Social Commerce,Cancelled
+ORD-00866,CUST-0560,2025-01-30,Semarang,Website,Cancelled
+ORD-00867,CUST-0561,2025-04-15,Denpasar,Offline Store,Completed
+ORD-00868,CUST-0073,2025-06-27,Medan,Social Commerce,Cancelled
+ORD-00869,CUST-0741,2025-05-19,Jakarta,Website,Completed
+ORD-00870,CUST-0623,2025-10-01,Denpasar,Reseller,Completed
+ORD-00871,CUST-0631,2025-03-02,Surabaya,Offline Store,Completed
+ORD-00872,CUST-0582,2025-10-02,Jakarta,Website,Completed
+ORD-00873,CUST-0185,2025-08-13,Surabaya,Website,Completed
+ORD-00874,CUST-0673,2025-03-04,Jakarta,Website,Completed
+ORD-00875,CUST-0376,2025-06-04,denpasar,Social Commerce,Completed
+ORD-00876,CUST-0056,2025-02-23,Surabaya,Reseller,Cancelled
+ORD-00877,CUST-0037,2025-03-14,Bandung,Reseller,Completed
+ORD-00878,CUST-0285,2025-05-19,Makassar,Reseller,Completed
+ORD-00879,CUST-0508,2025-07-16,Jakarta,Reseller,Completed
+ORD-00880,CUST-0782,2025-10-05,Surabaya,Website,Cancelled
+ORD-00881,CUST-0747,2025-08-07,Semarang,Website,Completed
+ORD-00882,CUST-0391,2025-03-25,Medan,Marketplace,Completed
+ORD-00883,CUST-0256,2025-02-13,Denpasar,Social Commerce,Completed
+ORD-00884,CUST-0791,2025-12-01,Makassar,Website,Completed
+ORD-00885,CUST-0478,2025-01-05,Jakarta,Offline Store,Completed
+ORD-00886,CUST-0322,2025-10-10,Jakarta,Reseller,Completed
+ORD-00887,CUST-0672,2025-11-13,Jakarta,Marketplace,Completed
+ORD-00888,CUST-0594,2025-08-14,Surabaya,Website,Completed
+ORD-00889,CUST-0554,2025-06-30,Semarang,Website,Cancelled
+ORD-00890,CUST-0080,2025-09-19,Bandung,Marketplace,Completed
+ORD-00891,CUST-0369,2025-11-07,Surabaya,Reseller,Completed
+ORD-00892,CUST-0321,2025-04-19,Makassar,Social Commerce,Cancelled
+ORD-00893,CUST-0080,2025-02-10,Bandung,Social Commerce,Completed
+ORD-00894,CUST-0200,2025-05-18,Denpasar,Social Commerce,Completed
+ORD-00895,CUST-0710,2025-03-01,Bandung,Reseller,Completed
+ORD-00896,CUST-0460,2025-04-28,Denpasar,Reseller,Completed
+ORD-00897,CUST-0621,2025-03-12,Surabaya,Offline Store,Completed
+ORD-00898,CUST-0185,2025-04-12,Medan,Website,Completed
+ORD-00899,CUST-0482,2025-12-31,Semarang,Website,Completed
+ORD-00900,CUST-0075,2025-03-27,Bandung,Social Commerce,Completed
+ORD-00901,CUST-0624,2025-10-30,Makassar,Website,Completed
+ORD-00902,CUST-0646,2025-07-29,Medan,Reseller,Completed
+ORD-00903,CUST-0691,2025-07-09,Semarang,Reseller,Completed
+ORD-00904,CUST-0506,2025-06-02,Surabaya,Website,Cancelled
+ORD-00905,CUST-0589,2025-05-23,Makassar,Offline Store,Completed
+ORD-00906,CUST-0266,2025-05-28,Makassar,Website,Completed
+ORD-00907,CUST-0551,2025-10-04,Denpasar,Marketplace,Completed
+ORD-00908,CUST-0734,2025-02-26,Semarang,Website,Completed
+ORD-00909,CUST-0335,2025-02-08,Bandung,Social Commerce,Completed
+ORD-00910,CUST-0444,2025-01-20,Jakarta,Social Commerce,Completed
+ORD-00911,CUST-0252,2025-01-05,Bandung,Social Commerce,Completed
+ORD-00912,CUST-0752,2025-04-06,Medan,Offline Store,Completed
+ORD-00913,CUST-0445,2025-01-02,Jakarta,Reseller,Completed
+ORD-00914,CUST-0390,2025-11-11,Semarang,Social Commerce,Completed
+ORD-00915,CUST-0646,2025-09-08,Medan,Social Commerce,Completed
+ORD-00916,CUST-0476,2025-04-01,Surabaya,Website,Completed
+ORD-00917,CUST-0419,2025-04-21,Jakarta,Social Commerce,Completed
+ORD-00918,CUST-0498,2025-05-18,Semarang,Marketplace,Completed
+ORD-00919,CUST-0587,2025-04-24,Bandung,Social Commerce,Completed
+ORD-00920,CUST-0620,2025-03-08,Makassar,Website,Completed
+ORD-00921,CUST-0161,2025-04-12,Denpasar,Social Commerce,Completed
+ORD-00922,CUST-0751,2025-10-11,Bandung,Website,Completed
+ORD-00923,CUST-0408,2025-09-14,Denpasar,Reseller,Completed
+ORD-00924,CUST-0035,2025-05-07,Surabaya,Website,Completed
+ORD-00925,CUST-0016,2025-01-11,Semarang,Social Commerce,Cancelled
+ORD-00926,CUST-0332,2025-06-09,Medan,Social Commerce,Completed
+ORD-00927,CUST-0440,2025/05/30,Jakarta,Marketplace,Completed
+ORD-00928,CUST-0382,2025-07-21,Denpasar,Social Commerce,Completed
+ORD-00929,CUST-0148,2025-06-20,denpasar,Website,Completed
+ORD-00930,CUST-0632,2025-07-26,Denpasar,Reseller,Completed
+ORD-00931,CUST-0155,2025-06-22,jakarta,Offline Store,Cancelled
+ORD-00932,CUST-0726,2025-08-25,Medan,Social Commerce,Completed
+ORD-00933,CUST-0385,2025-02-09,Bandung,Website,Completed
+ORD-00934,CUST-0040,2025-02-28,Medan,Reseller,Completed
+ORD-00935,CUST-0536,2025-05-19,Surabaya,Social Commerce,Completed
+ORD-00936,CUST-0532,2025-07-10,Makassar,Offline Store,Completed
+ORD-00937,CUST-0154,2025-04-02,Medan,Website,Completed
+ORD-00938,CUST-0640,2025-02-01,Medan,Social Commerce,Completed
+ORD-00939,CUST-0354,2025-04-26,Semarang,Website,Completed
+ORD-00940,CUST-0555,2025-10-15,Semarang,Marketplace,Completed
+ORD-00941,CUST-0105,2025-10-16,Bandung,Social Commerce,Cancelled
+ORD-00942,CUST-0222,2025-04-29,Jakarta,Social Commerce,Completed
+ORD-00943,CUST-0524,2025-03-12,Denpasar,Reseller,Completed
+ORD-00944,CUST-0364,2025-08-31,Surabaya,Social Commerce,Completed
+ORD-00945,CUST-0285,2025-11-21,Semarang,Marketplace,Completed
+ORD-00946,CUST-0790,2025-08-27,Semarang,Offline Store,Completed
+ORD-00947,CUST-0201,2025-01-06,Medan,Offline Store,Completed
+ORD-00948,CUST-0515,2025-05-10,Jakarta,Social Commerce,Completed
+ORD-00949,CUST-0408,2025-09-03,Jakarta,Offline Store,Completed
+ORD-00950,CUST-0623,2025-08-30,Semarang,Reseller,Completed
+ORD-00951,CUST-0379,2025-01-20,Jakarta,Social Commerce,Completed
+ORD-00952,CUST-0728,2025-11-23,Jakarta,Offline Store,Completed
+ORD-00953,CUST-0601,2025-03-28,Semarang,Offline Store,Completed
+ORD-00954,CUST-0686,2025-12-08,Jakarta,Website,Completed
+ORD-00955,CUST-0624,2025-05-22,Bandung,Social Commerce,Completed
+ORD-00956,CUST-0121,2025-06-29,Surabaya,Reseller,Cancelled
+ORD-00957,CUST-0093,2025-03-01,Bandung,Website,Completed
+ORD-00958,CUST-0084,2025-08-24,Semarang,Marketplace,Completed
+ORD-00959,CUST-0294,2025-12-28,Bandung,Offline Store,Completed
+ORD-00960,CUST-0271,2025-08-14,Jakarta,Reseller,Completed
+ORD-00961,CUST-0160,2025-07-17,Makassar,Social Commerce,Completed
+ORD-00962,CUST-0792,2025-09-20,Bandung,Offline Store,Completed
+ORD-00963,CUST-0578,2025-07-10,Medan,Social Commerce,Completed
+ORD-00964,CUST-0664,2025-06-22,Jakarta,Marketplace,Completed
+ORD-00965,CUST-0712,2025-10-22,Medan,Reseller,Completed
+ORD-00966,CUST-0411,2025-12-14,Surabaya,Website,Completed
+ORD-00967,CUST-0411,2025-10-23,Makassar,Website,Completed
+ORD-00968,CUST-0134,2025-03-13,Semarang,Offline Store,Completed
+ORD-00969,CUST-0406,2025-08-23,Bandung,Reseller,Completed
+ORD-00970,CUST-0209,2025-05-01,Medan,Website,Completed
+ORD-00971,CUST-0103,2025-06-26,Medan,Social Commerce,Completed
+ORD-00972,CUST-0397,2025-02-19,Bandung,Offline Store,Completed
+ORD-00973,CUST-0759,2025-12-09,Makassar,Website,Completed
+ORD-00974,CUST-0626,2025-01-01,Makassar,Reseller,Completed
+ORD-00975,CUST-0096,2025-08-11,Surabaya,Reseller,Completed
+ORD-00976,CUST-0530,2025-12-16,Denpasar,Website,Completed
+ORD-00977,CUST-0672,2025-02-21,Denpasar,Reseller,Completed
+ORD-00978,CUST-0012,2025-08-21,Medan,Reseller,Completed
+ORD-00979,CUST-0119,2025-11-21,Makassar,Reseller,Completed
+ORD-00980,CUST-0778,2025-09-30,Medan,Website,Completed
+ORD-00981,CUST-0203,2025-05-13,Makassar,Social Commerce,Completed
+ORD-00982,CUST-0436,2025-05-10,Surabaya,Offline Store,Completed
+ORD-00983,CUST-0611,2025-01-19,Jakarta,Offline Store,Completed
+ORD-00984,CUST-0470,2025-06-26,Semarang,Social Commerce,Completed
+ORD-00985,CUST-0346,2025-02-10,Semarang,Offline Store,Completed
+ORD-00986,CUST-0311,2025-05-14,Makassar,Social Commerce,Completed
+ORD-00987,CUST-0282,2025-08-12,Semarang,Marketplace,Completed
+ORD-00988,CUST-0292,2025-12-14,Surabaya,Website,Completed
+ORD-00989,CUST-0614,2025-08-25,Denpasar,Offline Store,Completed
+ORD-00990,CUST-0295,2025-11-10,Semarang,Social Commerce,Completed
+ORD-00991,CUST-0156,2025-08-16,Medan,Reseller,Completed
+ORD-00992,CUST-0081,2025-10-20,Semarang,Reseller,Completed
+ORD-00993,CUST-0479,2025-12-12,Jakarta,Marketplace,Cancelled
+ORD-00994,CUST-0570,2025-05-26,Semarang,Reseller,Completed
+ORD-00995,CUST-0163,2025-04-02,Denpasar,Reseller,Completed
+ORD-00996,CUST-0781,2025-11-21,semarang,Offline Store,Completed
+ORD-00997,CUST-0343,2025-09-30,Denpasar,Reseller,Completed
+ORD-00998,CUST-0429,2025-08-03,Medan,Marketplace,Completed
+ORD-00999,CUST-0750,2025-10-20,Medan,Website,Completed
+ORD-01000,CUST-0024,2025-07-09,Semarang,Social Commerce,Completed
+ORD-01001,CUST-0730,2025-08-30,Bandung,Offline Store,Completed
+ORD-01002,CUST-0248,2025-08-16,Denpasar,Marketplace,Completed
+ORD-01003,CUST-0474,2025-05-06,Semarang,Website,Completed
+ORD-01004,CUST-0482,2025-09-24,Denpasar,Reseller,Completed
+ORD-01005,CUST-0300,2025-01-31,Denpasar,Reseller,Completed
+ORD-01006,CUST-0269,2025-03-16,Denpasar,Social Commerce,Completed
+ORD-01007,CUST-0216,2025-09-05,Surabaya,Website,Completed
+ORD-01008,CUST-0776,2025-05-06,Surabaya,Offline Store,Completed
+ORD-01009,CUST-0227,2025-01-14,Surabaya,Social Commerce,Completed
+ORD-01010,CUST-0302,2025-12-11,Bandung,Marketplace,Completed
+ORD-01011,CUST-0013,2025-10-27,Surabaya,Offline Store,Completed
+ORD-01012,CUST-0664,2025-09-06,Bandung,Social Commerce,Completed
+ORD-01013,CUST-0317,2025-04-26,Bandung,Marketplace,Completed
+ORD-01014,CUST-0013,2025-11-23,Denpasar,Social Commerce,Completed
+ORD-01015,CUST-0520,2025-06-18,Jakarta,Offline Store,Completed
+ORD-01016,CUST-0254,2025-09-25,Bandung,Offline Store,Completed
+ORD-01017,CUST-0273,2025-11-08,Makassar,Offline Store,Completed
+ORD-01018,CUST-0234,2025-04-17,Bandung,Social Commerce,Cancelled
+ORD-01019,CUST-0203,2025-09-01,Jakarta,Social Commerce,Cancelled
+ORD-01020,CUST-0115,2025-08-09,Semarang,Reseller,Completed
+ORD-01021,CUST-0661,2025-05-26,Surabaya,Offline Store,Completed
+ORD-01022,CUST-0451,2025-11-17,Jakarta,Marketplace,Completed
+ORD-01023,CUST-0168,2025-09-11,Bandung,Website,Completed
+ORD-01024,CUST-0219,2025-04-29,Surabaya,Social Commerce,Completed
+ORD-01025,CUST-0159,2025-12-11,Surabaya,Marketplace,Completed
+ORD-01026,CUST-0235,2025-05-18,Surabaya,Reseller,Completed
+ORD-01027,CUST-0577,2025-08-06,Medan,Reseller,Completed
+ORD-01028,CUST-0734,2025-12-05,Surabaya,Offline Store,Completed
+ORD-01029,CUST-0572,2025-06-16,Makassar,Marketplace,Completed
+ORD-01030,CUST-0400,2025-12-04,Semarang,Reseller,Completed
+ORD-01031,CUST-0379,2025-10-03,Medan,Offline Store,Completed
+ORD-01032,CUST-0091,2025-10-15,Medan,Marketplace,Completed
+ORD-01033,CUST-0757,2025-12-31,Surabaya,Offline Store,Completed
+ORD-01034,CUST-0204,2025-06-20,Semarang,Offline Store,Completed
+ORD-01035,CUST-0438,2025-07-30,Medan,Reseller,Completed
+ORD-01036,CUST-0448,2025-10-17,Jakarta,Social Commerce,Completed
+ORD-01037,CUST-0526,2025-03-23,Denpasar,Website,Cancelled
+ORD-01038,CUST-0339,2025-11-30,Jakarta,Marketplace,Cancelled
+ORD-01039,CUST-0639,2025-01-04,Denpasar,Reseller,Completed
+ORD-01040,CUST-0266,2025-03-19,Denpasar,Marketplace,Cancelled
+ORD-01041,CUST-0194,2025-03-20,Denpasar,Marketplace,Completed
+ORD-01042,CUST-0071,2025-06-28,Surabaya,Offline Store,Completed
+ORD-01043,CUST-0791,2025-04-22,Surabaya,Website,Completed
+ORD-01044,CUST-0211,2025-04-12,Denpasar,Reseller,Cancelled
+ORD-01045,CUST-0742,2025-10-24,Makassar,Website,Completed
+ORD-01046,CUST-0426,2025-06-12,Bandung,Marketplace,Completed
+ORD-01047,CUST-0103,2025-07-24,Surabaya,Offline Store,Completed
+ORD-01048,CUST-0719,2025-04-28,Jakarta,Reseller,Completed
+ORD-01049,CUST-0047,2025-06-15,Bandung,Marketplace,Completed
+ORD-01050,CUST-0712,2025-03-13,Medan,Website,Completed
+ORD-01051,CUST-0430,2025-03-22,Bandung,Marketplace,Completed
+ORD-01052,CUST-0510,2025-01-16,Bandung,Offline Store,Completed
+ORD-01053,CUST-0418,2025-03-15,Jakarta,Social Commerce,Completed
+ORD-01054,CUST-0068,2025-08-03,Jakarta,Reseller,Completed
+ORD-01055,CUST-0553,2025-12-03,Surabaya,Social Commerce,Completed
+ORD-01056,CUST-0735,2025-02-18,Medan,Offline Store,Cancelled
+ORD-01057,CUST-0748,2025-04-05,Semarang,Offline Store,Completed
+ORD-01058,CUST-0594,2025-03-16,Semarang,Website,Completed
+ORD-01059,CUST-0650,2025-03-15,Jakarta,Marketplace,Completed
+ORD-01060,CUST-0637,2025-08-21,Surabaya,Social Commerce,Completed
+ORD-01061,CUST-0346,2025-09-21,Surabaya,Marketplace,Completed
+ORD-01062,CUST-0375,2025-02-02,Medan,Website,Completed
+ORD-01063,CUST-0303,2025-12-31,Bandung,Offline Store,Completed
+ORD-01064,CUST-0752,2025-04-12,Semarang,Offline Store,Completed
+ORD-01065,CUST-0236,2025-10-04,Semarang,Social Commerce,Completed
+ORD-01066,CUST-0554,2025-03-19,Makassar,Reseller,Completed
+ORD-01067,CUST-0739,2025-03-11,Surabaya,Website,Completed
+ORD-01068,CUST-0774,2025-01-31,Medan,Marketplace,Completed
+ORD-01069,CUST-0283,2025-04-26,Bandung,Reseller,Completed
+ORD-01070,CUST-0653,2025-01-06,Jakarta,Social Commerce,Completed
+ORD-01071,CUST-0238,2025-08-30,Semarang,Reseller,Completed
+ORD-01072,CUST-0158,2025-08-21,Jakarta,Offline Store,Completed
+ORD-01073,CUST-0478,2025-11-17,Medan,Social Commerce,Completed
+ORD-01074,CUST-0719,2025-09-11,Medan,Reseller,Completed
+ORD-01075,CUST-0258,2025-05-22,Semarang,Social Commerce,Completed
+ORD-01076,CUST-0445,2025-10-30,Semarang,Offline Store,Completed
+ORD-01077,CUST-0101,2025-11-26,Makassar,Website,Completed
+ORD-01078,CUST-0736,2025-07-21,Semarang,Website,Completed
+ORD-01079,CUST-0025,2025-04-03,Semarang,Offline Store,Completed
+ORD-01080,CUST-0284,2025-05-08,Medan,Website,Completed
+ORD-01081,CUST-0800,2025-06-28,Denpasar,Marketplace,Completed
+ORD-01082,CUST-0758,2025-10-03,Denpasar,Marketplace,Completed
+ORD-01083,CUST-0775,2025-04-06,Medan,Marketplace,Completed
+ORD-01084,CUST-0718,2025-09-17,Semarang,Social Commerce,Completed
+ORD-01085,CUST-0729,2025-02-16,Makassar,Reseller,Completed
+ORD-01086,CUST-0107,2025-07-17,Denpasar,Offline Store,Cancelled
+ORD-01087,CUST-0252,2025-01-21,Makassar,Marketplace,Completed
+ORD-01088,CUST-0252,2025-04-23,Bandung,Reseller,Completed
+ORD-01089,CUST-0425,2025-08-13,Makassar,Social Commerce,Cancelled
+ORD-01090,CUST-0397,2025-10-22,Semarang,Offline Store,Completed
+ORD-01091,CUST-0330,2025-03-10,Denpasar,Marketplace,Completed
+ORD-01092,CUST-0619,2025-02-23,Bandung,Offline Store,Completed
+ORD-01093,CUST-0510,2025-08-13,Makassar,Reseller,Completed
+ORD-01094,CUST-0489,2025-06-27,Denpasar,Marketplace,Completed
+ORD-01095,CUST-0442,2025-09-09,Semarang,Marketplace,Completed
+ORD-01096,CUST-0339,2025-06-05,Bandung,Social Commerce,Completed
+ORD-01097,CUST-0794,2025-03-03,Jakarta,Social Commerce,Completed
+ORD-01098,CUST-0340,2025-03-03,Jakarta,Website,Completed
+ORD-01099,CUST-0259,2025-08-09,Medan,Website,Completed
+ORD-01100,CUST-0537,2025-02-18,Surabaya,Website,Cancelled
+ORD-01101,CUST-0098,2025-07-11,Bandung,Website,Completed
+ORD-01102,CUST-0029,2025-06-06,Denpasar,Social Commerce,Cancelled
+ORD-01103,CUST-0100,2025-06-26,Denpasar,Marketplace,Cancelled
+ORD-01104,CUST-0040,2025-11-15,Makassar,Website,Completed
+ORD-01105,CUST-0618,2025-04-09,Bandung,Social Commerce,Completed
+ORD-01106,CUST-0503,2025-05-03,Bandung,Reseller,Completed
+ORD-01107,CUST-0329,2025-12-02,Makassar,Social Commerce,Cancelled
+ORD-01108,CUST-0446,2025-07-26,Medan,Website,Completed
+ORD-01109,CUST-0496,2025-10-15,Makassar,Reseller,Completed
+ORD-01110,CUST-0556,2025-10-20,Bandung,Offline Store,Completed
+ORD-01111,CUST-0361,2025-04-07,makassar,Website,Completed
+ORD-01112,CUST-0469,2025-02-20,Bandung,Marketplace,Completed
+ORD-01113,CUST-0585,2025-04-16,Semarang,Social Commerce,Completed
+ORD-01114,CUST-0298,2025-03-01,Jakarta,Marketplace,Completed
+ORD-01115,CUST-0614,2025-03-14,Bandung,Social Commerce,Completed
+ORD-01116,CUST-0424,2025-08-01,Medan,Offline Store,Completed
+ORD-01117,CUST-0073,2025-04-25,Semarang,Website,Completed
+ORD-01118,CUST-0698,2025-05-12,Semarang,Reseller,Completed
+ORD-01119,CUST-0206,2025-09-12,Bandung,Social Commerce,Completed
+ORD-01120,CUST-0380,2025-11-12,Medan,Marketplace,Completed
+ORD-01121,CUST-0743,2025-04-18,Surabaya,Website,Cancelled
+ORD-01122,CUST-0359,2025-03-31,Medan,Marketplace,Completed
+ORD-01123,CUST-0026,2025-08-13,Denpasar,Reseller,Completed
+ORD-01124,CUST-0326,2025-10-08,Jakarta,Website,Completed
+ORD-01125,CUST-0240,2025-12-17,Jakarta,Reseller,Completed
+ORD-01126,CUST-0781,2025-04-25,Semarang,Website,Cancelled
+ORD-01127,CUST-0661,2025-10-20,Medan,Offline Store,Cancelled
+ORD-01128,CUST-0550,2025-08-21,Surabaya,Marketplace,Completed
+ORD-01129,CUST-0308,2025-08-10,Bandung,Website,Completed
+ORD-01130,CUST-0455,2025-08-20,Medan,Reseller,Completed
+ORD-01131,CUST-0196,2025-12-31,Makassar,Marketplace,Cancelled
+ORD-01132,CUST-0112,2025-08-29,Makassar,Reseller,Completed
+ORD-01133,CUST-0711,2025-01-13,Bandung,Reseller,Cancelled
+ORD-01134,CUST-0589,2025-07-25,denpasar,Marketplace,Completed
+ORD-01135,CUST-0693,2025-01-19,Jakarta,Website,Completed
+ORD-01136,CUST-0321,2025-02-16,Surabaya,Marketplace,Completed
+ORD-01137,CUST-0487,2025-08-17,surabaya,Marketplace,Completed
+ORD-01138,CUST-0163,2025-07-29,Makassar,Social Commerce,Completed
+ORD-01139,CUST-0485,2025-07-15,Medan,Reseller,Completed
+ORD-01140,CUST-0599,2025-08-14,Makassar,Marketplace,Completed
+ORD-01141,CUST-0348,2025-06-26,Jakarta,Offline Store,Completed
+ORD-01142,CUST-0685,2025-02-26,Bandung,Offline Store,Completed
+ORD-01143,CUST-0637,2025-01-09,Makassar,Reseller,Completed
+ORD-01144,CUST-0665,2025-01-27,Bandung,Offline Store,Completed
+ORD-01145,CUST-0640,2025-03-08,Jakarta,Social Commerce,Completed
+ORD-01146,CUST-0385,2025-12-23,Surabaya,Offline Store,Completed
+ORD-01147,CUST-0461,2025-02-12,Semarang,Website,Completed
+ORD-01148,CUST-0077,2025-05-05,Bandung,Offline Store,Completed
+ORD-01149,CUST-0755,2025-01-07,Denpasar,Offline Store,Cancelled
+ORD-01150,CUST-0647,2025-08-24,Denpasar,Offline Store,Completed
+ORD-01151,CUST-0764,2025-04-13,Jakarta,Marketplace,Completed
+ORD-01152,CUST-0216,2025-04-30,Jakarta,Website,Completed
+ORD-01153,CUST-0481,2025-04-06,Surabaya,Social Commerce,Completed
+ORD-01154,CUST-0720,2025-03-05,Denpasar,Website,Completed
+ORD-01155,CUST-0616,2025-06-01,Medan,Social Commerce,Completed
+ORD-01156,CUST-0671,2025-01-04,Semarang,Offline Store,Completed
+ORD-01157,CUST-0635,2025-01-31,Denpasar,Reseller,Completed
+ORD-01158,CUST-0583,2025-02-03,Surabaya,Offline Store,Completed
+ORD-01159,CUST-0234,2025-04-08,Makassar,Marketplace,Completed
+ORD-01160,CUST-0756,2025-03-14,Denpasar,Reseller,Completed
+ORD-01161,CUST-0153,2025-11-20,Medan,Offline Store,Completed
+ORD-01162,CUST-0203,2025-06-22,Jakarta,Reseller,Completed
+ORD-01163,CUST-0742,2025-11-07,Medan,Reseller,Completed
+ORD-01164,CUST-0723,2025-06-15,Medan,Social Commerce,Completed
+ORD-01165,CUST-0316,2025-01-07,Semarang,Marketplace,Completed
+ORD-01166,CUST-0743,2025-06-24,Surabaya,Marketplace,Completed
+ORD-01167,CUST-0288,2025-09-01,Makassar,Offline Store,Cancelled
+ORD-01168,CUST-0243,2025-11-09,Denpasar,Marketplace,Completed
+ORD-01169,CUST-0746,2025-11-05,Surabaya,Website,Completed
+ORD-01170,CUST-0336,2025-01-02,Surabaya,Social Commerce,Completed
+ORD-01171,CUST-0662,2025-04-13,Bandung,Social Commerce,Cancelled
+ORD-01172,CUST-0537,2025-04-10,Denpasar,Social Commerce,Completed
+ORD-01173,CUST-0148,2025-04-15,surabaya,Website,Completed
+ORD-01174,CUST-0111,2025-06-10,Surabaya,Reseller,Completed
+ORD-01175,CUST-0331,2025-03-07,Jakarta,Website,Completed
+ORD-01176,CUST-0445,2025-11-18,Semarang,Offline Store,Completed
+ORD-01177,CUST-0775,2025-10-17,Makassar,Website,Completed
+ORD-01178,CUST-0509,2025-03-09,Jakarta,Website,Completed
+ORD-01179,CUST-0366,2025-07-04,Surabaya,Website,Completed
+ORD-01180,CUST-0712,2025-07-22,Bandung,Social Commerce,Completed
+ORD-01181,CUST-0058,2025-05-03,Semarang,Social Commerce,Completed
+ORD-01182,CUST-0044,2025-09-03,Jakarta,Marketplace,Completed
+ORD-01183,CUST-0406,2025-12-10,Jakarta,Social Commerce,Completed
+ORD-01184,CUST-0597,2025-04-28,Medan,Website,Completed
+ORD-01185,CUST-0407,2025-03-26,Bandung,Marketplace,Completed
+ORD-01186,CUST-0273,2025-05-25,Makassar,Offline Store,Completed
+ORD-01187,CUST-0030,2025-08-20,Medan,Social Commerce,Completed
+ORD-01188,CUST-0707,2025-06-02,Semarang,Marketplace,Cancelled
+ORD-01189,CUST-0025,2025-09-19,Surabaya,Website,Completed
+ORD-01190,CUST-0469,2025-06-17,Medan,Social Commerce,Completed
+ORD-01191,CUST-0012,2025-01-26,Surabaya,Website,Completed
+ORD-01192,CUST-0078,2025-07-10,Surabaya,Reseller,Completed
+ORD-01193,CUST-0763,2025-11-22,Semarang,Website,Completed
+ORD-01194,CUST-0712,2025-10-24,Makassar,Offline Store,Completed
+ORD-01195,CUST-0749,2025-02-02,Semarang,Marketplace,Completed
+ORD-01196,CUST-0039,2025-01-16,Medan,Reseller,Completed
+ORD-01197,CUST-0274,2025-04-14,Jakarta,Offline Store,Completed
+ORD-01198,CUST-0573,2025-08-11,Semarang,Reseller,Completed
+ORD-01199,CUST-0377,2025-11-03,Medan,Reseller,Completed
+ORD-01200,CUST-0329,2025-03-16,Semarang,Offline Store,Completed
+ORD-01201,CUST-0689,2025-03-17,Denpasar,Reseller,Completed
+ORD-01202,CUST-0169,2025-12-15,Jakarta,Offline Store,Completed
+ORD-01203,CUST-0143,2025-10-21,Denpasar,Marketplace,Completed
+ORD-01204,CUST-0043,2025-10-06,Makassar,Website,Cancelled
+ORD-01205,CUST-0758,2025-03-26,Bandung,Offline Store,Completed
+ORD-01206,CUST-0405,2025-10-08,Makassar,Reseller,Completed
+ORD-01207,CUST-0711,2025/03/21,Denpasar,Marketplace,Completed
+ORD-01208,CUST-0314,2025-12-22,Bandung,Reseller,Completed
+ORD-01209,CUST-0303,2025-01-16,Jakarta,Marketplace,Completed
+ORD-01210,CUST-0433,2025-03-02,Surabaya,Reseller,Completed
+ORD-01211,CUST-0630,2025-11-22,Makassar,Website,Completed
+ORD-01212,CUST-0262,2025-01-16,Semarang,Reseller,Completed
+ORD-01213,CUST-0360,2025-11-14,Semarang,Reseller,Completed
+ORD-01214,CUST-0466,2025-02-18,Medan,Offline Store,Completed
+ORD-01215,CUST-0608,2025-03-07,Denpasar,Website,Completed
+ORD-01216,CUST-0600,2025-05-10,Jakarta,Social Commerce,Completed
+ORD-01217,CUST-0437,2025-06-19,Jakarta,Marketplace,Completed
+ORD-01218,CUST-0181,2025-12-01,Denpasar,Reseller,Completed
+ORD-01219,CUST-0119,2025-12-25,Jakarta,Marketplace,Completed
+ORD-01220,CUST-0716,2025-07-07,Medan,Website,Completed
+ORD-01221,CUST-0433,2025-12-26,Jakarta,Website,Completed
+ORD-01222,CUST-0089,2025-03-24,Makassar,Marketplace,Completed
+ORD-01223,CUST-0041,2025-10-14,Bandung,Marketplace,Completed
+ORD-01224,CUST-0538,2025-02-27,Semarang,Offline Store,Cancelled
+ORD-01225,CUST-0492,2025-05-05,Denpasar,Marketplace,Completed
+ORD-01226,CUST-0131,2025-12-08,Denpasar,Social Commerce,Completed
+ORD-01227,CUST-0169,2025-10-17,Bandung,Reseller,Completed
+ORD-01228,CUST-0800,2025-06-14,Medan,Website,Completed
+ORD-01229,CUST-0662,2025-07-28,Denpasar,Marketplace,Completed
+ORD-01230,CUST-0796,2025-12-27,Bandung,Website,Completed
+ORD-01231,CUST-0482,2025-06-07,Makassar,Reseller,Completed
+ORD-01232,CUST-0530,2025-09-30,Makassar,Website,Completed
+ORD-01233,CUST-0357,2025-04-08,Surabaya,Marketplace,Completed
+ORD-01234,CUST-0704,2025-04-08,Semarang,Offline Store,Completed
+ORD-01235,CUST-0253,2025-11-23,Bandung,Social Commerce,Completed
+ORD-01236,CUST-0582,2025/05/19,Medan,Social Commerce,Completed
+ORD-01237,CUST-0403,2025-10-09,Jakarta,Website,Completed
+ORD-01238,CUST-0053,2025-05-17,Medan,Reseller,Cancelled
+ORD-01239,CUST-0123,2025-06-10,Bandung,Marketplace,Completed
+ORD-01240,CUST-0099,2025/03/07,Semarang,Reseller,Completed
+ORD-01241,CUST-0115,2025-01-06,Surabaya,Social Commerce,Completed
+ORD-01242,CUST-0243,2025-07-01,Bandung,Website,Completed
+ORD-01243,CUST-0585,2025-02-16,Semarang,Social Commerce,Completed
+ORD-01244,CUST-0004,2025-02-24,Bandung,Offline Store,Completed
+ORD-01245,CUST-0769,2025-11-11,Medan,Website,Completed
+ORD-01246,CUST-0631,2025-09-17,Medan,Reseller,Cancelled
+ORD-01247,CUST-0387,2025-12-16,Bandung,Reseller,Completed
+ORD-01248,CUST-0237,2025-05-29,Medan,Social Commerce,Completed
+ORD-01249,CUST-0715,2025-11-27,Jakarta,Reseller,Completed
+ORD-01250,CUST-0357,2025-05-11,Bandung,Offline Store,Completed
+ORD-01251,CUST-0038,2025-04-11,Medan,Offline Store,Completed
+ORD-01252,CUST-0052,2025-10-11,Surabaya,Website,Completed
+ORD-01253,CUST-0171,2025-06-09,makassar,Website,Completed
+ORD-01254,CUST-0759,2025-12-02,Bandung,Offline Store,Completed
+ORD-01255,CUST-0547,2025-04-02,Jakarta,Reseller,Completed
+ORD-01256,CUST-0526,2025-05-20,Denpasar,Website,Completed
+ORD-01257,CUST-0481,2025-01-25,Bandung,Marketplace,Completed
+ORD-01258,CUST-0166,2025-05-08,Semarang,Social Commerce,Completed
+ORD-01259,CUST-0472,2025-05-28,Makassar,Reseller,Completed
+ORD-01260,CUST-0171,2025-07-28,Makassar,Reseller,Completed
+ORD-01261,CUST-0306,2025-07-08,Jakarta,Social Commerce,Completed
+ORD-01262,CUST-0605,2025-08-19,Denpasar,Marketplace,Completed
+ORD-01263,CUST-0475,2025-04-15,Bandung,Reseller,Completed
+ORD-01264,CUST-0477,2025-06-29,Medan,Reseller,Completed
+ORD-01265,CUST-0318,2025-04-10,Makassar,Marketplace,Completed
+ORD-01266,CUST-0277,2025-10-15,Jakarta,Website,Completed
+ORD-01267,CUST-0628,2025-06-21,Medan,Offline Store,Cancelled
+ORD-01268,CUST-0038,2025-09-21,Semarang,Social Commerce,Cancelled
+ORD-01269,CUST-0732,2025-12-05,Medan,Offline Store,Completed
+ORD-01270,CUST-0226,2025-07-21,Jakarta,Website,Completed
+ORD-01271,CUST-0199,2025-10-19,Medan,Marketplace,Completed
+ORD-01272,CUST-0480,2025-04-23,Bandung,Reseller,Completed
+ORD-01273,CUST-0746,2025-11-12,Surabaya,Reseller,Completed
+ORD-01274,CUST-0699,2025-09-24,Surabaya,Social Commerce,Completed
+ORD-01275,CUST-0511,2025-06-03,Semarang,Reseller,Completed
+ORD-01276,CUST-0715,2025-02-20,Makassar,Social Commerce,Completed
+ORD-01277,CUST-0794,2025-02-03,Surabaya,Website,Completed
+ORD-01278,CUST-0603,2025-07-22,bandung,Reseller,Completed
+ORD-01279,CUST-0335,2025-11-03,Makassar,Reseller,Completed
+ORD-01280,CUST-0154,2025-01-05,Makassar,Reseller,Completed
+ORD-01281,CUST-0003,2025-01-27,Medan,Marketplace,Completed
+ORD-01282,CUST-0586,2025-12-08,Jakarta,Website,Completed
+ORD-01283,CUST-0401,2025-03-29,Denpasar,Reseller,Completed
+ORD-01284,CUST-0621,2025-08-25,Denpasar,Offline Store,Completed
+ORD-01285,CUST-0291,2025-12-19,Jakarta,Reseller,Completed
+ORD-01286,CUST-0670,2025-05-31,Semarang,Reseller,Completed
+ORD-01287,CUST-0721,2025-03-18,Bandung,Website,Completed
+ORD-01288,CUST-0460,2025-02-25,Bandung,Marketplace,Completed
+ORD-01289,CUST-0126,2025-07-29,Semarang,Social Commerce,Cancelled
+ORD-01290,CUST-0068,2025-06-26,Jakarta,Website,Completed
+ORD-01291,CUST-0675,2025-08-05,Surabaya,Social Commerce,Completed
+ORD-01292,CUST-0499,2025-02-17,Surabaya,Marketplace,Completed
+ORD-01293,CUST-0428,2025-04-03,Jakarta,Website,Completed
+ORD-01294,CUST-0152,2025-04-19,Surabaya,Social Commerce,Completed
+ORD-01295,CUST-0298,2025-10-08,Makassar,Reseller,Completed
+ORD-01296,CUST-0586,2025-11-08,Bandung,Offline Store,Cancelled
+ORD-01297,CUST-0594,2025-12-09,Surabaya,Reseller,Completed
+ORD-01298,CUST-0461,2025-04-24,Bandung,Reseller,Completed
+ORD-01299,CUST-0680,2025-11-04,Jakarta,Reseller,Cancelled
+ORD-01300,CUST-0575,2025-07-19,Semarang,Offline Store,Completed
+ORD-01301,CUST-0492,2025-05-06,Jakarta,Website,Completed
+ORD-01302,CUST-0371,2025-03-25,Jakarta,Offline Store,Completed
+ORD-01303,CUST-0246,2025-01-02,Jakarta,Offline Store,Completed
+ORD-01304,CUST-0513,2025-03-04,Denpasar,Social Commerce,Completed
+ORD-01305,CUST-0086,2025-05-23,Surabaya,Website,Completed
+ORD-01306,CUST-0785,2025-11-14,Jakarta,Website,Completed
+ORD-01307,CUST-0776,2025-09-03,Semarang,Offline Store,Completed
+ORD-01308,CUST-0496,2025-11-23,Denpasar,Social Commerce,Completed
+ORD-01309,CUST-0658,2025-06-14,Surabaya,Marketplace,Completed
+ORD-01310,CUST-0364,2025-10-20,Jakarta,Offline Store,Completed
+ORD-01311,CUST-0485,2025-03-11,Medan,Social Commerce,Completed
+ORD-01312,CUST-0040,2025-05-31,Denpasar,Website,Completed
+ORD-01313,CUST-0544,2025-02-08,Surabaya,Website,Completed
+ORD-01314,CUST-0141,2025-02-17,Makassar,Social Commerce,Cancelled
+ORD-01315,CUST-0787,2025-05-16,Surabaya,Offline Store,Completed
+ORD-01316,CUST-0319,2025-05-22,Denpasar,Social Commerce,Completed
+ORD-01317,CUST-0560,2025-12-20,Surabaya,Social Commerce,Completed
+ORD-01318,CUST-0096,2025-08-04,Semarang,Offline Store,Completed
+ORD-01319,CUST-0005,2025-10-29,Jakarta,Reseller,Completed
+ORD-01320,CUST-0665,2025-04-05,Makassar,Website,Completed
+ORD-01321,CUST-0280,2025-09-25,Makassar,Marketplace,Completed
+ORD-01322,CUST-0541,2025-04-09,Surabaya,Offline Store,Completed
+ORD-01323,CUST-0510,2025-11-06,Jakarta,Website,Completed
+ORD-01324,CUST-0595,2025-11-25,Jakarta,Marketplace,Completed
+ORD-01325,CUST-0749,2025-01-24,Jakarta,Reseller,Completed
+ORD-01326,CUST-0713,2025-02-26,Jakarta,Reseller,Completed
+ORD-01327,CUST-0388,2025-07-30,Semarang,Social Commerce,Completed
+ORD-01328,CUST-0281,2025-09-08,Medan,Website,Completed
+ORD-01329,CUST-0062,2025-02-01,Semarang,Reseller,Completed
+ORD-01330,CUST-0485,2025-01-08,Denpasar,Social Commerce,Completed
+ORD-01331,CUST-0226,2025-09-03,Medan,Marketplace,Completed
+ORD-01332,CUST-0149,2025-11-25,Jakarta,Offline Store,Completed
+ORD-01333,CUST-0581,2025-02-02,Jakarta,Marketplace,Completed
+ORD-01334,CUST-0004,2025-09-28,Bandung,Website,Completed
+ORD-01335,CUST-0279,2025-12-23,Makassar,Marketplace,Completed
+ORD-01336,CUST-0483,2025-07-02,Denpasar,Marketplace,Completed
+ORD-01337,CUST-0237,2025-03-12,Medan,Website,Completed
+ORD-01338,CUST-0224,2025-04-20,Surabaya,Website,Completed
+ORD-01339,CUST-0349,2025-02-17,Bandung,Social Commerce,Completed
+ORD-01340,CUST-0780,2025-11-19,Bandung,Website,Completed
+ORD-01341,CUST-0339,2025-07-30,Jakarta,Website,Completed
+ORD-01342,CUST-0772,2025-07-02,Medan,Social Commerce,Completed
+ORD-01343,CUST-0022,2025-10-20,Semarang,Offline Store,Completed
+ORD-01344,CUST-0215,2025-04-11,Bandung,Marketplace,Completed
+ORD-01345,CUST-0775,2025-11-18,Denpasar,Offline Store,Completed
+ORD-01346,CUST-0384,2025-03-29,Jakarta,Social Commerce,Completed
+ORD-01347,CUST-0731,2025-05-17,Makassar,Social Commerce,Completed
+ORD-01348,CUST-0626,2025-03-30,Denpasar,Reseller,Completed
+ORD-01349,CUST-0477,2025-10-02,Jakarta,Social Commerce,Completed
+ORD-01350,CUST-0491,2025-10-14,Medan,Social Commerce,Completed
+ORD-01351,CUST-0130,2025-04-29,Bandung,Website,Completed
+ORD-01352,CUST-0348,2025-02-12,Makassar,Social Commerce,Completed
+ORD-01353,CUST-0226,2025-03-13,Semarang,Website,Completed
+ORD-01354,CUST-0083,2025-10-07,Semarang,Offline Store,Completed
+ORD-01355,CUST-0794,2025-01-14,Semarang,Website,Completed
+ORD-01356,CUST-0600,2025-11-23,Jakarta,Website,Completed
+ORD-01357,CUST-0321,2025-06-30,Medan,Website,Completed
+ORD-01358,CUST-0553,2025-10-23,Medan,Offline Store,Completed
+ORD-01359,CUST-0637,2025-09-14,Denpasar,Website,Completed
+ORD-01360,CUST-0387,2025-05-06,Surabaya,Offline Store,Completed
+ORD-01361,CUST-0423,2025-05-01,Bandung,Offline Store,Completed
+ORD-01362,CUST-0591,2025-03-29,Medan,Website,Completed
+ORD-01363,CUST-0213,2025-07-28,Bandung,Reseller,Cancelled
+ORD-01364,CUST-0126,2025-01-25,Denpasar,Reseller,Completed
+ORD-01365,CUST-0268,2025-01-03,Semarang,Offline Store,Completed
+ORD-01366,CUST-0249,2025-05-18,Bandung,Website,Completed
+ORD-01367,CUST-0305,2025-07-28,Bandung,Website,Completed
+ORD-01368,CUST-0474,2025-02-12,Denpasar,Website,Completed
+ORD-01369,CUST-0739,2025-04-28,Semarang,Offline Store,Completed
+ORD-01370,CUST-0387,2025-08-29,Surabaya,Reseller,Completed
+ORD-01371,CUST-0570,2025-05-04,Semarang,Social Commerce,Completed
+ORD-01372,CUST-0064,2025-12-23,Semarang,Offline Store,Completed
+ORD-01373,CUST-0539,2025-04-10,Surabaya,Social Commerce,Completed
+ORD-01374,CUST-0105,2025-03-14,Jakarta,Website,Cancelled
+ORD-01375,CUST-0203,2025-12-14,Medan,Marketplace,Completed
+ORD-01376,CUST-0777,2025-09-12,Surabaya,Reseller,Completed
+ORD-01377,CUST-0343,2025-02-24,Denpasar,Reseller,Completed
+ORD-01378,CUST-0484,2025-06-20,Semarang,Reseller,Completed
+ORD-01379,CUST-0625,2025-07-08,Denpasar,Offline Store,Completed
+ORD-01380,CUST-0127,2025-02-06,Denpasar,Social Commerce,Cancelled
+ORD-01381,CUST-0601,2025-01-14,Bandung,Reseller,Completed
+ORD-01382,CUST-0076,2025-03-17,Bandung,Reseller,Completed
+ORD-01383,CUST-0134,2025-05-31,Makassar,Social Commerce,Completed
+ORD-01384,CUST-0244,2025-06-22,Medan,Reseller,Completed
+ORD-01385,CUST-0057,2025-04-09,Makassar,Marketplace,Completed
+ORD-01386,CUST-0103,2025-04-19,Bandung,Marketplace,Completed
+ORD-01387,CUST-0642,2025-09-06,Denpasar,Reseller,Completed
+ORD-01388,CUST-0119,2025-01-21,Bandung,Offline Store,Completed
+ORD-01389,CUST-0306,2025-06-25,Bandung,Reseller,Completed
+ORD-01390,CUST-0742,2025-11-11,Jakarta,Website,Completed
+ORD-01391,CUST-0725,2025-10-25,Jakarta,Offline Store,Completed
+ORD-01392,CUST-0775,2025-07-26,Makassar,Social Commerce,Cancelled
+ORD-01393,CUST-0695,2025-12-13,Denpasar,Reseller,Completed
+ORD-01394,CUST-0579,2025-06-19,Jakarta,Offline Store,Completed
+ORD-01395,CUST-0795,2025-03-14,Medan,Reseller,Cancelled
+ORD-01396,CUST-0572,2025-01-12,Medan,Marketplace,Completed
+ORD-01397,CUST-0453,2025-11-25,Bandung,Marketplace,Completed
+ORD-01398,CUST-0371,2025-11-05,Semarang,Marketplace,Completed
+ORD-01399,CUST-0680,2025-07-28,Jakarta,Marketplace,Cancelled
+ORD-01400,CUST-0273,2025-12-05,Jakarta,Social Commerce,Completed
+ORD-01401,CUST-0785,2025-03-16,Bandung,Social Commerce,Completed
+ORD-01402,CUST-0792,2025-10-28,Surabaya,Social Commerce,Completed
+ORD-01403,CUST-0002,2025-04-25,Jakarta,Social Commerce,Completed
+ORD-01404,CUST-0027,2025-06-21,Jakarta,Website,Completed
+ORD-01405,CUST-0301,2025-02-11,Semarang,Social Commerce,Completed
+ORD-01406,CUST-0658,2025-08-15,Medan,Marketplace,Completed
+ORD-01407,CUST-0401,2025-05-25,Bandung,Website,Completed
+ORD-01408,CUST-0353,2025-03-12,Jakarta,Social Commerce,Completed
+ORD-01409,CUST-0537,2025-07-23,Semarang,Social Commerce,Completed
+ORD-01410,CUST-0238,2025-08-21,Jakarta,Marketplace,Completed
+ORD-01411,CUST-0011,2025-08-26,Bandung,Marketplace,Completed
+ORD-01412,CUST-0116,2025-07-14,Bandung,Reseller,Completed
+ORD-01413,CUST-0459,2025-04-22,Jakarta,Social Commerce,Completed
+ORD-01414,CUST-0302,2025-07-22,Makassar,Website,Completed
+ORD-01415,CUST-0146,2025-02-25,Medan,Reseller,Completed
+ORD-01416,CUST-0604,2025-09-09,Makassar,Marketplace,Completed
+ORD-01417,CUST-0753,2025-06-24,Denpasar,Reseller,Cancelled
+ORD-01418,CUST-0347,2025-01-15,Bandung,Social Commerce,Completed
+ORD-01419,CUST-0737,2025-10-06,Semarang,Reseller,Completed
+ORD-01420,CUST-0413,2025-02-01,Denpasar,Reseller,Completed
+ORD-01421,CUST-0645,2025-04-25,Surabaya,Offline Store,Completed
+ORD-01422,CUST-0016,2025-07-07,Denpasar,Offline Store,Completed
+ORD-01423,CUST-0143,2025-10-20,Surabaya,Social Commerce,Completed
+ORD-01424,CUST-0555,2025-11-08,Surabaya,Social Commerce,Completed
+ORD-01425,CUST-0679,2025-04-28,Denpasar,Social Commerce,Completed
+ORD-01426,CUST-0567,2025-09-20,Semarang,Website,Completed
+ORD-01427,CUST-0452,2025-12-02,Jakarta,Offline Store,Completed
+ORD-01428,CUST-0788,2025-10-04,Semarang,Marketplace,Completed
+ORD-01429,CUST-0394,2025-09-10,Makassar,Marketplace,Cancelled
+ORD-01430,CUST-0545,2025-11-26,Surabaya,Social Commerce,Completed
+ORD-01431,CUST-0391,2025-07-19,Semarang,Social Commerce,Completed
+ORD-01432,CUST-0275,2025-07-11,Surabaya,Marketplace,Completed
+ORD-01433,CUST-0700,2025-03-10,Makassar,Social Commerce,Completed
+ORD-01434,CUST-0192,2025-06-17,Makassar,Offline Store,Completed
+ORD-01435,CUST-0227,2025-10-29,Denpasar,Marketplace,Completed
+ORD-01436,CUST-0662,2025-01-14,Medan,Social Commerce,Completed
+ORD-01437,CUST-0314,2025-04-10,Semarang,Social Commerce,Completed
+ORD-01438,CUST-0169,2025-09-05,Jakarta,Marketplace,Completed
+ORD-01439,CUST-0334,2025-02-15,Surabaya,Reseller,Completed
+ORD-01440,CUST-0488,2025-08-03,Semarang,Social Commerce,Completed
+ORD-01441,CUST-0154,2025-05-17,Semarang,Website,Completed
+ORD-01442,CUST-0393,2025-08-22,Makassar,Social Commerce,Completed
+ORD-01443,CUST-0572,2025-09-27,Denpasar,Offline Store,Completed
+ORD-01444,CUST-0333,2025-01-30,denpasar,Social Commerce,Completed
+ORD-01445,CUST-0759,2025-06-22,Semarang,Offline Store,Completed
+ORD-01446,CUST-0132,2025-09-15,Surabaya,Social Commerce,Completed
+ORD-01447,CUST-0140,2025-01-14,Denpasar,Website,Completed
+ORD-01448,CUST-0236,2025-11-24,Makassar,Marketplace,Completed
+ORD-01449,CUST-0006,2025-04-17,Surabaya,Offline Store,Completed
+ORD-01450,CUST-0436,2025-11-21,Makassar,Marketplace,Completed
+ORD-01451,CUST-0148,2025-09-09,Medan,Marketplace,Completed
+ORD-01452,CUST-0172,2025-12-27,Surabaya,Offline Store,Completed
+ORD-01453,CUST-0557,2025-12-29,Denpasar,Website,Completed
+ORD-01454,CUST-0642,2025-01-04,Surabaya,Social Commerce,Completed
+ORD-01455,CUST-0533,2025-02-16,Bandung,Reseller,Completed
+ORD-01456,CUST-0724,2025-09-23,Jakarta,Reseller,Completed
+ORD-01457,CUST-0576,2025-07-05,semarang,Offline Store,Completed
+ORD-01458,CUST-0093,2025/11/13,Makassar,Reseller,Completed
+ORD-01459,CUST-0124,2025-08-14,Semarang,Reseller,Completed
+ORD-01460,CUST-0454,2025-04-12,Denpasar,Marketplace,Cancelled
+ORD-01461,CUST-0630,2025-10-18,Bandung,Reseller,Completed
+ORD-01462,CUST-0600,2025-12-03,Jakarta,Offline Store,Completed
+ORD-01463,CUST-0592,2025-05-06,Denpasar,Social Commerce,Completed
+ORD-01464,CUST-0225,2025-09-10,Bandung,Reseller,Completed
+ORD-01465,CUST-0626,2025-09-13,Semarang,Website,Completed
+ORD-01466,CUST-0683,2025-05-07,Makassar,Reseller,Completed
+ORD-01467,CUST-0029,2025-03-18,Denpasar,Website,Completed
+ORD-01468,CUST-0780,2025-05-16,Makassar,Reseller,Cancelled
+ORD-01469,CUST-0684,2025-07-10,Makassar,Offline Store,Completed
+ORD-01470,CUST-0285,2025-01-09,Surabaya,Marketplace,Completed
+ORD-01471,CUST-0472,2025-02-26,Jakarta,Offline Store,Completed
+ORD-01472,CUST-0172,2025-10-23,Denpasar,Social Commerce,Completed
+ORD-01473,CUST-0284,2025-09-02,Semarang,Social Commerce,Completed
+ORD-01474,CUST-0426,2025-10-23,Medan,Website,Completed
+ORD-01475,CUST-0121,2025-03-22,Denpasar,Reseller,Completed
+ORD-01476,CUST-0413,2025-07-15,Jakarta,Marketplace,Completed
+ORD-01477,CUST-0458,2025-01-17,Bandung,Offline Store,Completed
+ORD-01478,CUST-0214,2025-06-22,Makassar,Website,Completed
+ORD-01479,CUST-0572,2025-01-12,Semarang,Reseller,Completed
+ORD-01480,CUST-0611,2025-03-18,Surabaya,Reseller,Completed
+ORD-01481,CUST-0359,2025-07-07,Semarang,Reseller,Completed
+ORD-01482,CUST-0611,2025-10-19,Surabaya,Marketplace,Cancelled
+ORD-01483,CUST-0376,2025-10-04,Medan,Offline Store,Completed
+ORD-01484,CUST-0494,2025-03-14,Jakarta,Reseller,Completed
+ORD-01485,CUST-0635,2025-11-03,jakarta,Reseller,Completed
+ORD-01486,CUST-0268,2025-06-13,Denpasar,Marketplace,Completed
+ORD-01487,CUST-0018,2025-03-05,Makassar,Offline Store,Completed
+ORD-01488,CUST-0381,2025-06-28,Surabaya,Reseller,Completed
+ORD-01489,CUST-0003,2025-08-11,Jakarta,Website,Completed
+ORD-01490,CUST-0040,2025-03-04,Bandung,Website,Completed
+ORD-01491,CUST-0434,2025-03-24,Makassar,Website,Completed
+ORD-01492,CUST-0376,2025-12-10,Medan,Website,Completed
+ORD-01493,CUST-0063,2025/12/27,Medan,Website,Completed
+ORD-01494,CUST-0056,2025-05-07,Medan,Marketplace,Completed
+ORD-01495,CUST-0283,2025-09-29,Medan,Offline Store,Completed
+ORD-01496,CUST-0364,2025-12-13,Medan,Reseller,Completed
+ORD-01497,CUST-0622,2025-04-13,Medan,Marketplace,Completed
+ORD-01498,CUST-0142,2025-05-04,Semarang,Reseller,Completed
+ORD-01499,CUST-0436,2025-08-01,Jakarta,Offline Store,Completed
+ORD-01500,CUST-0458,2025-01-26,Makassar,Reseller,Completed
+ORD-01501,CUST-0269,2025-12-02,Makassar,Marketplace,Completed
+ORD-01502,CUST-0647,2025-12-29,Semarang,Offline Store,Cancelled
+ORD-01503,CUST-0068,2025-12-29,Surabaya,Marketplace,Completed
+ORD-01504,CUST-0621,2025-07-22,Makassar,Reseller,Completed
+ORD-01505,CUST-0702,2025-08-13,Jakarta,Reseller,Completed
+ORD-01506,CUST-0492,2025-09-06,Makassar,Offline Store,Completed
+ORD-01507,CUST-0528,2025-12-19,Semarang,Social Commerce,Cancelled
+ORD-01508,CUST-0442,2025-03-26,Denpasar,Marketplace,Completed
+ORD-01509,CUST-0092,2025-02-24,Medan,Website,Completed
+ORD-01510,CUST-0098,2025-05-13,Denpasar,Social Commerce,Completed
+ORD-01511,CUST-0610,2025-09-20,Makassar,Social Commerce,Completed
+ORD-01512,CUST-0641,2025-09-15,Makassar,Offline Store,Completed
+ORD-01513,CUST-0312,2025-05-14,Makassar,Marketplace,Completed
+ORD-01514,CUST-0756,2025-09-20,Bandung,Social Commerce,Completed
+ORD-01515,CUST-0486,2025-08-03,Surabaya,Reseller,Completed
+ORD-01516,CUST-0094,2025-07-26,Denpasar,Website,Completed
+ORD-01517,CUST-0593,2025-07-20,Semarang,Reseller,Completed
+ORD-01518,CUST-0116,2025-08-05,Surabaya,Reseller,Completed
+ORD-01519,CUST-0363,2025-07-13,Jakarta,Reseller,Cancelled
+ORD-01520,CUST-0255,2025-10-07,Semarang,Offline Store,Cancelled
+ORD-01521,CUST-0396,2025-02-22,Bandung,Marketplace,Completed
+ORD-01522,CUST-0515,2025-01-01,Makassar,Marketplace,Completed
+ORD-01523,CUST-0456,2025-09-27,Makassar,Social Commerce,Completed
+ORD-01524,CUST-0678,2025-07-03,Denpasar,Social Commerce,Completed
+ORD-01525,CUST-0001,2025-07-28,Surabaya,Marketplace,Completed
+ORD-01526,CUST-0097,2025-09-19,Medan,Offline Store,Completed
+ORD-01527,CUST-0632,2025-03-05,Jakarta,Reseller,Completed
+ORD-01528,CUST-0029,2025-05-21,Denpasar,Social Commerce,Completed
+ORD-01529,CUST-0587,2025-10-03,Denpasar,Social Commerce,Completed
+ORD-01530,CUST-0100,2025-03-16,Surabaya,Website,Completed
+ORD-01531,CUST-0272,2025-07-12,Makassar,Reseller,Cancelled
+ORD-01532,CUST-0320,2025-08-14,Makassar,Reseller,Cancelled
+ORD-01533,CUST-0128,2025-02-26,Makassar,Marketplace,Cancelled
+ORD-01534,CUST-0712,2025-07-15,Jakarta,Offline Store,Completed
+ORD-01535,CUST-0746,2025-12-16,Jakarta,Marketplace,Cancelled
+ORD-01536,CUST-0382,2025-06-17,Makassar,Website,Completed
+ORD-01537,CUST-0184,2025-05-09,Jakarta,Offline Store,Completed
+ORD-01538,CUST-0166,2025-05-15,Jakarta,Offline Store,Completed
+ORD-01539,CUST-0519,2025-04-09,Denpasar,Social Commerce,Completed
+ORD-01540,CUST-0297,2025-12-25,Jakarta,Website,Completed
+ORD-01541,CUST-0192,2025-03-24,Jakarta,Marketplace,Completed
+ORD-01542,CUST-0783,2025-03-10,Surabaya,Social Commerce,Completed
+ORD-01543,CUST-0655,2025-09-22,Medan,Website,Completed
+ORD-01544,CUST-0406,2025-09-22,Medan,Reseller,Completed
+ORD-01545,CUST-0014,2025-08-16,Denpasar,Offline Store,Completed
+ORD-01546,CUST-0151,2025-02-08,Semarang,Website,Completed
+ORD-01547,CUST-0754,2025-04-28,Denpasar,Reseller,Completed
+ORD-01548,CUST-0050,2025-09-30,Medan,Social Commerce,Completed
+ORD-01549,CUST-0688,2025-03-05,Makassar,Marketplace,Completed
+ORD-01550,CUST-0377,2025-12-01,Surabaya,Reseller,Completed
+ORD-01551,CUST-0293,2025-08-18,Denpasar,Social Commerce,Cancelled
+ORD-01552,CUST-0657,2025-11-27,Semarang,Marketplace,Completed
+ORD-01553,CUST-0075,2025-03-28,Medan,Offline Store,Completed
+ORD-01554,CUST-0043,2025-05-07,Surabaya,Offline Store,Completed
+ORD-01555,CUST-0737,2025-06-16,Makassar,Social Commerce,Completed
+ORD-01556,CUST-0528,2025-02-23,Jakarta,Reseller,Completed
+ORD-01557,CUST-0269,2025-05-14,Medan,Website,Completed
+ORD-01558,CUST-0223,2025-11-14,Medan,Social Commerce,Completed
+ORD-01559,CUST-0329,2025-12-09,Bandung,Social Commerce,Completed
+ORD-01560,CUST-0753,2025-10-03,Medan,Social Commerce,Cancelled
+ORD-01561,CUST-0137,2025-12-26,Denpasar,Reseller,Completed
+ORD-01562,CUST-0554,2025-11-03,Semarang,Reseller,Completed
+ORD-01563,CUST-0461,2025-10-31,Bandung,Social Commerce,Completed
+ORD-01564,CUST-0512,2025-10-09,Jakarta,Reseller,Completed
+ORD-01565,CUST-0218,2025-10-13,bandung,Marketplace,Completed
+ORD-01566,CUST-0180,2025-04-28,Jakarta,Website,Completed
+ORD-01567,CUST-0733,2025-09-04,Medan,Website,Completed
+ORD-01568,CUST-0096,2025-07-16,Surabaya,Website,Completed
+ORD-01569,CUST-0432,2025-05-22,Denpasar,Social Commerce,Completed
+ORD-01570,CUST-0036,2025-02-20,Jakarta,Marketplace,Completed
+ORD-01571,CUST-0021,2025-06-19,Semarang,Website,Completed
+ORD-01572,CUST-0093,2025-12-29,Semarang,Marketplace,Completed
+ORD-01573,CUST-0409,2025-02-21,Makassar,Social Commerce,Completed
+ORD-01574,CUST-0568,2025-05-31,Bandung,Reseller,Completed
+ORD-01575,CUST-0580,2025-11-22,Jakarta,Reseller,Completed
+ORD-01576,CUST-0387,2025-08-21,Jakarta,Social Commerce,Completed
+ORD-01577,CUST-0647,2025-08-21,Makassar,Social Commerce,Completed
+ORD-01578,CUST-0378,2025-10-20,Bandung,Website,Completed
+ORD-01579,CUST-0688,2025-02-16,Semarang,Marketplace,Completed
+ORD-01580,CUST-0288,2025-03-16,Jakarta,Social Commerce,Cancelled
+ORD-01581,CUST-0055,2025-08-19,Denpasar,Offline Store,Completed
+ORD-01582,CUST-0446,2025-06-13,Denpasar,Social Commerce,Completed
+ORD-01583,CUST-0509,2025-07-07,Denpasar,Website,Cancelled
+ORD-01584,CUST-0409,2025-11-20,Bandung,Offline Store,Completed
+ORD-01585,CUST-0574,2025-03-25,Makassar,Offline Store,Completed
+ORD-01586,CUST-0668,2025-09-24,Denpasar,Social Commerce,Completed
+ORD-01587,CUST-0430,2025-03-11,Jakarta,Reseller,Completed
+ORD-01588,CUST-0119,2025-02-16,Makassar,Offline Store,Completed
+ORD-01589,CUST-0083,2025-08-07,Semarang,Website,Completed
+ORD-01590,CUST-0474,2025-01-17,Jakarta,Reseller,Cancelled
+ORD-01591,CUST-0320,2025-10-21,Makassar,Offline Store,Completed
+ORD-01592,CUST-0569,2025-10-31,Makassar,Marketplace,Completed
+ORD-01593,CUST-0739,2025-11-16,Makassar,Marketplace,Completed
+ORD-01594,CUST-0265,2025-01-19,Surabaya,Website,Completed
+ORD-01595,CUST-0304,2025-08-28,Bandung,Offline Store,Completed
+ORD-01596,CUST-0446,2025-10-07,Jakarta,Reseller,Completed
+ORD-01597,CUST-0516,2025-10-05,Bandung,Social Commerce,Completed
+ORD-01598,CUST-0554,2025-03-12,Jakarta,Offline Store,Completed
+ORD-01599,CUST-0052,2025-12-27,Medan,Offline Store,Completed
+ORD-01600,CUST-0609,2025-01-05,Jakarta,Social Commerce,Completed
+ORD-01601,CUST-0105,2025-11-04,Bandung,Website,Completed
+ORD-01602,CUST-0616,2025-02-18,Semarang,Website,Completed
+ORD-01603,CUST-0650,2025-03-28,Jakarta,Reseller,Cancelled
+ORD-01604,CUST-0139,2025-12-08,Bandung,Reseller,Completed
+ORD-01605,CUST-0220,2025-06-22,Denpasar,Marketplace,Completed
+ORD-01606,CUST-0784,2025-02-21,Medan,Marketplace,Completed
+ORD-01607,CUST-0770,2025-12-08,Denpasar,Website,Completed
+ORD-01608,CUST-0222,2025-11-15,Surabaya,Website,Completed
+ORD-01609,CUST-0033,2025-03-06,Bandung,Reseller,Completed
+ORD-01610,CUST-0631,2025-06-22,Makassar,Marketplace,Completed
+ORD-01611,CUST-0073,2025-07-18,Jakarta,Website,Completed
+ORD-01612,CUST-0735,2025-07-18,Medan,Reseller,Completed
+ORD-01613,CUST-0513,2025-09-03,Surabaya,Marketplace,Completed
+ORD-01614,CUST-0022,2025-04-26,Jakarta,Reseller,Completed
+ORD-01615,CUST-0389,2025-04-19,Surabaya,Offline Store,Completed
+ORD-01616,CUST-0720,2025-10-21,Denpasar,Marketplace,Completed
+ORD-01617,CUST-0586,2025-01-17,Jakarta,Reseller,Completed
+ORD-01618,CUST-0015,2025-05-05,Bandung,Website,Completed
+ORD-01619,CUST-0557,2025-10-12,Medan,Offline Store,Cancelled
+ORD-01620,CUST-0172,2025-06-09,Medan,Website,Completed
+ORD-01621,CUST-0379,2025-08-23,Surabaya,Social Commerce,Completed
+ORD-01622,CUST-0712,2025-01-13,Makassar,Marketplace,Completed
+ORD-01623,CUST-0173,2025-12-25,Jakarta,Social Commerce,Completed
+ORD-01624,CUST-0587,2025-09-25,Medan,Website,Completed
+ORD-01625,CUST-0448,2025-09-15,Bandung,Social Commerce,Completed
+ORD-01626,CUST-0482,2025-12-20,Bandung,Website,Completed
+ORD-01627,CUST-0491,2025-05-02,Makassar,Social Commerce,Completed
+ORD-01628,CUST-0521,2025-03-21,Makassar,Reseller,Completed
+ORD-01629,CUST-0167,2025-09-02,Jakarta,Website,Completed
+ORD-01630,CUST-0679,2025-03-11,Bandung,Website,Completed
+ORD-01631,CUST-0671,2025-05-23,Bandung,Marketplace,Completed
+ORD-01632,CUST-0617,2025-10-23,Semarang,Marketplace,Completed
+ORD-01633,CUST-0213,2025-11-21,Jakarta,Offline Store,Completed
+ORD-01634,CUST-0713,2025-03-07,Jakarta,Marketplace,Completed
+ORD-01635,CUST-0417,2025-01-25,Surabaya,Reseller,Completed
+ORD-01636,CUST-0237,2025-11-01,Denpasar,Reseller,Completed
+ORD-01637,CUST-0613,2025-03-24,Jakarta,Reseller,Completed
+ORD-01638,CUST-0760,2025-05-07,Makassar,Offline Store,Completed
+ORD-01639,CUST-0416,2025-07-07,Makassar,Offline Store,Completed
+ORD-01640,CUST-0062,2025-07-05,Surabaya,Social Commerce,Completed
+ORD-01641,CUST-0789,2025-11-06,Bandung,Marketplace,Cancelled
+ORD-01642,CUST-0445,2025-03-10,Denpasar,Website,Completed
+ORD-01643,CUST-0713,2025-10-12,Surabaya,Offline Store,Completed
+ORD-01644,CUST-0041,2025-11-22,Makassar,Reseller,Cancelled
+ORD-01645,CUST-0655,2025-03-17,Bandung,Offline Store,Completed
+ORD-01646,CUST-0059,2025-12-08,Surabaya,Social Commerce,Completed
+ORD-01647,CUST-0081,2025-02-09,Semarang,Offline Store,Completed
+ORD-01648,CUST-0512,2025-05-18,Surabaya,Reseller,Completed
+ORD-01649,CUST-0278,2025-08-30,Medan,Reseller,Cancelled
+ORD-01650,CUST-0009,2025-12-24,Makassar,Offline Store,Cancelled
+ORD-01651,CUST-0391,2025-10-22,Medan,Offline Store,Completed
+ORD-01652,CUST-0377,2025-05-03,Denpasar,Social Commerce,Completed
+ORD-01653,CUST-0201,2025/10/26,Bandung,Marketplace,Completed
+ORD-01654,CUST-0736,2025-04-20,Denpasar,Website,Completed
+ORD-01655,CUST-0508,2025-03-04,Makassar,Offline Store,Completed
+ORD-01656,CUST-0571,2025-02-17,Surabaya,Offline Store,Completed
+ORD-01657,CUST-0472,2025-09-16,Surabaya,Offline Store,Completed
+ORD-01658,CUST-0168,2025-11-26,Denpasar,Website,Completed
+ORD-01659,CUST-0417,2025-06-15,Bandung,Marketplace,Completed
+ORD-01660,CUST-0048,2025-11-27,Denpasar,Offline Store,Completed
+ORD-01661,CUST-0699,2025-09-05,Bandung,Marketplace,Completed
+ORD-01662,CUST-0233,2025-06-04,Makassar,Website,Completed
+ORD-01663,CUST-0360,2025-06-27,Semarang,Marketplace,Completed
+ORD-01664,CUST-0737,2025-03-07,Surabaya,Social Commerce,Completed
+ORD-01665,CUST-0233,2025-08-15,Semarang,Social Commerce,Completed
+ORD-01666,CUST-0363,2025-04-24,Bandung,Marketplace,Completed
+ORD-01667,CUST-0192,2025-09-19,Medan,Social Commerce,Completed
+ORD-01668,CUST-0391,2025-04-13,Jakarta,Website,Completed
+ORD-01669,CUST-0724,2025-04-04,Jakarta,Reseller,Completed
+ORD-01670,CUST-0215,2025-03-16,Bandung,Marketplace,Completed
+ORD-01671,CUST-0260,2025-05-30,Bandung,Offline Store,Completed
+ORD-01672,CUST-0415,2025-07-01,Jakarta,Reseller,Completed
+ORD-01673,CUST-0069,2025-05-06,Denpasar,Website,Completed
+ORD-01674,CUST-0283,2025-09-09,Jakarta,Marketplace,Completed
+ORD-01675,CUST-0226,2025-02-06,Denpasar,Reseller,Completed
+ORD-01676,CUST-0065,2025-07-17,Surabaya,Offline Store,Completed
+ORD-01677,CUST-0075,2025-10-19,Denpasar,Marketplace,Completed
+ORD-01678,CUST-0439,2025-06-18,Surabaya,Website,Cancelled
+ORD-01679,CUST-0217,2025-10-31,Makassar,Offline Store,Completed
+ORD-01680,CUST-0073,2025-01-08,Makassar,Reseller,Completed
+ORD-01681,CUST-0586,2025-04-14,Bandung,Reseller,Cancelled
+ORD-01682,CUST-0437,2025-03-26,Medan,Reseller,Completed
+ORD-01683,CUST-0668,2025-08-13,Medan,Website,Completed
+ORD-01684,CUST-0243,2025-06-30,Denpasar,Marketplace,Cancelled
+ORD-01685,CUST-0525,2025-01-16,Semarang,Social Commerce,Completed
+ORD-01686,CUST-0071,2025-10-28,Surabaya,Website,Completed
+ORD-01687,CUST-0431,2025-03-13,Makassar,Reseller,Completed
+ORD-01688,CUST-0608,2025-08-18,Medan,Offline Store,Completed
+ORD-01689,CUST-0323,2025-06-30,Semarang,Marketplace,Completed
+ORD-01690,CUST-0632,2025-08-07,Bandung,Reseller,Completed
+ORD-01691,CUST-0367,2025-11-29,Bandung,Social Commerce,Completed
+ORD-01692,CUST-0737,2025-08-27,Jakarta,Marketplace,Completed
+ORD-01693,CUST-0241,2025-06-03,Jakarta,Offline Store,Cancelled
+ORD-01694,CUST-0674,2025/07/31,Medan,Marketplace,Completed
+ORD-01695,CUST-0627,2025-06-06,Jakarta,Reseller,Cancelled
+ORD-01696,CUST-0462,2025-10-24,Surabaya,Marketplace,Cancelled
+ORD-01697,CUST-0230,2025-03-16,Jakarta,Social Commerce,Completed
+ORD-01698,CUST-0103,2025-05-19,Bandung,Marketplace,Completed
+ORD-01699,CUST-0063,2025-03-08,Semarang,Marketplace,Completed
+ORD-01700,CUST-0345,2025-07-09,Medan,Social Commerce,Completed
+ORD-01701,CUST-0444,2025-10-18,Denpasar,Offline Store,Completed
+ORD-01702,CUST-0581,2025-04-25,Jakarta,Website,Completed
+ORD-01703,CUST-0724,2025-09-28,Makassar,Reseller,Completed
+ORD-01704,CUST-0625,2025-10-21,Bandung,Website,Completed
+ORD-01705,CUST-0075,2025-02-13,Bandung,Social Commerce,Completed
+ORD-01706,CUST-0035,2025-03-11,Denpasar,Marketplace,Completed
+ORD-01707,CUST-0238,2025-06-04,Semarang,Reseller,Cancelled
+ORD-01708,CUST-0725,2025-12-30,Bandung,Social Commerce,Completed
+ORD-01709,CUST-0270,2025-08-27,Bandung,Website,Completed
+ORD-01710,CUST-0168,2025-01-25,Bandung,Social Commerce,Cancelled
+ORD-01711,CUST-0137,2025-04-13,Makassar,Marketplace,Cancelled
+ORD-01712,CUST-0111,2025-10-21,Bandung,Marketplace,Completed
+ORD-01713,CUST-0070,2025-08-14,Semarang,Website,Completed
+ORD-01714,CUST-0178,2025-01-30,Surabaya,Offline Store,Completed
+ORD-01715,CUST-0570,2025-10-25,Denpasar,Offline Store,Completed
+ORD-01716,CUST-0131,2025-01-24,Makassar,Offline Store,Completed
+ORD-01717,CUST-0466,2025-02-16,Semarang,Marketplace,Completed
+ORD-01718,CUST-0266,2025-07-31,Semarang,Social Commerce,Completed
+ORD-01719,CUST-0508,2025-12-20,Surabaya,Offline Store,Completed
+ORD-01720,CUST-0052,2025-05-16,Medan,Offline Store,Completed
+ORD-01721,CUST-0348,2025-03-17,Makassar,Website,Completed
+ORD-01722,CUST-0404,2025-07-17,Denpasar,Social Commerce,Completed
+ORD-01723,CUST-0588,2025-08-20,Denpasar,Website,Completed
+ORD-01724,CUST-0123,2025-01-25,Makassar,Reseller,Completed
+ORD-01725,CUST-0567,2025-12-19,Medan,Social Commerce,Completed
+ORD-01726,CUST-0711,2025-05-30,Jakarta,Marketplace,Cancelled
+ORD-01727,CUST-0364,2025-12-22,Bandung,Social Commerce,Completed
+ORD-01728,CUST-0146,2025-03-31,Medan,Reseller,Completed
+ORD-01729,CUST-0297,2025-07-04,Bandung,Marketplace,Completed
+ORD-01730,CUST-0709,2025-01-01,Makassar,Marketplace,Completed
+ORD-01731,CUST-0595,2025-11-03,Surabaya,Website,Completed
+ORD-01732,CUST-0195,2025-06-10,Denpasar,Reseller,Completed
+ORD-01733,CUST-0759,2025-11-03,Surabaya,Reseller,Completed
+ORD-01734,CUST-0018,2025-03-20,Medan,Website,Completed
+ORD-01735,CUST-0155,2025-03-22,Makassar,Offline Store,Completed
+ORD-01736,CUST-0156,2025-01-22,Makassar,Offline Store,Completed
+ORD-01737,CUST-0681,2025-06-01,Denpasar,Marketplace,Completed
+ORD-01738,CUST-0200,2025-02-19,Bandung,Website,Completed
+ORD-01739,CUST-0230,2025-10-01,Semarang,Marketplace,Completed
+ORD-01740,CUST-0079,2025-03-30,Surabaya,Offline Store,Completed
+ORD-01741,CUST-0446,2025-03-20,Makassar,Reseller,Completed
+ORD-01742,CUST-0317,2025-07-19,Surabaya,Marketplace,Completed
+ORD-01743,CUST-0510,2025-09-15,Medan,Social Commerce,Completed
+ORD-01744,CUST-0412,2025-11-23,Surabaya,Reseller,Completed
+ORD-01745,CUST-0223,2025-03-08,Surabaya,Marketplace,Completed
+ORD-01746,CUST-0018,2025-04-04,Surabaya,Website,Completed
+ORD-01747,CUST-0582,2025-09-19,Denpasar,Website,Completed
+ORD-01748,CUST-0099,2025-09-27,Semarang,Marketplace,Completed
+ORD-01749,CUST-0433,2025-08-10,Medan,Website,Completed
+ORD-01750,CUST-0766,2025-04-11,Bandung,Social Commerce,Completed
+ORD-01751,CUST-0048,2025-11-20,Surabaya,Marketplace,Completed
+ORD-01752,CUST-0706,2025-10-11,Bandung,Reseller,Cancelled
+ORD-01753,CUST-0547,2025-07-23,Semarang,Reseller,Completed
+ORD-01754,CUST-0496,2025-04-20,Medan,Website,Completed
+ORD-01755,CUST-0445,2025-05-07,Makassar,Offline Store,Completed
+ORD-01756,CUST-0518,2025-12-06,Denpasar,Marketplace,Completed
+ORD-01757,CUST-0749,2025-09-18,Bandung,Offline Store,Completed
+ORD-01758,CUST-0505,2025-09-04,Medan,Website,Completed
+ORD-01759,CUST-0254,2025-05-17,Denpasar,Website,Cancelled
+ORD-01760,CUST-0712,2025-09-15,Jakarta,Offline Store,Cancelled
+ORD-01761,CUST-0018,2025-12-12,Semarang,Marketplace,Completed
+ORD-01762,CUST-0210,2025-08-18,Surabaya,Social Commerce,Completed
+ORD-01763,CUST-0644,2025-08-11,Semarang,Website,Completed
+ORD-01764,CUST-0422,2025-11-13,Medan,Social Commerce,Completed
+ORD-01765,CUST-0406,2025-11-13,Medan,Website,Completed
+ORD-01766,CUST-0703,2025-06-07,Semarang,Reseller,Completed
+ORD-01767,CUST-0517,2025-11-08,Denpasar,Offline Store,Completed
+ORD-01768,CUST-0110,2025-10-01,Medan,Offline Store,Cancelled
+ORD-01769,CUST-0620,2025-01-06,Bandung,Social Commerce,Completed
+ORD-01770,CUST-0168,2025-01-17,Medan,Marketplace,Completed
+ORD-01771,CUST-0617,2025-10-11,jakarta,Website,Completed
+ORD-01772,CUST-0001,2025-04-24,Makassar,Social Commerce,Cancelled
+ORD-01773,CUST-0565,2025-10-04,Bandung,Social Commerce,Cancelled
+ORD-01774,CUST-0001,2025-01-25,Bandung,Website,Completed
+ORD-01775,CUST-0100,2025-05-30,Makassar,Offline Store,Cancelled
+ORD-01776,CUST-0054,2025-10-19,Makassar,Reseller,Completed
+ORD-01777,CUST-0659,2025-08-01,Denpasar,Website,Completed
+ORD-01778,CUST-0705,2025-07-10,Jakarta,Website,Completed
+ORD-01779,CUST-0682,2025-05-21,Surabaya,Reseller,Completed
+ORD-01780,CUST-0447,2025-11-02,Denpasar,Reseller,Completed
+ORD-01781,CUST-0651,2025-04-21,Semarang,Offline Store,Completed
+ORD-01782,CUST-0399,2025-09-03,Surabaya,Social Commerce,Completed
+ORD-01783,CUST-0231,2025-10-01,Surabaya,Website,Completed
+ORD-01784,CUST-0224,2025-06-28,Jakarta,Marketplace,Cancelled
+ORD-01785,CUST-0131,2025-07-21,Semarang,Marketplace,Completed
+ORD-01786,CUST-0147,2025-11-24,Semarang,Reseller,Completed
+ORD-01787,CUST-0633,2025-05-07,Surabaya,Social Commerce,Completed
+ORD-01788,CUST-0144,2025-06-27,Semarang,Offline Store,Completed
+ORD-01789,CUST-0653,2025-09-28,Jakarta,Offline Store,Completed
+ORD-01790,CUST-0276,2025-06-07,Medan,Marketplace,Completed
+ORD-01791,CUST-0115,2025-06-01,Denpasar,Reseller,Completed
+ORD-01792,CUST-0038,2025-04-15,Surabaya,Marketplace,Completed
+ORD-01793,CUST-0223,2025-09-29,Medan,Website,Completed
+ORD-01794,CUST-0526,2025-01-20,Medan,Social Commerce,Completed
+ORD-01795,CUST-0202,2025-09-01,Jakarta,Offline Store,Completed
+ORD-01796,CUST-0218,2025-12-05,Surabaya,Marketplace,Completed
+ORD-01797,CUST-0365,2025-02-24,Medan,Reseller,Completed
+ORD-01798,CUST-0607,2025-03-25,Denpasar,Reseller,Cancelled
+ORD-01799,CUST-0140,2025-07-22,Makassar,Social Commerce,Cancelled
+ORD-01800,CUST-0030,2025-10-27,Semarang,Website,Completed
+ORD-01801,CUST-0492,2025-06-24,Bandung,Social Commerce,Completed
+ORD-01802,CUST-0554,2025-02-13,Makassar,Reseller,Completed
+ORD-01803,CUST-0635,2025-06-02,Denpasar,Social Commerce,Completed
+ORD-01804,CUST-0773,2025-06-28,Makassar,Marketplace,Completed
+ORD-01805,CUST-0074,2025-03-15,Medan,Social Commerce,Completed
+ORD-01806,CUST-0193,2025-10-04,Semarang,Social Commerce,Completed
+ORD-01807,CUST-0542,2025-10-25,Surabaya,Offline Store,Completed
+ORD-01808,CUST-0779,2025-09-12,Denpasar,Marketplace,Completed
+ORD-01809,CUST-0550,2025-08-11,Jakarta,Website,Cancelled
+ORD-01810,CUST-0012,2025-10-23,Denpasar,Website,Cancelled
+ORD-01811,CUST-0152,2025-06-11,Makassar,Reseller,Completed
+ORD-01812,CUST-0552,2025-09-16,Denpasar,Website,Completed
+ORD-01813,CUST-0130,2025-04-10,Semarang,Reseller,Completed
+ORD-01814,CUST-0082,2025-10-27,Jakarta,Marketplace,Completed
+ORD-01815,CUST-0125,2025-06-28,Bandung,Reseller,Completed
+ORD-01816,CUST-0104,2025-10-01,Denpasar,Social Commerce,Completed
+ORD-01817,CUST-0307,2025-03-11,Bandung,Reseller,Completed
+ORD-01818,CUST-0358,2025-12-20,Makassar,Social Commerce,Completed
+ORD-01819,CUST-0642,2025-01-04,Surabaya,Social Commerce,Completed
+ORD-01820,CUST-0599,2025-05-03,Medan,Social Commerce,Completed
+ORD-01821,CUST-0676,2025-01-22,Bandung,Social Commerce,Completed
+ORD-01822,CUST-0256,2025-06-25,Surabaya,Marketplace,Completed
+ORD-01823,CUST-0722,2025-02-05,Semarang,Reseller,Completed
+ORD-01824,CUST-0332,2025-08-25,Semarang,Marketplace,Completed
+ORD-01825,CUST-0002,2025-10-07,Bandung,Reseller,Completed
+ORD-01826,CUST-0214,2025-08-03,Medan,Marketplace,Completed
+ORD-01827,CUST-0278,2025-12-13,Medan,Website,Completed
+ORD-01828,CUST-0046,2025-10-22,Medan,Reseller,Completed
+ORD-01829,CUST-0550,2025-09-16,Denpasar,Offline Store,Cancelled
+ORD-01830,CUST-0503,2025-03-11,Jakarta,Reseller,Completed
+ORD-01831,CUST-0776,2025-02-24,Medan,Offline Store,Completed
+ORD-01832,CUST-0506,2025-09-17,Bandung,Social Commerce,Completed
+ORD-01833,CUST-0258,2025-01-08,Jakarta,Marketplace,Completed
+ORD-01834,CUST-0525,2025-04-09,Denpasar,Reseller,Completed
+ORD-01835,CUST-0041,2025-03-27,Surabaya,Website,Completed
+ORD-01836,CUST-0473,2025-08-19,Bandung,Website,Completed
+ORD-01837,CUST-0103,2025-05-20,Makassar,Marketplace,Completed
+ORD-01838,CUST-0317,2025-11-12,Jakarta,Marketplace,Completed
+ORD-01839,CUST-0262,2025-07-19,Denpasar,Social Commerce,Completed
+ORD-01840,CUST-0190,2025-03-15,Surabaya,Website,Completed
+ORD-01841,CUST-0037,2025-01-27,Bandung,Offline Store,Completed
+ORD-01842,CUST-0174,2025-12-01,Jakarta,Marketplace,Completed
+ORD-01843,CUST-0425,2025-07-20,Semarang,Marketplace,Completed
+ORD-01844,CUST-0321,2025-11-06,Jakarta,Website,Completed
+ORD-01845,CUST-0671,2025-01-18,Medan,Marketplace,Completed
+ORD-01846,CUST-0580,2025-07-14,Jakarta,Social Commerce,Completed
+ORD-01847,CUST-0191,2025-03-14,jakarta,Website,Completed
+ORD-01848,CUST-0071,2025-10-08,Medan,Website,Completed
+ORD-01849,CUST-0189,2025-03-09,Surabaya,Marketplace,Completed
+ORD-01850,CUST-0598,2025-01-09,Surabaya,Offline Store,Completed
+ORD-01851,CUST-0231,2025-02-18,Bandung,Reseller,Completed
+ORD-01852,CUST-0738,2025-06-03,Makassar,Website,Completed
+ORD-01853,CUST-0109,2025-03-09,Jakarta,Social Commerce,Completed
+ORD-01854,CUST-0549,2025-11-07,Medan,Offline Store,Completed
+ORD-01855,CUST-0468,2025-06-09,Surabaya,Website,Completed
+ORD-01856,CUST-0034,2025-10-20,Medan,Offline Store,Cancelled
+ORD-01857,CUST-0755,2025-10-20,Semarang,Social Commerce,Completed
+ORD-01858,CUST-0460,2025-05-19,Jakarta,Social Commerce,Completed
+ORD-01859,CUST-0327,2025-07-30,Surabaya,Reseller,Completed
+ORD-01860,CUST-0703,2025-09-09,Semarang,Marketplace,Completed
+ORD-01861,CUST-0532,2025-10-08,Medan,Marketplace,Completed
+ORD-01862,CUST-0259,2025-03-04,Jakarta,Reseller,Completed
+ORD-01863,CUST-0772,2025-10-18,Semarang,Marketplace,Completed
+ORD-01864,CUST-0545,2025-12-11,Denpasar,Social Commerce,Completed
+ORD-01865,CUST-0308,2025-06-22,Makassar,Website,Completed
+ORD-01866,CUST-0256,2025-04-23,Medan,Website,Completed
+ORD-01867,CUST-0679,2025-02-17,Makassar,Social Commerce,Completed
+ORD-01868,CUST-0267,2025-11-22,Denpasar,Website,Completed
+ORD-01869,CUST-0589,2025-07-12,Makassar,Social Commerce,Completed
+ORD-01870,CUST-0060,2025-02-18,Makassar,Marketplace,Completed
+ORD-01871,CUST-0706,2025-02-16,Makassar,Marketplace,Completed
+ORD-01872,CUST-0401,2025-03-18,Bandung,Website,Completed
+ORD-01873,CUST-0653,2025-07-03,Bandung,Reseller,Completed
+ORD-01874,CUST-0164,2025-02-14,Makassar,Website,Completed
+ORD-01875,CUST-0429,2025-12-18,Jakarta,Marketplace,Completed
+ORD-01876,CUST-0178,2025-11-05,Bandung,Website,Completed
+ORD-01877,CUST-0741,2025-02-15,Semarang,Marketplace,Completed
+ORD-01878,CUST-0129,2025-02-15,Jakarta,Offline Store,Completed
+ORD-01879,CUST-0391,2025-06-09,Semarang,Website,Completed
+ORD-01880,CUST-0026,2025-07-16,Jakarta,Social Commerce,Completed
+ORD-01881,CUST-0504,2025-06-08,Denpasar,Marketplace,Completed
+ORD-01882,CUST-0174,2025-10-01,Bandung,Offline Store,Completed
+ORD-01883,CUST-0402,2025-09-18,Denpasar,Reseller,Completed
+ORD-01884,CUST-0453,2025-10-07,Makassar,Offline Store,Cancelled
+ORD-01885,CUST-0016,2025-07-05,Jakarta,Reseller,Completed
+ORD-01886,CUST-0315,2025-04-18,Jakarta,Offline Store,Completed
+ORD-01887,CUST-0366,2025-03-25,Surabaya,Social Commerce,Completed
+ORD-01888,CUST-0290,2025-05-22,Semarang,Website,Completed
+ORD-01889,CUST-0793,2025-09-10,Bandung,Social Commerce,Completed
+ORD-01890,CUST-0003,2025-05-08,denpasar,Reseller,Completed
+ORD-01891,CUST-0541,2025-02-03,Makassar,Offline Store,Cancelled
+ORD-01892,CUST-0380,2025-03-24,Surabaya,Marketplace,Completed
+ORD-01893,CUST-0122,2025-01-16,Semarang,Reseller,Completed
+ORD-01894,CUST-0518,2025-11-25,Medan,Website,Completed
+ORD-01895,CUST-0564,2025-08-17,Denpasar,Social Commerce,Cancelled
+ORD-01896,CUST-0014,2025-01-17,Bandung,Offline Store,Completed
+ORD-01897,CUST-0766,2025-09-12,Jakarta,Social Commerce,Completed
+ORD-01898,CUST-0265,2025-09-17,Jakarta,Social Commerce,Completed
+ORD-01899,CUST-0170,2025-09-29,Semarang,Website,Completed
+ORD-01900,CUST-0733,2025-01-29,Bandung,Reseller,Completed
+ORD-01901,CUST-0611,2025-12-13,Denpasar,Social Commerce,Completed
+ORD-01902,CUST-0430,2025-08-18,Makassar,Website,Completed
+ORD-01903,CUST-0376,2025-10-09,Denpasar,Offline Store,Completed
+ORD-01904,CUST-0686,2025-05-12,Denpasar,Offline Store,Completed
+ORD-01905,CUST-0039,2025-10-27,Denpasar,Reseller,Cancelled
+ORD-01906,CUST-0068,2025-07-02,Medan,Social Commerce,Completed
+ORD-01907,CUST-0057,2025-06-14,Semarang,Website,Completed
+ORD-01908,CUST-0665,2025-01-24,Makassar,Offline Store,Completed
+ORD-01909,CUST-0296,2025-03-12,Makassar,Offline Store,Completed
+ORD-01910,CUST-0110,2025-06-04,Semarang,Reseller,Cancelled
+ORD-01911,CUST-0151,2025-01-24,Jakarta,Offline Store,Completed
+ORD-01912,CUST-0684,2025-04-29,Denpasar,Social Commerce,Completed
+ORD-01913,CUST-0122,2025-01-09,Denpasar,Offline Store,Completed
+ORD-01914,CUST-0763,2025-06-14,Denpasar,Website,Completed
+ORD-01915,CUST-0138,2025-02-20,bandung,Social Commerce,Completed
+ORD-01916,CUST-0165,2025-08-25,Bandung,Reseller,Completed
+ORD-01917,CUST-0433,2025-05-24,Denpasar,Reseller,Completed
+ORD-01918,CUST-0209,2025-08-24,Jakarta,Social Commerce,Completed
+ORD-01919,CUST-0493,2025-11-30,Makassar,Marketplace,Completed
+ORD-01920,CUST-0315,2025-06-12,Bandung,Social Commerce,Completed
+ORD-01921,CUST-0471,2025-12-28,Semarang,Marketplace,Completed
+ORD-01922,CUST-0266,2025-06-20,Denpasar,Reseller,Completed
+ORD-01923,CUST-0457,2025-01-06,Semarang,Reseller,Completed
+ORD-01924,CUST-0411,2025-10-08,Medan,Reseller,Completed
+ORD-01925,CUST-0417,2025-01-27,Semarang,Website,Completed
+ORD-01926,CUST-0704,2025-01-14,Makassar,Social Commerce,Completed
+ORD-01927,CUST-0699,2025-04-09,Semarang,Offline Store,Completed
+ORD-01928,CUST-0079,2025-08-12,Makassar,Website,Completed
+ORD-01929,CUST-0185,2025-04-16,Jakarta,Marketplace,Completed
+ORD-01930,CUST-0667,2025-07-09,Medan,Reseller,Cancelled
+ORD-01931,CUST-0059,2025-03-26,Denpasar,Offline Store,Completed
+ORD-01932,CUST-0180,2025-07-11,Jakarta,Reseller,Cancelled
+ORD-01933,CUST-0031,2025-04-06,Bandung,Reseller,Cancelled
+ORD-01934,CUST-0408,2025-12-14,Surabaya,Reseller,Completed
+ORD-01935,CUST-0462,2025-02-06,Medan,Website,Completed
+ORD-01936,CUST-0351,2025-01-21,Semarang,Website,Completed
+ORD-01937,CUST-0592,2025-07-12,Bandung,Website,Completed
+ORD-01938,CUST-0553,2025-01-03,Bandung,Social Commerce,Completed
+ORD-01939,CUST-0619,2025-12-24,Bandung,Social Commerce,Completed
+ORD-01940,CUST-0090,2025-10-04,Bandung,Social Commerce,Completed
+ORD-01941,CUST-0405,2025-08-20,Semarang,Offline Store,Completed
+ORD-01942,CUST-0383,2025-10-28,Jakarta,Reseller,Completed
+ORD-01943,CUST-0682,2025-01-06,Semarang,Website,Cancelled
+ORD-01944,CUST-0244,2025-06-03,Makassar,Website,Completed
+ORD-01945,CUST-0212,2025-05-07,Bandung,Website,Completed
+ORD-01946,CUST-0353,2025-06-19,Denpasar,Website,Completed
+ORD-01947,CUST-0415,2025-04-26,Makassar,Social Commerce,Completed
+ORD-01948,CUST-0168,2025-07-21,Makassar,Reseller,Completed
+ORD-01949,CUST-0765,2025-10-16,Semarang,Social Commerce,Completed
+ORD-01950,CUST-0166,2025-02-16,Makassar,Website,Completed
+ORD-01951,CUST-0147,2025/03/02,Bandung,Reseller,Completed
+ORD-01952,CUST-0164,2025-05-23,Jakarta,Website,Completed
+ORD-01953,CUST-0351,2025-08-18,Makassar,Website,Cancelled
+ORD-01954,CUST-0494,2025-02-21,Surabaya,Marketplace,Completed
+ORD-01955,CUST-0645,2025-09-18,Medan,Offline Store,Completed
+ORD-01956,CUST-0436,2025-11-14,Jakarta,Reseller,Completed
+ORD-01957,CUST-0676,2025-03-23,Semarang,Social Commerce,Completed
+ORD-01958,CUST-0236,2025-12-20,Denpasar,Offline Store,Completed
+ORD-01959,CUST-0738,2025-04-18,Denpasar,Marketplace,Completed
+ORD-01960,CUST-0530,2025-01-26,Denpasar,Reseller,Completed
+ORD-01961,CUST-0514,2025-02-17,Makassar,Marketplace,Completed
+ORD-01962,CUST-0505,2025-09-05,jakarta,Reseller,Completed
+ORD-01963,CUST-0059,2025-11-13,Bandung,Offline Store,Completed
+ORD-01964,CUST-0544,2025-09-27,Bandung,Social Commerce,Completed
+ORD-01965,CUST-0273,2025-09-18,Medan,Reseller,Completed
+ORD-01966,CUST-0083,2025-07-11,Denpasar,Social Commerce,Completed
+ORD-01967,CUST-0547,2025-02-24,Bandung,Offline Store,Completed
+ORD-01968,CUST-0604,2025-04-07,Denpasar,Offline Store,Completed
+ORD-01969,CUST-0281,2025-05-06,Jakarta,Offline Store,Cancelled
+ORD-01970,CUST-0404,2025-08-02,Bandung,Reseller,Completed
+ORD-01971,CUST-0370,2025-10-25,Medan,Marketplace,Completed
+ORD-01972,CUST-0020,2025-01-21,Semarang,Marketplace,Cancelled
+ORD-01973,CUST-0225,2025-10-22,Bandung,Offline Store,Completed
+ORD-01974,CUST-0228,2025-10-31,Medan,Website,Completed
+ORD-01975,CUST-0767,2025-12-17,Medan,Website,Completed
+ORD-01976,CUST-0475,2025-04-27,Bandung,Marketplace,Completed
+ORD-01977,CUST-0659,2025-01-07,Denpasar,Social Commerce,Completed
+ORD-01978,CUST-0283,2025-06-28,Denpasar,Offline Store,Completed
+ORD-01979,CUST-0371,2025-09-25,Medan,Reseller,Completed
+ORD-01980,CUST-0349,2025-06-17,Jakarta,Social Commerce,Completed
+ORD-01981,CUST-0294,2025-03-28,Makassar,Marketplace,Completed
+ORD-01982,CUST-0800,2025-08-08,Surabaya,Marketplace,Completed
+ORD-01983,CUST-0780,2025-07-13,Bandung,Reseller,Completed
+ORD-01984,CUST-0203,2025-03-30,Makassar,Reseller,Completed
+ORD-01985,CUST-0348,2025-11-01,Bandung,Social Commerce,Completed
+ORD-01986,CUST-0799,2025-06-14,Makassar,Social Commerce,Completed
+ORD-01987,CUST-0080,2025-10-01,Surabaya,Reseller,Completed
+ORD-01988,CUST-0536,2025-09-16,Surabaya,Offline Store,Completed
+ORD-01989,CUST-0479,2025-08-01,Bandung,Reseller,Completed
+ORD-01990,CUST-0035,2025-10-20,Jakarta,Marketplace,Completed
+ORD-01991,CUST-0395,2025-10-15,Jakarta,Offline Store,Completed
+ORD-01992,CUST-0436,2025-05-17,Makassar,Social Commerce,Completed
+ORD-01993,CUST-0023,2025-04-19,Denpasar,Reseller,Completed
+ORD-01994,CUST-0431,2025-04-04,Medan,Reseller,Cancelled
+ORD-01995,CUST-0337,2025-08-09,Bandung,Social Commerce,Completed
+ORD-01996,CUST-0425,2025-10-21,Bandung,Offline Store,Completed
+ORD-01997,CUST-0121,2025-03-13,Semarang,Reseller,Completed
+ORD-01998,CUST-0031,2025-08-15,Medan,Reseller,Completed
+ORD-01999,CUST-0016,2025-12-13,Medan,Marketplace,Cancelled
+ORD-02000,CUST-0164,2025-10-02,Medan,Website,Completed
+ORD-02001,CUST-0093,2025-08-26,Medan,Website,Completed
+ORD-02002,CUST-0549,2025-10-30,Semarang,Marketplace,Completed
+ORD-02003,CUST-0116,2025-01-10,Surabaya,Offline Store,Cancelled
+ORD-02004,CUST-0265,2025-07-08,Makassar,Social Commerce,Completed
+ORD-02005,CUST-0711,2025-03-17,Semarang,Website,Completed
+ORD-02006,CUST-0396,2025-01-03,Semarang,Reseller,Completed
+ORD-02007,CUST-0106,2025-01-27,Medan,Offline Store,Cancelled
+ORD-02008,CUST-0794,2025-08-18,Jakarta,Website,Completed
+ORD-02009,CUST-0306,2025-11-19,Jakarta,Reseller,Completed
+ORD-02010,CUST-0068,2025-11-24,Medan,Marketplace,Completed
+ORD-02011,CUST-0789,2025-11-30,Surabaya,Offline Store,Completed
+ORD-02012,CUST-0348,2025-10-24,Makassar,Marketplace,Completed
+ORD-02013,CUST-0395,2025-11-04,Denpasar,Website,Completed
+ORD-02014,CUST-0059,2025-08-22,Semarang,Marketplace,Completed
+ORD-02015,CUST-0391,2025-11-01,Semarang,Marketplace,Completed
+ORD-02016,CUST-0678,2025-06-01,Semarang,Marketplace,Completed
+ORD-02017,CUST-0093,2025-10-27,Bandung,Marketplace,Completed
+ORD-02018,CUST-0256,2025-01-31,Makassar,Reseller,Completed
+ORD-02019,CUST-0326,2025-07-12,Bandung,Offline Store,Completed
+ORD-02020,CUST-0451,2025-09-30,Denpasar,Offline Store,Completed
+ORD-02021,CUST-0523,2025-05-20,Makassar,Marketplace,Completed
+ORD-02022,CUST-0421,2025-07-24,Bandung,Marketplace,Completed
+ORD-02023,CUST-0542,2025-11-16,Medan,Offline Store,Cancelled
+ORD-02024,CUST-0581,2025-06-08,Denpasar,Reseller,Completed
+ORD-02025,CUST-0189,2025-07-18,Bandung,Reseller,Cancelled
+ORD-02026,CUST-0598,2025-10-19,Medan,Marketplace,Completed
+ORD-02027,CUST-0254,2025-10-08,Bandung,Offline Store,Completed
+ORD-02028,CUST-0125,2025-06-04,Bandung,Offline Store,Completed
+ORD-02029,CUST-0205,2025-06-17,Makassar,Social Commerce,Completed
+ORD-02030,CUST-0031,2025-01-06,Jakarta,Website,Completed
+ORD-02031,CUST-0313,2025-02-04,Semarang,Marketplace,Completed
+ORD-02032,CUST-0508,2025-10-22,Surabaya,Marketplace,Completed
+ORD-02033,CUST-0715,2025/12/08,Bandung,Offline Store,Completed
+ORD-02034,CUST-0032,2025-04-29,Makassar,Reseller,Completed
+ORD-02035,CUST-0379,2025-11-29,Medan,Social Commerce,Completed
+ORD-02036,CUST-0252,2025-07-06,Semarang,Website,Completed
+ORD-02037,CUST-0318,2025-01-04,Bandung,Offline Store,Completed
+ORD-02038,CUST-0634,2025-12-05,Surabaya,Reseller,Completed
+ORD-02039,CUST-0202,2025-09-11,Semarang,Marketplace,Completed
+ORD-02040,CUST-0637,2025-06-20,Semarang,Social Commerce,Cancelled
+ORD-02041,CUST-0199,2025-09-05,Bandung,Reseller,Completed
+ORD-02042,CUST-0294,2025-08-18,Makassar,Social Commerce,Completed
+ORD-02043,CUST-0068,2025-06-11,Jakarta,Reseller,Completed
+ORD-02044,CUST-0495,2025-02-15,Semarang,Marketplace,Completed
+ORD-02045,CUST-0363,2025-10-13,Makassar,Website,Completed
+ORD-02046,CUST-0736,2025-05-19,Denpasar,Social Commerce,Completed
+ORD-02047,CUST-0052,2025-01-02,Surabaya,Website,Cancelled
+ORD-02048,CUST-0283,2025-10-04,Jakarta,Marketplace,Cancelled
+ORD-02049,CUST-0392,2025-10-29,Medan,Marketplace,Completed
+ORD-02050,CUST-0644,2025-05-23,Semarang,Website,Completed
+ORD-02051,CUST-0623,2025-03-22,Semarang,Offline Store,Completed
+ORD-02052,CUST-0205,2025-03-09,Jakarta,Marketplace,Cancelled
+ORD-02053,CUST-0572,2025-11-06,Medan,Website,Cancelled
+ORD-02054,CUST-0095,2025-11-11,Makassar,Offline Store,Completed
+ORD-02055,CUST-0400,2025-03-16,Medan,Website,Completed
+ORD-02056,CUST-0191,2025-05-04,Semarang,Website,Completed
+ORD-02057,CUST-0008,2025-12-14,Medan,Reseller,Completed
+ORD-02058,CUST-0792,2025-12-14,Bandung,Marketplace,Completed
+ORD-02059,CUST-0432,2025-05-20,Denpasar,Reseller,Completed
+ORD-02060,CUST-0142,2025-01-07,Semarang,Reseller,Completed
+ORD-02061,CUST-0411,2025-09-22,Jakarta,Offline Store,Completed
+ORD-02062,CUST-0090,2025-11-25,Semarang,Reseller,Completed
+ORD-02063,CUST-0012,2025-03-03,Denpasar,Marketplace,Cancelled
+ORD-02064,CUST-0759,2025-01-31,Bandung,Website,Completed
+ORD-02065,CUST-0583,2025-07-09,Medan,Social Commerce,Completed
+ORD-02066,CUST-0639,2025-01-26,Semarang,Social Commerce,Completed
+ORD-02067,CUST-0303,2025-09-10,Semarang,Offline Store,Completed
+ORD-02068,CUST-0711,2025-05-25,Surabaya,Offline Store,Completed
+ORD-02069,CUST-0575,2025-11-19,Jakarta,Social Commerce,Cancelled
+ORD-02070,CUST-0703,2025-11-02,Surabaya,Marketplace,Completed
+ORD-02071,CUST-0318,2025-03-13,Makassar,Reseller,Completed
+ORD-02072,CUST-0517,2025-07-07,Surabaya,Website,Completed
+ORD-02073,CUST-0434,2025-02-16,Medan,Website,Completed
+ORD-02074,CUST-0252,2025-04-18,Makassar,Offline Store,Completed
+ORD-02075,CUST-0712,2025/06/13,Medan,Social Commerce,Completed
+ORD-02076,CUST-0590,2025-11-23,Makassar,Reseller,Completed
+ORD-02077,CUST-0200,2025-05-01,Surabaya,Social Commerce,Completed
+ORD-02078,CUST-0051,2025-08-28,Denpasar,Marketplace,Completed
+ORD-02079,CUST-0618,2025-01-14,Surabaya,Reseller,Completed
+ORD-02080,CUST-0491,2025-12-24,Bandung,Marketplace,Completed
+ORD-02081,CUST-0608,2025-11-13,Semarang,Marketplace,Completed
+ORD-02082,CUST-0739,2025-04-25,Makassar,Offline Store,Completed
+ORD-02083,CUST-0023,2025-04-04,Makassar,Website,Completed
+ORD-02084,CUST-0234,2025-04-07,Denpasar,Marketplace,Completed
+ORD-02085,CUST-0153,2025-09-26,Makassar,Website,Completed
+ORD-02086,CUST-0332,2025-08-15,Medan,Social Commerce,Cancelled
+ORD-02087,CUST-0031,2025-03-05,Jakarta,Reseller,Completed
+ORD-02088,CUST-0132,2025-03-19,Medan,Reseller,Completed
+ORD-02089,CUST-0029,2025-09-02,Denpasar,Reseller,Completed
+ORD-02090,CUST-0630,2025-06-21,Surabaya,Marketplace,Cancelled
+ORD-02091,CUST-0746,2025-06-02,Jakarta,Marketplace,Completed
+ORD-02092,CUST-0431,2025-08-21,Bandung,Offline Store,Cancelled
+ORD-02093,CUST-0251,2025-01-21,Semarang,Reseller,Completed
+ORD-02094,CUST-0323,2025-05-17,Makassar,Reseller,Cancelled
+ORD-02095,CUST-0497,2025-12-14,Semarang,Social Commerce,Completed
+ORD-02096,CUST-0323,2025-11-14,Denpasar,Offline Store,Completed
+ORD-02097,CUST-0131,2025/04/21,Bandung,Marketplace,Cancelled
+ORD-02098,CUST-0667,2025-10-01,Jakarta,Website,Completed
+ORD-02099,CUST-0462,2025-12-17,Medan,Marketplace,Completed
+ORD-02100,CUST-0653,2025-03-30,Bandung,Offline Store,Completed
+ORD-02101,CUST-0539,2025-08-19,Semarang,Social Commerce,Completed
+ORD-02102,CUST-0070,2025-05-29,Medan,Social Commerce,Completed
+ORD-02103,CUST-0766,2025-08-28,Makassar,Social Commerce,Completed
+ORD-02104,CUST-0581,2025-05-18,Denpasar,Reseller,Completed
+ORD-02105,CUST-0052,2025-03-03,Denpasar,Social Commerce,Completed
+ORD-02106,CUST-0429,2025-02-20,Surabaya,Offline Store,Completed
+ORD-02107,CUST-0361,2025-09-10,Jakarta,Marketplace,Completed
+ORD-02108,CUST-0299,2025-03-09,Semarang,Website,Completed
+ORD-02109,CUST-0333,2025-05-11,Jakarta,Marketplace,Completed
+ORD-02110,CUST-0148,2025-01-03,Denpasar,Marketplace,Completed
+ORD-02111,CUST-0419,2025-05-06,Bandung,Website,Cancelled
+ORD-02112,CUST-0341,2025-12-22,Semarang,Website,Completed
+ORD-02113,CUST-0685,2025-05-18,Makassar,Website,Cancelled
+ORD-02114,CUST-0276,2025-10-12,Jakarta,Marketplace,Completed
+ORD-02115,CUST-0307,2025-09-09,Makassar,Website,Cancelled
+ORD-02116,CUST-0644,2025-10-27,Denpasar,Social Commerce,Completed
+ORD-02117,CUST-0277,2025-05-09,Bandung,Website,Completed
+ORD-02118,CUST-0341,2025-03-13,Makassar,Offline Store,Cancelled
+ORD-02119,CUST-0042,2025-03-20,Bandung,Website,Cancelled
+ORD-02120,CUST-0069,2025-06-08,Makassar,Reseller,Completed
+ORD-02121,CUST-0328,2025-11-07,Denpasar,Social Commerce,Completed
+ORD-02122,CUST-0032,2025-08-08,Semarang,Offline Store,Completed
+ORD-02123,CUST-0717,2025-04-09,Jakarta,Reseller,Completed
+ORD-02124,CUST-0095,2025-07-10,Denpasar,Social Commerce,Completed
+ORD-02125,CUST-0608,2025-10-08,Denpasar,Website,Completed
+ORD-02126,CUST-0486,2025-12-01,Jakarta,Reseller,Cancelled
+ORD-02127,CUST-0696,2025-08-30,Denpasar,Social Commerce,Completed
+ORD-02128,CUST-0732,2025-05-20,Makassar,Reseller,Completed
+ORD-02129,CUST-0509,2025-08-04,Surabaya,Offline Store,Completed
+ORD-02130,CUST-0041,2025-12-17,Denpasar,Reseller,Completed
+ORD-02131,CUST-0523,2025-07-09,Makassar,Reseller,Completed
+ORD-02132,CUST-0702,2025-01-09,Medan,Reseller,Completed
+ORD-02133,CUST-0647,2025-02-28,Denpasar,Social Commerce,Completed
+ORD-02134,CUST-0660,2025-09-25,Medan,Website,Completed
+ORD-02135,CUST-0038,2025-11-02,Denpasar,Website,Completed
+ORD-02136,CUST-0282,2025-04-25,Semarang,Social Commerce,Completed
+ORD-02137,CUST-0472,2025-06-17,Makassar,Social Commerce,Completed
+ORD-02138,CUST-0453,2025-09-07,Bandung,Website,Completed
+ORD-02139,CUST-0787,2025-12-15,Surabaya,Reseller,Completed
+ORD-02140,CUST-0529,2025-04-24,Surabaya,Offline Store,Completed
+ORD-02141,CUST-0215,2025-10-03,Jakarta,Website,Completed
+ORD-02142,CUST-0719,2025-11-30,Jakarta,Marketplace,Completed
+ORD-02143,CUST-0617,2025-10-01,Jakarta,Website,Cancelled
+ORD-02144,CUST-0437,2025-07-02,Makassar,Offline Store,Completed
+ORD-02145,CUST-0138,2025/04/22,Makassar,Offline Store,Completed
+ORD-02146,CUST-0597,2025-07-01,Medan,Offline Store,Completed
+ORD-02147,CUST-0107,2025-04-30,Makassar,Reseller,Completed
+ORD-02148,CUST-0378,2025-10-14,Semarang,Offline Store,Completed
+ORD-02149,CUST-0071,2025-07-10,Makassar,Offline Store,Completed
+ORD-02150,CUST-0299,2025-06-03,Denpasar,Reseller,Completed
+ORD-02151,CUST-0291,2025-10-06,Semarang,Website,Completed
+ORD-02152,CUST-0170,2025-03-24,Jakarta,Social Commerce,Completed
+ORD-02153,CUST-0060,2025-12-24,Semarang,Social Commerce,Completed
+ORD-02154,CUST-0606,2025-03-07,Denpasar,Marketplace,Completed
+ORD-02155,CUST-0744,2025-10-22,Semarang,Social Commerce,Completed
+ORD-02156,CUST-0127,2025-08-24,Makassar,Reseller,Completed
+ORD-02157,CUST-0137,2025-03-07,Semarang,Marketplace,Completed
+ORD-02158,CUST-0434,2025-08-13,Makassar,Marketplace,Completed
+ORD-02159,CUST-0283,2025-06-05,Denpasar,Reseller,Completed
+ORD-02160,CUST-0312,2025-08-23,Denpasar,Reseller,Completed
+ORD-02161,CUST-0069,2025-04-22,Makassar,Social Commerce,Completed
+ORD-02162,CUST-0095,2025-05-15,Surabaya,Social Commerce,Completed
+ORD-02163,CUST-0184,2025-01-02,Semarang,Offline Store,Completed
+ORD-02164,CUST-0799,2025-05-19,Surabaya,Offline Store,Completed
+ORD-02165,CUST-0259,2025-02-03,Surabaya,Offline Store,Completed
+ORD-02166,CUST-0595,2025-05-30,Denpasar,Marketplace,Completed
+ORD-02167,CUST-0325,2025-10-29,Bandung,Website,Completed
+ORD-02168,CUST-0293,2025-06-14,Bandung,Reseller,Completed
+ORD-02169,CUST-0549,2025-12-23,Medan,Marketplace,Completed
+ORD-02170,CUST-0548,2025-09-04,Medan,Marketplace,Completed
+ORD-02171,CUST-0468,2025-10-08,Jakarta,Website,Cancelled
+ORD-02172,CUST-0003,2025-11-30,Bandung,Reseller,Cancelled
+ORD-02173,CUST-0761,2025-12-28,Bandung,Website,Completed
+ORD-02174,CUST-0190,2025/01/28,Makassar,Reseller,Completed
+ORD-02175,CUST-0297,2025-02-19,Denpasar,Marketplace,Completed
+ORD-02176,CUST-0098,2025-01-10,Denpasar,Reseller,Completed
+ORD-02177,CUST-0285,2025-03-11,Jakarta,Website,Completed
+ORD-02178,CUST-0387,2025-07-10,Bandung,Website,Completed
+ORD-02179,CUST-0548,2025-05-12,Surabaya,Marketplace,Completed
+ORD-02180,CUST-0373,2025-03-31,Bandung,Social Commerce,Completed
+ORD-02181,CUST-0261,2025-11-03,Surabaya,Reseller,Completed
+ORD-02182,CUST-0439,2025-08-15,Denpasar,Website,Completed
+ORD-02183,CUST-0366,2025-10-26,Bandung,Reseller,Completed
+ORD-02184,CUST-0365,2025-04-29,Medan,Website,Completed
+ORD-02185,CUST-0500,2025-05-17,Denpasar,Reseller,Completed
+ORD-02186,CUST-0485,2025-05-17,Denpasar,Offline Store,Completed
+ORD-02187,CUST-0797,2025-08-15,Surabaya,Reseller,Completed
+ORD-02188,CUST-0131,2025-07-28,Denpasar,Social Commerce,Completed
+ORD-02189,CUST-0155,2025-10-31,Surabaya,Website,Completed
+ORD-02190,CUST-0278,2025-06-15,Bandung,Offline Store,Completed
+ORD-02191,CUST-0749,2025-07-21,Makassar,Marketplace,Completed
+ORD-02192,CUST-0513,2025-12-11,Jakarta,Website,Completed
+ORD-02193,CUST-0214,2025-09-12,Medan,Marketplace,Completed
+ORD-02194,CUST-0098,2025-01-03,Surabaya,Social Commerce,Cancelled
+ORD-02195,CUST-0126,2025-03-09,Surabaya,Reseller,Completed
+ORD-02196,CUST-0649,2025-10-24,Bandung,Reseller,Completed
+ORD-02197,CUST-0603,2025-10-27,Semarang,Offline Store,Completed
+ORD-02198,CUST-0113,2025-12-08,Bandung,Reseller,Completed
+ORD-02199,CUST-0564,2025-12-16,Bandung,Marketplace,Completed
+ORD-02200,CUST-0359,2025-03-28,Denpasar,Social Commerce,Completed
+ORD-02201,CUST-0617,2025-10-18,Surabaya,Social Commerce,Completed
+ORD-02202,CUST-0279,2025-05-20,Bandung,Reseller,Completed
+ORD-02203,CUST-0746,2025-02-15,Jakarta,Website,Completed
+ORD-02204,CUST-0728,2025-12-02,Makassar,Website,Completed
+ORD-02205,CUST-0155,2025-01-20,Makassar,Social Commerce,Completed
+ORD-02206,CUST-0789,2025-03-04,Bandung,Offline Store,Completed
+ORD-02207,CUST-0063,2025-08-06,Semarang,Reseller,Cancelled
+ORD-02208,CUST-0557,2025-04-16,Medan,Website,Completed
+ORD-02209,CUST-0597,2025-02-20,Semarang,Offline Store,Completed
+ORD-02210,CUST-0671,2025-10-12,Jakarta,Offline Store,Completed
+ORD-02211,CUST-0307,2025-11-20,Surabaya,Marketplace,Completed
+ORD-02212,CUST-0488,2025-08-12,Denpasar,Social Commerce,Completed
+ORD-02213,CUST-0630,2025-06-04,Jakarta,Reseller,Completed
+ORD-02214,CUST-0244,2025-12-30,Jakarta,Offline Store,Completed
+ORD-02215,CUST-0562,2025-07-28,Surabaya,Offline Store,Completed
+ORD-02216,CUST-0003,2025-02-08,Bandung,Offline Store,Completed
+ORD-02217,CUST-0437,2025-07-03,Medan,Social Commerce,Completed
+ORD-02218,CUST-0749,2025-12-25,Surabaya,Reseller,Completed
+ORD-02219,CUST-0654,2025-08-18,Semarang,Website,Completed
+ORD-02220,CUST-0376,2025-07-27,Jakarta,Offline Store,Completed
+ORD-02221,CUST-0085,2025-01-22,Surabaya,Offline Store,Completed
+ORD-02222,CUST-0042,2025-05-14,Denpasar,Social Commerce,Completed
+ORD-02223,CUST-0419,2025-07-30,Makassar,Social Commerce,Completed
+ORD-02224,CUST-0197,2025/03/28,Makassar,Website,Completed
+ORD-02225,CUST-0159,2025-10-12,Surabaya,Website,Completed
+ORD-02226,CUST-0033,2025-06-02,Jakarta,Offline Store,Completed
+ORD-02227,CUST-0620,2025-08-20,Denpasar,Website,Completed
+ORD-02228,CUST-0799,2025-06-13,Medan,Marketplace,Completed
+ORD-02229,CUST-0369,2025-12-07,Medan,Social Commerce,Completed
+ORD-02230,CUST-0338,2025-12-31,Bandung,Offline Store,Completed
+ORD-02231,CUST-0420,2025-10-12,Denpasar,Reseller,Completed
+ORD-02232,CUST-0569,2025-12-12,Makassar,Marketplace,Completed
+ORD-02233,CUST-0684,2025-03-01,Bandung,Website,Completed
+ORD-02234,CUST-0382,2025-09-10,Makassar,Social Commerce,Completed
+ORD-02235,CUST-0755,2025-10-22,Jakarta,Reseller,Cancelled
+ORD-02236,CUST-0069,2025-07-13,Semarang,Website,Completed
+ORD-02237,CUST-0409,2025-02-12,Surabaya,Marketplace,Completed
+ORD-02238,CUST-0651,2025-04-23,Jakarta,Social Commerce,Completed
+ORD-02239,CUST-0628,2025-11-24,Denpasar,Reseller,Completed
+ORD-02240,CUST-0247,2025-04-05,Semarang,Marketplace,Completed
+ORD-02241,CUST-0466,2025-02-10,Semarang,Marketplace,Completed
+ORD-02242,CUST-0408,2025-05-07,Makassar,Website,Completed
+ORD-02243,CUST-0016,2025-07-13,Bandung,Offline Store,Completed
+ORD-02244,CUST-0692,2025-06-23,Makassar,Offline Store,Completed
+ORD-02245,CUST-0397,2025-09-26,Bandung,Website,Completed
+ORD-02246,CUST-0189,2025-07-20,Semarang,Social Commerce,Cancelled
+ORD-02247,CUST-0303,2025-09-06,Bandung,Social Commerce,Completed
+ORD-02248,CUST-0123,2025-04-01,Surabaya,Marketplace,Cancelled
+ORD-02249,CUST-0227,2025-07-22,Bandung,Offline Store,Completed
+ORD-02250,CUST-0545,2025-06-04,Denpasar,Offline Store,Completed
+ORD-02251,CUST-0109,2025-01-25,Makassar,Marketplace,Completed
+ORD-02252,CUST-0619,2025-02-13,Jakarta,Website,Completed
+ORD-02253,CUST-0350,2025-11-28,Medan,Website,Completed
+ORD-02254,CUST-0717,2025-05-24,Medan,Website,Completed
+ORD-02255,CUST-0001,2025-04-27,Surabaya,Offline Store,Completed
+ORD-02256,CUST-0477,2025-08-28,Denpasar,Social Commerce,Completed
+ORD-02257,CUST-0630,2025-03-02,Surabaya,Offline Store,Completed
+ORD-02258,CUST-0439,2025-09-13,Medan,Reseller,Completed
+ORD-02259,CUST-0664,2025-08-30,Denpasar,Reseller,Completed
+ORD-02260,CUST-0329,2025/11/28,Medan,Social Commerce,Completed
+ORD-02261,CUST-0642,2025-09-02,Makassar,Reseller,Completed
+ORD-02262,CUST-0553,2025-03-05,Surabaya,Social Commerce,Completed
+ORD-02263,CUST-0738,2025-09-22,Surabaya,Social Commerce,Completed
+ORD-02264,CUST-0465,2025-05-06,Denpasar,Offline Store,Completed
+ORD-02265,CUST-0448,2025-05-13,Surabaya,Social Commerce,Completed
+ORD-02266,CUST-0700,2025-04-14,Medan,Reseller,Completed
+ORD-02267,CUST-0043,2025-03-13,Jakarta,Website,Completed
+ORD-02268,CUST-0439,2025-12-25,Medan,Offline Store,Completed
+ORD-02269,CUST-0375,2025-09-08,Semarang,Reseller,Completed
+ORD-02270,CUST-0592,2025-05-23,Surabaya,Offline Store,Completed
+ORD-02271,CUST-0323,2025-03-12,Jakarta,Reseller,Cancelled
+ORD-02272,CUST-0147,2025-02-26,Denpasar,Website,Completed
+ORD-02273,CUST-0237,2025-11-02,Semarang,Offline Store,Completed
+ORD-02274,CUST-0381,2025-12-03,Jakarta,Marketplace,Completed
+ORD-02275,CUST-0748,2025-12-09,Semarang,Website,Completed
+ORD-02276,CUST-0672,2025-12-24,Jakarta,Reseller,Completed
+ORD-02277,CUST-0464,2025-05-30,Makassar,Marketplace,Completed
+ORD-02278,CUST-0716,2025-10-18,Semarang,Offline Store,Completed
+ORD-02279,CUST-0785,2025-07-24,Semarang,Reseller,Completed
+ORD-02280,CUST-0156,2025-03-12,Jakarta,Website,Completed
+ORD-02281,CUST-0463,2025-08-05,Semarang,Social Commerce,Completed
+ORD-02282,CUST-0620,2025-10-04,Medan,Reseller,Completed
+ORD-02283,CUST-0293,2025-11-07,Medan,Social Commerce,Completed
+ORD-02284,CUST-0582,2025-05-24,Semarang,Website,Completed
+ORD-02285,CUST-0384,2025-04-21,Jakarta,Website,Completed
+ORD-02286,CUST-0487,2025-02-26,Surabaya,Social Commerce,Completed
+ORD-02287,CUST-0591,2025-09-18,Semarang,Website,Completed
+ORD-02288,CUST-0395,2025-07-27,Makassar,Offline Store,Completed
+ORD-02289,CUST-0528,2025-05-21,Semarang,Marketplace,Completed
+ORD-02290,CUST-0106,2025-01-07,Medan,Social Commerce,Completed
+ORD-02291,CUST-0673,2025-08-25,Jakarta,Reseller,Cancelled
+ORD-02292,CUST-0529,2025-07-07,Medan,Reseller,Completed
+ORD-02293,CUST-0680,2025-04-14,Bandung,Marketplace,Completed
+ORD-02294,CUST-0029,2025-06-14,Surabaya,Social Commerce,Completed
+ORD-02295,CUST-0451,2025-06-17,Semarang,Marketplace,Completed
+ORD-02296,CUST-0164,2025-05-25,Medan,Reseller,Completed
+ORD-02297,CUST-0573,2025-06-21,Jakarta,Website,Completed
+ORD-02298,CUST-0528,2025-03-19,Surabaya,Marketplace,Completed
+ORD-02299,CUST-0757,2025-07-09,Semarang,Website,Completed
+ORD-02300,CUST-0196,2025-08-28,Jakarta,Social Commerce,Cancelled
+ORD-02301,CUST-0765,2025-08-22,Denpasar,Website,Completed
+ORD-02302,CUST-0002,2025-04-12,Denpasar,Social Commerce,Completed
+ORD-02303,CUST-0050,2025-02-07,Denpasar,Marketplace,Completed
+ORD-02304,CUST-0054,2025-12-14,Surabaya,Reseller,Completed
+ORD-02305,CUST-0727,2025-07-06,Makassar,Reseller,Completed
+ORD-02306,CUST-0295,2025-04-10,Denpasar,Offline Store,Completed
+ORD-02307,CUST-0166,2025-03-19,Denpasar,Offline Store,Completed
+ORD-02308,CUST-0779,2025-02-08,Surabaya,Marketplace,Cancelled
+ORD-02309,CUST-0292,2025-12-21,Medan,Marketplace,Completed
+ORD-02310,CUST-0656,2025-09-10,Makassar,Website,Completed
+ORD-02311,CUST-0010,2025-08-03,Jakarta,Social Commerce,Completed
+ORD-02312,CUST-0268,2025-12-09,Denpasar,Reseller,Completed
+ORD-02313,CUST-0192,2025-11-04,Jakarta,Offline Store,Cancelled
+ORD-02314,CUST-0246,2025-12-14,Denpasar,Marketplace,Completed
+ORD-02315,CUST-0374,2025-08-05,Bandung,Social Commerce,Completed
+ORD-02316,CUST-0298,2025-03-07,Jakarta,Website,Completed
+ORD-02317,CUST-0683,2025-06-05,Semarang,Reseller,Completed
+ORD-02318,CUST-0411,2025-02-28,Semarang,Marketplace,Completed
+ORD-02319,CUST-0730,2025-11-03,Denpasar,Marketplace,Completed
+ORD-02320,CUST-0604,2025-01-20,Jakarta,Social Commerce,Cancelled
+ORD-02321,CUST-0318,2025-01-02,Denpasar,Social Commerce,Completed
+ORD-02322,CUST-0344,2025-02-03,Makassar,Social Commerce,Completed
+ORD-02323,CUST-0269,2025-01-26,Semarang,Marketplace,Completed
+ORD-02324,CUST-0141,2025-03-13,Semarang,Reseller,Completed
+ORD-02325,CUST-0715,2025-08-23,Surabaya,Reseller,Completed
+ORD-02326,CUST-0799,2025-12-12,Semarang,Marketplace,Completed
+ORD-02327,CUST-0144,2025-06-07,Semarang,Reseller,Cancelled
+ORD-02328,CUST-0416,2025-02-23,Denpasar,Reseller,Completed
+ORD-02329,CUST-0443,2025-05-01,Makassar,Social Commerce,Completed
+ORD-02330,CUST-0795,2025-07-23,Denpasar,Marketplace,Completed
+ORD-02331,CUST-0717,2025-10-19,Semarang,Marketplace,Completed
+ORD-02332,CUST-0475,2025-01-01,Surabaya,Social Commerce,Cancelled
+ORD-02333,CUST-0638,2025-06-24,Medan,Reseller,Completed
+ORD-02334,CUST-0563,2025-01-13,Denpasar,Marketplace,Completed
+ORD-02335,CUST-0112,2025-08-14,Denpasar,Reseller,Completed
+ORD-02336,CUST-0452,2025-09-30,Jakarta,Website,Completed
+ORD-02337,CUST-0654,2025-12-27,Bandung,Social Commerce,Completed
+ORD-02338,CUST-0105,2025-03-05,Semarang,Marketplace,Completed
+ORD-02339,CUST-0641,2025-07-20,Jakarta,Reseller,Completed
+ORD-02340,CUST-0153,2025-06-26,Bandung,Marketplace,Completed
+ORD-02341,CUST-0394,2025-01-09,Bandung,Website,Completed
+ORD-02342,CUST-0588,2025-12-26,Medan,Offline Store,Completed
+ORD-02343,CUST-0680,2025-07-20,Makassar,Offline Store,Completed
+ORD-02344,CUST-0261,2025-04-23,Surabaya,Website,Completed
+ORD-02345,CUST-0204,2025-09-17,Denpasar,Offline Store,Completed
+ORD-02346,CUST-0427,2025-03-23,Denpasar,Reseller,Completed
+ORD-02347,CUST-0005,2025-08-30,Makassar,Social Commerce,Completed
+ORD-02348,CUST-0673,2025-04-22,Denpasar,Offline Store,Completed
+ORD-02349,CUST-0365,2025-01-17,Jakarta,Offline Store,Completed
+ORD-02350,CUST-0180,2025-11-02,Makassar,Offline Store,Completed
+ORD-02351,CUST-0714,2025-01-24,Medan,Reseller,Completed
+ORD-02352,CUST-0065,2025-01-15,Medan,Marketplace,Completed
+ORD-02353,CUST-0352,2025-06-03,Jakarta,Marketplace,Completed
+ORD-02354,CUST-0067,2025-04-27,Bandung,Reseller,Cancelled
+ORD-02355,CUST-0193,2025-06-19,Jakarta,Website,Completed
+ORD-02356,CUST-0411,2025-03-27,Surabaya,Marketplace,Completed
+ORD-02357,CUST-0053,2025-12-21,Makassar,Offline Store,Completed
+ORD-02358,CUST-0300,2025-06-28,Surabaya,Website,Completed
+ORD-02359,CUST-0367,2025-06-26,Surabaya,Marketplace,Completed
+ORD-02360,CUST-0191,2025-08-31,Makassar,Website,Completed
+ORD-02361,CUST-0737,2025-08-05,Semarang,Marketplace,Completed
+ORD-02362,CUST-0453,2025-12-02,Medan,Marketplace,Completed
+ORD-02363,CUST-0618,2025-02-12,Denpasar,Reseller,Completed
+ORD-02364,CUST-0076,2025-06-22,Medan,Reseller,Completed
+ORD-02365,CUST-0694,2025-03-06,Semarang,Reseller,Completed
+ORD-02366,CUST-0795,2025-04-28,Makassar,Social Commerce,Completed
+ORD-02367,CUST-0674,2025-02-16,Surabaya,Marketplace,Completed
+ORD-02368,CUST-0696,2025-01-24,Bandung,Social Commerce,Completed
+ORD-02369,CUST-0453,2025-07-09,Medan,Reseller,Completed
+ORD-02370,CUST-0605,2025-05-30,Jakarta,Offline Store,Completed
+ORD-02371,CUST-0447,2025-05-08,Makassar,Offline Store,Completed
+ORD-02372,CUST-0681,2025-03-22,Makassar,Reseller,Completed
+ORD-02373,CUST-0017,2025-06-14,Medan,Marketplace,Cancelled
+ORD-02374,CUST-0400,2025-03-06,Denpasar,Offline Store,Completed
+ORD-02375,CUST-0501,2025-09-15,Bandung,Social Commerce,Completed
+ORD-02376,CUST-0330,2025-02-08,Medan,Marketplace,Completed
+ORD-02377,CUST-0453,2025-01-01,Semarang,Offline Store,Completed
+ORD-02378,CUST-0281,2025-05-11,Surabaya,Website,Completed
+ORD-02379,CUST-0574,2025-05-05,medan,Social Commerce,Cancelled
+ORD-02380,CUST-0355,2025-11-23,Jakarta,Marketplace,Cancelled
+ORD-02381,CUST-0009,2025-05-20,Makassar,Marketplace,Completed
+ORD-02382,CUST-0435,2025-05-03,Makassar,Social Commerce,Completed
+ORD-02383,CUST-0136,2025-12-07,Medan,Marketplace,Completed
+ORD-02384,CUST-0251,2025-05-05,Surabaya,Reseller,Completed
+ORD-02385,CUST-0003,2025-03-18,Jakarta,Marketplace,Completed
+ORD-02386,CUST-0702,2025-04-11,Semarang,Website,Completed
+ORD-02387,CUST-0426,2025-04-24,Denpasar,Website,Completed
+ORD-02388,CUST-0756,2025-05-06,Medan,Social Commerce,Completed
+ORD-02389,CUST-0363,2025-01-12,Bandung,Website,Completed
+ORD-02390,CUST-0468,2025-01-05,Jakarta,Reseller,Completed
+ORD-02391,CUST-0222,2025-04-03,Medan,Website,Completed
+ORD-02392,CUST-0266,2025-07-05,Surabaya,Reseller,Cancelled
+ORD-02393,CUST-0242,2025-02-10,Medan,Reseller,Completed
+ORD-02394,CUST-0557,2025-08-14,Bandung,Website,Completed
+ORD-02395,CUST-0048,2025-05-27,Bandung,Marketplace,Completed
+ORD-02396,CUST-0210,2025-08-06,Semarang,Marketplace,Completed
+ORD-02397,CUST-0688,2025-11-17,Jakarta,Offline Store,Completed
+ORD-02398,CUST-0269,2025-08-01,Medan,Website,Completed
+ORD-02399,CUST-0799,2025-10-14,Bandung,Website,Completed
+ORD-02400,CUST-0707,2025-04-27,Denpasar,Website,Completed
+ORD-02401,CUST-0172,2025-11-26,Medan,Website,Completed
+ORD-02402,CUST-0149,2025-12-18,Makassar,Website,Completed
+ORD-02403,CUST-0458,2025-02-28,Semarang,Social Commerce,Completed
+ORD-02404,CUST-0539,2025-08-18,Makassar,Social Commerce,Completed
+ORD-02405,CUST-0114,2025-03-05,Surabaya,Social Commerce,Completed
+ORD-02406,CUST-0010,2025-02-22,Medan,Website,Completed
+ORD-02407,CUST-0418,2025-02-18,Bandung,Website,Completed
+ORD-02408,CUST-0500,2025-04-22,Makassar,Social Commerce,Completed
+ORD-02409,CUST-0728,2025-12-20,Makassar,Social Commerce,Cancelled
+ORD-02410,CUST-0049,2025-12-24,Jakarta,Marketplace,Completed
+ORD-02411,CUST-0432,2025-04-10,Jakarta,Marketplace,Completed
+ORD-02412,CUST-0488,2025-05-05,Semarang,Marketplace,Cancelled
+ORD-02413,CUST-0241,2025-08-04,Semarang,Social Commerce,Cancelled
+ORD-02414,CUST-0619,2025-04-22,Semarang,Marketplace,Completed
+ORD-02415,CUST-0331,2025-04-05,Makassar,Website,Completed
+ORD-02416,CUST-0239,2025-07-22,Makassar,Social Commerce,Completed
+ORD-02417,CUST-0399,2025-06-10,Bandung,Website,Cancelled
+ORD-02418,CUST-0794,2025-06-22,Makassar,Website,Cancelled
+ORD-02419,CUST-0768,2025-10-15,Makassar,Social Commerce,Completed
+ORD-02420,CUST-0337,2025-04-07,Semarang,Website,Completed
+ORD-02421,CUST-0140,2025-12-21,jakarta,Reseller,Completed
+ORD-02422,CUST-0097,2025-05-19,Semarang,Social Commerce,Completed
+ORD-02423,CUST-0445,2025-05-01,Surabaya,Offline Store,Completed
+ORD-02424,CUST-0298,2025-06-08,Surabaya,Marketplace,Completed
+ORD-02425,CUST-0715,2025-01-04,Makassar,Offline Store,Completed
+ORD-02426,CUST-0009,2025-05-21,Makassar,Social Commerce,Completed
+ORD-02427,CUST-0636,2025-04-09,Makassar,Social Commerce,Completed
+ORD-02428,CUST-0333,2025-06-03,Jakarta,Social Commerce,Completed
+ORD-02429,CUST-0205,2025-11-26,Surabaya,Reseller,Completed
+ORD-02430,CUST-0392,2025-09-03,Semarang,Reseller,Completed
+ORD-02431,CUST-0067,2025-02-17,Semarang,Social Commerce,Completed
+ORD-02432,CUST-0288,2025-03-06,Semarang,Marketplace,Completed
+ORD-02433,CUST-0525,2025-04-01,Semarang,Marketplace,Completed
+ORD-02434,CUST-0105,2025-07-09,Semarang,Social Commerce,Completed
+ORD-02435,CUST-0181,2025-10-15,Medan,Social Commerce,Completed
+ORD-02436,CUST-0778,2025-03-25,Denpasar,Social Commerce,Completed
+ORD-02437,CUST-0291,2025-08-05,Surabaya,Marketplace,Completed
+ORD-02438,CUST-0265,2025-01-23,medan,Website,Completed
+ORD-02439,CUST-0564,2025-03-11,Makassar,Reseller,Completed
+ORD-02440,CUST-0441,2025-08-11,Medan,Social Commerce,Completed
+ORD-02441,CUST-0599,2025-08-10,Jakarta,Website,Completed
+ORD-02442,CUST-0368,2025-09-03,Medan,Reseller,Completed
+ORD-02443,CUST-0746,2025-10-05,Makassar,Reseller,Completed
+ORD-02444,CUST-0268,2025-05-30,Makassar,Marketplace,Completed
+ORD-02445,CUST-0285,2025-01-10,Surabaya,Website,Completed
+ORD-02446,CUST-0575,2025-04-02,Medan,Website,Completed
+ORD-02447,CUST-0058,2025-06-19,Denpasar,Marketplace,Completed
+ORD-02448,CUST-0422,2025-11-19,denpasar,Marketplace,Completed
+ORD-02449,CUST-0525,2025-06-15,Surabaya,Marketplace,Completed
+ORD-02450,CUST-0563,2025-08-13,Makassar,Reseller,Cancelled
+ORD-02451,CUST-0726,2025-03-17,Medan,Reseller,Completed
+ORD-02452,CUST-0260,2025-04-21,Surabaya,Offline Store,Completed
+ORD-02453,CUST-0551,2025-02-23,Jakarta,Marketplace,Completed
+ORD-02454,CUST-0460,2025-01-25,Bandung,Website,Completed
+ORD-02455,CUST-0251,2025-07-18,Medan,Reseller,Completed
+ORD-02456,CUST-0792,2025-09-11,Denpasar,Offline Store,Cancelled
+ORD-02457,CUST-0363,2025/10/28,Denpasar,Marketplace,Completed
+ORD-02458,CUST-0024,2025-03-18,Denpasar,Reseller,Completed
+ORD-02459,CUST-0668,2025-04-17,Denpasar,Marketplace,Completed
+ORD-02460,CUST-0585,2025-01-24,Denpasar,Offline Store,Completed
+ORD-02461,CUST-0538,2025-05-06,Denpasar,Offline Store,Completed
+ORD-02462,CUST-0700,2025-11-20,Semarang,Website,Completed
+ORD-02463,CUST-0599,2025-06-07,Denpasar,Offline Store,Completed
+ORD-02464,CUST-0514,2025-11-03,Makassar,Social Commerce,Completed
+ORD-02465,CUST-0284,2025-08-18,Medan,Reseller,Completed
+ORD-02466,CUST-0524,2025-07-29,Medan,Website,Completed
+ORD-02467,CUST-0730,2025-07-10,Bandung,Offline Store,Completed
+ORD-02468,CUST-0719,2025-03-26,Bandung,Marketplace,Completed
+ORD-02469,CUST-0324,2025-01-09,Surabaya,Reseller,Completed
+ORD-02470,CUST-0316,2025-01-17,Medan,Offline Store,Completed
+ORD-02471,CUST-0348,2025-09-14,Bandung,Offline Store,Completed
+ORD-02472,CUST-0765,2025-01-09,Denpasar,Marketplace,Completed
+ORD-02473,CUST-0310,2025-09-03,Jakarta,Marketplace,Completed
+ORD-02474,CUST-0364,2025-03-14,Makassar,Offline Store,Completed
+ORD-02475,CUST-0654,2025-07-06,Bandung,Website,Completed
+ORD-02476,CUST-0175,2025-02-08,Makassar,Reseller,Completed
+ORD-02477,CUST-0100,2025-04-16,Makassar,Marketplace,Completed
+ORD-02478,CUST-0201,2025-01-29,Makassar,Website,Completed
+ORD-02479,CUST-0475,2025-10-22,Semarang,Marketplace,Completed
+ORD-02480,CUST-0159,2025-06-10,Medan,Marketplace,Completed
+ORD-02481,CUST-0091,2025-07-25,Bandung,Marketplace,Completed
+ORD-02482,CUST-0061,2025-04-08,Denpasar,Offline Store,Completed
+ORD-02483,CUST-0688,2025-02-15,Semarang,Website,Completed
+ORD-02484,CUST-0768,2025-05-02,Denpasar,Offline Store,Completed
+ORD-02485,CUST-0613,2025-11-11,Surabaya,Offline Store,Completed
+ORD-02486,CUST-0633,2025-02-12,Semarang,Website,Completed
+ORD-02487,CUST-0652,2025-09-27,Bandung,Marketplace,Completed
+ORD-02488,CUST-0129,2025-09-15,Bandung,Website,Completed
+ORD-02489,CUST-0542,2025-01-16,Bandung,Offline Store,Completed
+ORD-02490,CUST-0583,2025-06-26,Bandung,Marketplace,Completed
+ORD-02491,CUST-0677,2025-11-27,Medan,Offline Store,Completed
+ORD-02492,CUST-0625,2025-03-16,Surabaya,Website,Completed
+ORD-02493,CUST-0647,2025-03-17,Makassar,Reseller,Completed
+ORD-02494,CUST-0462,2025-05-15,Denpasar,Reseller,Cancelled
+ORD-02495,CUST-0518,2025-10-27,Surabaya,Reseller,Completed
+ORD-02496,CUST-0528,2025-04-23,Makassar,Reseller,Completed
+ORD-02497,CUST-0427,2025-01-27,Semarang,Marketplace,Completed
+ORD-02498,CUST-0570,2025-04-10,Medan,Website,Completed
+ORD-02499,CUST-0213,2025-01-09,Surabaya,Website,Completed
+ORD-02500,CUST-0729,2025-10-29,Denpasar,Website,Completed
+ORD-02501,CUST-0754,2025-02-17,Medan,Reseller,Completed
+ORD-02502,CUST-0130,2025-04-24,Semarang,Reseller,Completed
+ORD-02503,CUST-0414,2025-09-22,Denpasar,Social Commerce,Completed
+ORD-02504,CUST-0680,2025-10-01,Bandung,Marketplace,Completed
+ORD-02505,CUST-0158,2025-04-22,Bandung,Offline Store,Completed
+ORD-02506,CUST-0438,2025-06-25,Makassar,Offline Store,Completed
+ORD-02507,CUST-0752,2025-05-18,Surabaya,Social Commerce,Completed
+ORD-02508,CUST-0338,2025-12-30,Makassar,Marketplace,Completed
+ORD-02509,CUST-0701,2025-07-17,bandung,Reseller,Completed
+ORD-02510,CUST-0343,2025-05-12,Bandung,Offline Store,Cancelled
+ORD-02511,CUST-0614,2025-09-29,Medan,Marketplace,Completed
+ORD-02512,CUST-0189,2025-09-16,Jakarta,Website,Completed
+ORD-02513,CUST-0655,2025-11-30,Bandung,Marketplace,Completed
+ORD-02514,CUST-0313,2025-04-21,Denpasar,Social Commerce,Completed
+ORD-02515,CUST-0649,2025-02-12,Denpasar,Social Commerce,Completed
+ORD-02516,CUST-0766,2025-08-13,Bandung,Offline Store,Completed
+ORD-02517,CUST-0158,2025-10-27,Medan,Website,Cancelled
+ORD-02518,CUST-0405,2025-04-16,Semarang,Offline Store,Cancelled
+ORD-02519,CUST-0728,2025-03-20,Makassar,Offline Store,Completed
+ORD-02520,CUST-0673,2025-11-29,Bandung,Social Commerce,Completed
+ORD-02521,CUST-0328,2025-06-24,makassar,Marketplace,Completed
+ORD-02522,CUST-0408,2025-07-09,Medan,Social Commerce,Completed
+ORD-02523,CUST-0085,2025-06-25,Semarang,Social Commerce,Cancelled
+ORD-02524,CUST-0495,2025-08-22,Surabaya,Offline Store,Completed
+ORD-02525,CUST-0619,2025-06-07,Denpasar,Marketplace,Completed
+ORD-02526,CUST-0533,2025-04-02,Denpasar,Marketplace,Completed
+ORD-02527,CUST-0597,2025-06-13,Jakarta,Reseller,Completed
+ORD-02528,CUST-0228,2025-06-06,Denpasar,Reseller,Completed
+ORD-02529,CUST-0056,2025-11-10,Medan,Reseller,Completed
+ORD-02530,CUST-0049,2025-12-06,Jakarta,Website,Completed
+ORD-02531,CUST-0676,2025-02-06,Surabaya,Social Commerce,Completed
+ORD-02532,CUST-0261,2025-07-25,Jakarta,Marketplace,Completed
+ORD-02533,CUST-0384,2025-11-29,Medan,Marketplace,Cancelled
+ORD-02534,CUST-0768,2025-12-12,Makassar,Offline Store,Completed
+ORD-02535,CUST-0792,2025-09-29,Surabaya,Website,Completed
+ORD-02536,CUST-0105,2025-08-27,Surabaya,Reseller,Cancelled
+ORD-02537,CUST-0128,2025-05-29,Makassar,Offline Store,Completed
+ORD-02538,CUST-0126,2025-01-19,Medan,Website,Completed
+ORD-02539,CUST-0393,2025-01-19,Medan,Social Commerce,Completed
+ORD-02540,CUST-0612,2025-12-25,Bandung,Social Commerce,Completed
+ORD-02541,CUST-0681,2025-05-02,Makassar,Social Commerce,Completed
+ORD-02542,CUST-0609,2025-09-27,Medan,Website,Completed
+ORD-02543,CUST-0552,2025-10-01,Bandung,Offline Store,Completed
+ORD-02544,CUST-0077,2025-01-04,Surabaya,Marketplace,Completed
+ORD-02545,CUST-0730,2025-09-03,Denpasar,Social Commerce,Completed
+ORD-02546,CUST-0690,2025-08-22,Semarang,Marketplace,Completed
+ORD-02547,CUST-0606,2025-08-30,Surabaya,Website,Completed
+ORD-02548,CUST-0171,2025-12-03,Surabaya,Marketplace,Completed
+ORD-02549,CUST-0560,2025-11-25,makassar,Marketplace,Completed
+ORD-02550,CUST-0220,2025-12-25,Bandung,Offline Store,Completed
+ORD-02551,CUST-0088,2025-06-25,Bandung,Reseller,Completed
+ORD-02552,CUST-0566,2025-04-16,Denpasar,Social Commerce,Completed
+ORD-02553,CUST-0798,2025-10-02,Surabaya,Reseller,Completed
+ORD-02554,CUST-0204,2025-05-05,Bandung,Offline Store,Completed
+ORD-02555,CUST-0174,2025-08-15,Makassar,Marketplace,Completed
+ORD-02556,CUST-0797,2025-09-04,Medan,Offline Store,Completed
+ORD-02557,CUST-0387,2025-08-27,Bandung,Social Commerce,Completed
+ORD-02558,CUST-0706,2025-09-05,Denpasar,Website,Completed
+ORD-02559,CUST-0529,2025-09-26,Medan,Social Commerce,Completed
+ORD-02560,CUST-0305,2025-07-18,Semarang,Offline Store,Completed
+ORD-02561,CUST-0331,2025-01-19,Semarang,Marketplace,Cancelled
+ORD-02562,CUST-0579,2025-01-17,Semarang,Reseller,Completed
+ORD-02563,CUST-0462,2025-11-02,Semarang,Website,Completed
+ORD-02564,CUST-0103,2025-10-21,Bandung,Reseller,Completed
+ORD-02565,CUST-0121,2025-03-31,Surabaya,Marketplace,Completed
+ORD-02566,CUST-0004,2025-07-25,Bandung,Marketplace,Completed
+ORD-02567,CUST-0238,2025-11-05,Bandung,Offline Store,Completed
+ORD-02568,CUST-0085,2025/11/24,Jakarta,Reseller,Completed
+ORD-02569,CUST-0126,2025-06-26,Jakarta,Marketplace,Completed
+ORD-02570,CUST-0526,2025-07-08,Semarang,Social Commerce,Completed
+ORD-02571,CUST-0103,2025-08-21,Medan,Reseller,Completed
+ORD-02572,CUST-0260,2025-03-08,Semarang,Reseller,Completed
+ORD-02573,CUST-0214,2025-06-14,Bandung,Reseller,Completed
+ORD-02574,CUST-0010,2025-02-01,Medan,Offline Store,Completed
+ORD-02575,CUST-0082,2025-04-30,Semarang,Reseller,Completed
+ORD-02576,CUST-0595,2025-05-16,Denpasar,Reseller,Completed
+ORD-02577,CUST-0045,2025-10-01,Makassar,Offline Store,Completed
+ORD-02578,CUST-0297,2025-06-24,Bandung,Reseller,Completed
+ORD-02579,CUST-0590,2025-09-05,Medan,Reseller,Completed
+ORD-02580,CUST-0171,2025-03-19,Medan,Social Commerce,Completed
+ORD-02581,CUST-0265,2025-09-17,Semarang,Reseller,Completed
+ORD-02582,CUST-0666,2025-04-04,Semarang,Reseller,Completed
+ORD-02583,CUST-0786,2025-11-16,Denpasar,Reseller,Completed
+ORD-02584,CUST-0509,2025-04-25,Medan,Social Commerce,Completed
+ORD-02585,CUST-0192,2025-03-30,Semarang,Website,Completed
+ORD-02586,CUST-0054,2025-05-04,Denpasar,Marketplace,Completed
+ORD-02587,CUST-0387,2025-01-15,Makassar,Offline Store,Completed
+ORD-02588,CUST-0134,2025-12-02,Bandung,Offline Store,Completed
+ORD-02589,CUST-0392,2025-01-17,Denpasar,Offline Store,Completed
+ORD-02590,CUST-0772,2025-11-20,Denpasar,Social Commerce,Completed
+ORD-02591,CUST-0421,2025-08-16,Denpasar,Offline Store,Completed
+ORD-02592,CUST-0407,2025-10-06,Jakarta,Marketplace,Completed
+ORD-02593,CUST-0493,2025-02-08,Jakarta,Website,Cancelled
+ORD-02594,CUST-0580,2025/08/30,Makassar,Reseller,Completed
+ORD-02595,CUST-0683,2025-08-31,Makassar,Reseller,Completed
+ORD-02596,CUST-0483,2025-01-04,Jakarta,Website,Completed
+ORD-02597,CUST-0500,2025-09-27,Surabaya,Offline Store,Completed
+ORD-02598,CUST-0771,2025-12-02,Jakarta,Website,Completed
+ORD-02599,CUST-0675,2025-03-12,Denpasar,Website,Completed
+ORD-02600,CUST-0176,2025-07-02,Medan,Social Commerce,Completed
+ORD-02601,CUST-0300,2025-06-24,Semarang,Social Commerce,Completed
+ORD-02602,CUST-0706,2025-05-02,Makassar,Marketplace,Completed
+ORD-02603,CUST-0344,2025-05-13,Medan,Social Commerce,Completed
+ORD-02604,CUST-0545,2025-12-06,Surabaya,Social Commerce,Completed
+ORD-02605,CUST-0029,2025-03-09,Makassar,Marketplace,Completed
+ORD-02606,CUST-0576,2025-03-03,Bandung,Social Commerce,Completed
+ORD-02607,CUST-0276,2025-01-02,Makassar,Marketplace,Completed
+ORD-02608,CUST-0080,2025-03-05,Medan,Marketplace,Cancelled
+ORD-02609,CUST-0307,2025-04-04,Makassar,Reseller,Completed
+ORD-02610,CUST-0669,2025-06-03,Makassar,Reseller,Completed
+ORD-02611,CUST-0770,2025-03-29,Surabaya,Offline Store,Completed
+ORD-02612,CUST-0386,2025-11-06,Surabaya,Reseller,Completed
+ORD-02613,CUST-0586,2025-11-11,Jakarta,Marketplace,Completed
+ORD-02614,CUST-0483,2025-05-31,Makassar,Reseller,Completed
+ORD-02615,CUST-0010,2025-05-27,Makassar,Website,Completed
+ORD-02616,CUST-0798,2025-12-22,Semarang,Marketplace,Completed
+ORD-02617,CUST-0779,2025-11-01,Jakarta,Offline Store,Completed
+ORD-02618,CUST-0248,2025-08-27,Jakarta,Website,Completed
+ORD-02619,CUST-0432,2025-06-18,Makassar,Website,Completed
+ORD-02620,CUST-0229,2025-11-09,Bandung,Offline Store,Cancelled
+ORD-02621,CUST-0632,2025-06-15,Medan,Reseller,Completed
+ORD-02622,CUST-0413,2025-05-01,Surabaya,Website,Completed
+ORD-02623,CUST-0652,2025-12-27,Jakarta,Reseller,Completed
+ORD-02624,CUST-0326,2025-06-16,Surabaya,Website,Completed
+ORD-02625,CUST-0148,2025-11-03,Semarang,Website,Completed
+ORD-02626,CUST-0284,2025-01-10,Surabaya,Marketplace,Cancelled
+ORD-02627,CUST-0228,2025-12-22,Surabaya,Reseller,Completed
+ORD-02628,CUST-0284,2025-04-30,Surabaya,Marketplace,Completed
+ORD-02629,CUST-0104,2025-06-08,Denpasar,Marketplace,Completed
+ORD-02630,CUST-0162,2025-08-23,Jakarta,Marketplace,Completed
+ORD-02631,CUST-0030,2025-02-19,Medan,Website,Completed
+ORD-02632,CUST-0156,2025-05-20,Bandung,Offline Store,Completed
+ORD-02633,CUST-0037,2025-09-19,Medan,Social Commerce,Completed
+ORD-02634,CUST-0358,2025-01-11,Semarang,Marketplace,Completed
+ORD-02635,CUST-0367,2025-06-10,Medan,Website,Completed
+ORD-02636,CUST-0138,2025-07-30,Denpasar,Website,Completed
+ORD-02637,CUST-0075,2025-08-12,Surabaya,Website,Completed
+ORD-02638,CUST-0368,2025-09-14,Semarang,Reseller,Cancelled
+ORD-02639,CUST-0039,2025-10-31,Jakarta,Website,Completed
+ORD-02640,CUST-0526,2025-09-06,Makassar,Social Commerce,Completed
+ORD-02641,CUST-0288,2025-01-20,Denpasar,Reseller,Completed
+ORD-02642,CUST-0702,2025-09-28,Surabaya,Reseller,Cancelled
+ORD-02643,CUST-0606,2025-12-05,Medan,Offline Store,Completed
+ORD-02644,CUST-0160,2025-09-03,Semarang,Reseller,Completed
+ORD-02645,CUST-0690,2025-02-27,Semarang,Offline Store,Completed
+ORD-02646,CUST-0019,2025-05-25,Medan,Social Commerce,Completed
+ORD-02647,CUST-0619,2025-07-24,Medan,Social Commerce,Cancelled
+ORD-02648,CUST-0082,2025-08-25,Surabaya,Reseller,Completed
+ORD-02649,CUST-0071,2025-07-10,Denpasar,Social Commerce,Completed
+ORD-02650,CUST-0311,2025-04-17,Bandung,Website,Completed
+ORD-02651,CUST-0603,2025-04-18,Bandung,Website,Completed
+ORD-02652,CUST-0790,2025-05-03,Medan,Reseller,Completed
+ORD-02653,CUST-0571,2025-12-19,Medan,Website,Cancelled
+ORD-02654,CUST-0158,2025-12-11,Jakarta,Website,Completed
+ORD-02655,CUST-0351,2025-01-30,Surabaya,Social Commerce,Completed
+ORD-02656,CUST-0214,2025-10-09,Makassar,Reseller,Completed
+ORD-02657,CUST-0255,2025-05-25,Makassar,Marketplace,Completed
+ORD-02658,CUST-0229,2025-05-30,Surabaya,Marketplace,Cancelled
+ORD-02659,CUST-0580,2025-10-18,Semarang,Reseller,Completed
+ORD-02660,CUST-0535,2025-02-21,Makassar,Reseller,Completed
+ORD-02661,CUST-0058,2025-07-26,Jakarta,Marketplace,Completed
+ORD-02662,CUST-0762,2025-07-15,Medan,Reseller,Completed
+ORD-02663,CUST-0269,2025-01-23,Jakarta,Social Commerce,Completed
+ORD-02664,CUST-0442,2025-07-26,Jakarta,Social Commerce,Completed
+ORD-02665,CUST-0790,2025-05-31,Surabaya,Reseller,Cancelled
+ORD-02666,CUST-0427,2025-04-10,Jakarta,Offline Store,Completed
+ORD-02667,CUST-0569,2025-12-22,Bandung,Offline Store,Completed
+ORD-02668,CUST-0113,2025-02-07,Makassar,Website,Completed
+ORD-02669,CUST-0393,2025-01-04,Jakarta,Website,Completed
+ORD-02670,CUST-0693,2025-12-03,Makassar,Marketplace,Completed
+ORD-02671,CUST-0203,2025-02-17,Denpasar,Website,Completed
+ORD-02672,CUST-0320,2025-02-23,Jakarta,Offline Store,Completed
+ORD-02673,CUST-0003,2025-12-09,Surabaya,Offline Store,Completed
+ORD-02674,CUST-0587,2025-01-01,Semarang,Offline Store,Completed
+ORD-02675,CUST-0363,2025-05-15,Denpasar,Reseller,Completed
+ORD-02676,CUST-0466,2025-01-28,Semarang,Offline Store,Completed
+ORD-02677,CUST-0629,2025-10-25,Makassar,Reseller,Completed
+ORD-02678,CUST-0296,2025-11-11,Jakarta,Marketplace,Completed
+ORD-02679,CUST-0067,2025-04-30,Semarang,Social Commerce,Completed
+ORD-02680,CUST-0416,2025-11-05,Semarang,Offline Store,Completed
+ORD-02681,CUST-0534,2025-05-29,Medan,Reseller,Cancelled
+ORD-02682,CUST-0530,2025-05-10,Jakarta,Reseller,Completed
+ORD-02683,CUST-0772,2025-01-03,Jakarta,Reseller,Completed
+ORD-02684,CUST-0207,2025-04-12,Denpasar,Website,Completed
+ORD-02685,CUST-0588,2025-02-24,Semarang,Reseller,Completed
+ORD-02686,CUST-0096,2025-03-29,Surabaya,Offline Store,Completed
+ORD-02687,CUST-0459,2025-08-05,Surabaya,Marketplace,Completed
+ORD-02688,CUST-0719,2025-07-28,Surabaya,Offline Store,Completed
+ORD-02689,CUST-0745,2025-04-19,Bandung,Offline Store,Completed
+ORD-02690,CUST-0712,2025-11-13,Denpasar,Social Commerce,Cancelled
+ORD-02691,CUST-0735,2025-07-17,Jakarta,Social Commerce,Completed
+ORD-02692,CUST-0735,2025-09-11,Semarang,Marketplace,Completed
+ORD-02693,CUST-0567,2025-07-18,Medan,Website,Completed
+ORD-02694,CUST-0128,2025-04-13,Denpasar,Reseller,Cancelled
+ORD-02695,CUST-0623,2025-08-25,Bandung,Website,Completed
+ORD-02696,CUST-0411,2025-06-04,Bandung,Social Commerce,Completed
+ORD-02697,CUST-0257,2025-05-02,Semarang,Marketplace,Completed
+ORD-02698,CUST-0766,2025-07-23,Makassar,Marketplace,Completed
+ORD-02699,CUST-0008,2025-01-28,Jakarta,Website,Completed
+ORD-02700,CUST-0426,2025-02-07,Jakarta,Social Commerce,Completed
+ORD-02701,CUST-0527,2025-11-17,Jakarta,Marketplace,Completed
+ORD-02702,CUST-0671,2025-03-13,Denpasar,Marketplace,Completed
+ORD-02703,CUST-0490,2025-07-27,Bandung,Marketplace,Completed
+ORD-02704,CUST-0542,2025-05-15,Jakarta,Reseller,Completed
+ORD-02705,CUST-0621,2025-02-05,Bandung,Marketplace,Completed
+ORD-02706,CUST-0295,2025-07-23,Jakarta,Reseller,Completed
+ORD-02707,CUST-0030,2025-04-25,Bandung,Marketplace,Completed
+ORD-02708,CUST-0325,2025-04-07,Semarang,Social Commerce,Cancelled
+ORD-02709,CUST-0016,2025-05-21,Denpasar,Marketplace,Completed
+ORD-02710,CUST-0675,2025-04-27,Bandung,Offline Store,Completed
+ORD-02711,CUST-0247,2025-11-05,Medan,Social Commerce,Completed
+ORD-02712,CUST-0701,2025-06-04,Makassar,Offline Store,Completed
+ORD-02713,CUST-0437,2025-01-24,Surabaya,Website,Cancelled
+ORD-02714,CUST-0088,2025-09-03,Denpasar,Offline Store,Completed
+ORD-02715,CUST-0544,2025-09-04,Medan,Social Commerce,Completed
+ORD-02716,CUST-0400,2025-05-17,Bandung,Reseller,Completed
+ORD-02717,CUST-0405,2025-07-23,Semarang,Website,Completed
+ORD-02718,CUST-0180,2025-01-04,Makassar,Offline Store,Completed
+ORD-02719,CUST-0578,2025-02-04,Semarang,Marketplace,Completed
+ORD-02720,CUST-0541,2025-12-30,Medan,Marketplace,Completed
+ORD-02721,CUST-0032,2025-04-17,Denpasar,Website,Completed
+ORD-02722,CUST-0761,2025-01-17,Makassar,Marketplace,Cancelled
+ORD-02723,CUST-0229,2025-08-27,Denpasar,Marketplace,Completed
+ORD-02724,CUST-0538,2025-09-25,Bandung,Website,Completed
+ORD-02725,CUST-0066,2025-01-04,Makassar,Reseller,Completed
+ORD-02726,CUST-0502,2025-03-24,Makassar,Reseller,Completed
+ORD-02727,CUST-0019,2025-01-10,Surabaya,Website,Completed
+ORD-02728,CUST-0788,2025-10-03,Surabaya,Marketplace,Completed
+ORD-02729,CUST-0040,2025-06-14,Bandung,Social Commerce,Completed
+ORD-02730,CUST-0700,2025-05-20,Bandung,Offline Store,Completed
+ORD-02731,CUST-0406,2025-12-30,Bandung,Website,Completed
+ORD-02732,CUST-0286,2025-07-11,Surabaya,Website,Completed
+ORD-02733,CUST-0566,2025-06-19,Jakarta,Website,Completed
+ORD-02734,CUST-0595,2025-03-15,Medan,Marketplace,Completed
+ORD-02735,CUST-0122,2025-02-19,Surabaya,Website,Completed
+ORD-02736,CUST-0587,2025-11-12,Semarang,Reseller,Completed
+ORD-02737,CUST-0715,2025-03-23,Bandung,Marketplace,Completed
+ORD-02738,CUST-0467,2025-04-09,Semarang,Reseller,Completed
+ORD-02739,CUST-0509,2025-06-06,Medan,Marketplace,Completed
+ORD-02740,CUST-0338,2025-03-01,Denpasar,Marketplace,Completed
+ORD-02741,CUST-0182,2025-10-03,Medan,Website,Completed
+ORD-02742,CUST-0020,2025-10-28,Bandung,Website,Completed
+ORD-02743,CUST-0317,2025-02-04,Denpasar,Marketplace,Completed
+ORD-02744,CUST-0611,2025-07-06,Bandung,Website,Completed
+ORD-02745,CUST-0697,2025-02-24,Bandung,Reseller,Cancelled
+ORD-02746,CUST-0147,2025-07-30,Medan,Offline Store,Completed
+ORD-02747,CUST-0584,2025-10-09,Denpasar,Offline Store,Completed
+ORD-02748,CUST-0796,2025-11-01,Medan,Website,Completed
+ORD-02749,CUST-0688,2025-03-08,Makassar,Social Commerce,Completed
+ORD-02750,CUST-0766,2025-03-01,Bandung,Social Commerce,Cancelled
+ORD-02751,CUST-0694,2025-09-24,Medan,Social Commerce,Completed
+ORD-02752,CUST-0668,2025-09-20,Jakarta,Social Commerce,Completed
+ORD-02753,CUST-0583,2025-12-31,Jakarta,Website,Completed
+ORD-02754,CUST-0305,2025-12-01,Denpasar,Offline Store,Completed
+ORD-02755,CUST-0139,2025-08-07,Medan,Offline Store,Completed
+ORD-02756,CUST-0032,2025-07-20,Denpasar,Offline Store,Completed
+ORD-02757,CUST-0582,2025-12-30,Semarang,Website,Completed
+ORD-02758,CUST-0388,2025-02-06,Medan,Social Commerce,Completed
+ORD-02759,CUST-0454,2025-01-30,Semarang,Website,Completed
+ORD-02760,CUST-0548,2025-09-18,Bandung,Reseller,Cancelled
+ORD-02761,CUST-0290,2025-06-14,Jakarta,Marketplace,Completed
+ORD-02762,CUST-0784,2025-02-14,Bandung,Reseller,Completed
+ORD-02763,CUST-0339,2025-12-30,Denpasar,Website,Completed
+ORD-02764,CUST-0300,2025-02-08,Medan,Social Commerce,Completed
+ORD-02765,CUST-0322,2025-07-02,Surabaya,Offline Store,Completed
+ORD-02766,CUST-0117,2025-07-30,Medan,Offline Store,Completed
+ORD-02767,CUST-0402,2025-08-29,Jakarta,Marketplace,Completed
+ORD-02768,CUST-0750,2025-12-13,Denpasar,Website,Completed
+ORD-02769,CUST-0243,2025-11-29,Semarang,Website,Completed
+ORD-02770,CUST-0349,2025-06-15,Makassar,Offline Store,Completed
+ORD-02771,CUST-0511,2025-09-13,Medan,Social Commerce,Cancelled
+ORD-02772,CUST-0064,2025-11-04,Surabaya,Reseller,Completed
+ORD-02773,CUST-0410,2025-05-06,Makassar,Reseller,Completed
+ORD-02774,CUST-0411,2025-01-12,Jakarta,Reseller,Cancelled
+ORD-02775,CUST-0739,2025-01-13,Jakarta,Offline Store,Completed
+ORD-02776,CUST-0627,2025-06-08,Jakarta,Reseller,Completed
+ORD-02777,CUST-0603,2025-04-29,Semarang,Website,Cancelled
+ORD-02778,CUST-0346,2025-01-02,Bandung,Website,Completed
+ORD-02779,CUST-0057,2025-01-22,Makassar,Marketplace,Completed
+ORD-02780,CUST-0799,2025-08-21,Jakarta,Offline Store,Completed
+ORD-02781,CUST-0199,2025-07-24,Bandung,Marketplace,Completed
+ORD-02782,CUST-0567,2025-10-23,Jakarta,Offline Store,Completed
+ORD-02783,CUST-0427,2025-10-18,Denpasar,Website,Completed
+ORD-02784,CUST-0464,2025-04-22,Makassar,Reseller,Completed
+ORD-02785,CUST-0491,2025-06-12,Medan,Reseller,Completed
+ORD-02786,CUST-0063,2025-09-25,Denpasar,Social Commerce,Completed
+ORD-02787,CUST-0264,2025-07-13,Jakarta,Reseller,Completed
+ORD-02788,CUST-0661,2025-02-08,Makassar,Reseller,Completed
+ORD-02789,CUST-0657,2025-12-20,Medan,Reseller,Completed
+ORD-02790,CUST-0571,2025-03-10,Semarang,Offline Store,Completed
+ORD-02791,CUST-0632,2025-02-13,Makassar,Offline Store,Completed
+ORD-02792,CUST-0122,2025-12-26,Medan,Website,Completed
+ORD-02793,CUST-0060,2025-05-27,Surabaya,Marketplace,Completed
+ORD-02794,CUST-0086,2025-07-31,Semarang,Website,Completed
+ORD-02795,CUST-0053,2025-01-01,Semarang,Reseller,Completed
+ORD-02796,CUST-0029,2025-07-05,Semarang,Marketplace,Completed
+ORD-02797,CUST-0236,2025-11-17,Semarang,Social Commerce,Completed
+ORD-02798,CUST-0635,2025-03-30,Medan,Offline Store,Cancelled
+ORD-02799,CUST-0610,2025-06-14,Denpasar,Reseller,Completed
+ORD-02800,CUST-0686,2025-05-13,semarang,Marketplace,Completed
+ORD-02801,CUST-0697,2025-01-21,Denpasar,Offline Store,Completed
+ORD-02802,CUST-0770,2025-08-05,Medan,Social Commerce,Cancelled
+ORD-02803,CUST-0469,2025-02-15,Surabaya,Social Commerce,Completed
+ORD-02804,CUST-0603,2025-05-20,Makassar,Website,Completed
+ORD-02805,CUST-0176,2025-07-25,Surabaya,Website,Completed
+ORD-02806,CUST-0784,2025-07-11,Bandung,Offline Store,Completed
+ORD-02807,CUST-0548,2025-02-06,Surabaya,Reseller,Completed
+ORD-02808,CUST-0682,2025-09-14,Bandung,Website,Completed
+ORD-02809,CUST-0152,2025-03-21,Semarang,Reseller,Completed
+ORD-02810,CUST-0340,2025-06-21,Surabaya,Social Commerce,Completed
+ORD-02811,CUST-0287,2025-10-04,Medan,Offline Store,Completed
+ORD-02812,CUST-0467,2025-05-07,Jakarta,Reseller,Completed
+ORD-02813,CUST-0345,2025-09-13,Makassar,Website,Completed
+ORD-02814,CUST-0634,2025-11-29,Medan,Social Commerce,Completed
+ORD-02815,CUST-0119,2025-01-03,Makassar,Marketplace,Cancelled
+ORD-02816,CUST-0713,2025-04-04,Medan,Offline Store,Completed
+ORD-02817,CUST-0157,2025-02-26,Denpasar,Offline Store,Completed
+ORD-02818,CUST-0072,2025-03-02,Surabaya,Reseller,Completed
+ORD-02819,CUST-0531,2025-05-10,Jakarta,Offline Store,Completed
+ORD-02820,CUST-0134,2025-12-28,Medan,Offline Store,Completed
+ORD-02821,CUST-0070,2025-09-09,Makassar,Reseller,Completed
+ORD-02822,CUST-0215,2025-02-09,Makassar,Website,Completed
+ORD-02823,CUST-0080,2025-08-02,Surabaya,Offline Store,Completed
+ORD-02824,CUST-0536,2025-02-10,Jakarta,Marketplace,Completed
+ORD-02825,CUST-0554,2025-12-27,Medan,Reseller,Cancelled
+ORD-02826,CUST-0604,2025-07-19,Semarang,Social Commerce,Completed
+ORD-02827,CUST-0158,2025-06-18,Jakarta,Marketplace,Completed
+ORD-02828,CUST-0752,2025-02-16,Denpasar,Marketplace,Completed
+ORD-02829,CUST-0130,2025-05-31,Denpasar,Reseller,Completed
+ORD-02830,CUST-0030,2025-07-13,Semarang,Marketplace,Completed
+ORD-02831,CUST-0232,2025-10-15,Denpasar,Offline Store,Completed
+ORD-02832,CUST-0682,2025-04-04,Makassar,Marketplace,Completed
+ORD-02833,CUST-0436,2025-06-25,Bandung,Marketplace,Completed
+ORD-02834,CUST-0599,2025-12-28,Medan,Marketplace,Completed
+ORD-02835,CUST-0175,2025-03-06,Makassar,Offline Store,Completed
+ORD-02836,CUST-0043,2025-05-11,Denpasar,Marketplace,Completed
+ORD-02837,CUST-0461,2025-10-24,Medan,Website,Completed
+ORD-02838,CUST-0551,2025-10-13,Denpasar,Website,Completed
+ORD-02839,CUST-0286,2025-06-02,Makassar,Offline Store,Completed
+ORD-02840,CUST-0339,2025-11-05,Surabaya,Social Commerce,Completed
+ORD-02841,CUST-0286,2025-12-13,Bandung,Reseller,Completed
+ORD-02842,CUST-0569,2025-11-22,Makassar,Offline Store,Completed
+ORD-02843,CUST-0231,2025-01-25,Denpasar,Marketplace,Cancelled
+ORD-02844,CUST-0511,2025-09-16,Jakarta,Reseller,Completed
+ORD-02845,CUST-0562,2025-06-14,Denpasar,Website,Completed
+ORD-02846,CUST-0469,2025-04-16,Surabaya,Marketplace,Completed
+ORD-02847,CUST-0391,2025-06-13,Surabaya,Social Commerce,Completed
+ORD-02848,CUST-0627,2025-06-25,Makassar,Offline Store,Completed
+ORD-02849,CUST-0705,2025-05-03,Semarang,Reseller,Completed
+ORD-02850,CUST-0374,2025-09-21,Denpasar,Offline Store,Completed
+ORD-02851,CUST-0376,2025-12-06,Bandung,Website,Completed
+ORD-02852,CUST-0625,2025-02-04,Semarang,Marketplace,Completed
+ORD-02853,CUST-0681,2025-01-21,Bandung,Reseller,Completed
+ORD-02854,CUST-0747,2025-04-07,Surabaya,Marketplace,Completed
+ORD-02855,CUST-0010,2025-05-27,Semarang,Marketplace,Cancelled
+ORD-02856,CUST-0257,2025-10-22,Jakarta,Marketplace,Completed
+ORD-02857,CUST-0363,2025-03-26,Medan,Social Commerce,Completed
+ORD-02858,CUST-0623,2025-09-02,Surabaya,Website,Completed
+ORD-02859,CUST-0609,2025-10-11,Jakarta,Website,Completed
+ORD-02860,CUST-0220,2025-04-14,Makassar,Social Commerce,Completed
+ORD-02861,CUST-0245,2025-09-10,Surabaya,Marketplace,Completed
+ORD-02862,CUST-0089,2025-11-14,Semarang,Marketplace,Completed
+ORD-02863,CUST-0607,2025-05-29,Denpasar,Offline Store,Completed
+ORD-02864,CUST-0052,2025-11-05,Makassar,Social Commerce,Completed
+ORD-02865,CUST-0310,2025-07-31,Denpasar,Offline Store,Completed
+ORD-02866,CUST-0526,2025-01-19,Bandung,Website,Completed
+ORD-02867,CUST-0453,2025-02-18,Bandung,Marketplace,Completed
+ORD-02868,CUST-0577,2025-10-08,Jakarta,Social Commerce,Completed
+ORD-02869,CUST-0607,2025-05-15,Surabaya,Reseller,Completed
+ORD-02870,CUST-0367,2025-03-20,Semarang,Reseller,Completed
+ORD-02871,CUST-0201,2025-01-14,Semarang,Reseller,Completed
+ORD-02872,CUST-0324,2025/01/29,Denpasar,Reseller,Completed
+ORD-02873,CUST-0409,2025-08-06,Denpasar,Reseller,Completed
+ORD-02874,CUST-0413,2025-05-24,Makassar,Reseller,Completed
+ORD-02875,CUST-0030,2025-01-31,Medan,Website,Completed
+ORD-02876,CUST-0281,2025-02-03,Semarang,Website,Completed
+ORD-02877,CUST-0713,2025-05-27,Makassar,Social Commerce,Completed
+ORD-02878,CUST-0750,2025-11-04,Jakarta,Social Commerce,Completed
+ORD-02879,CUST-0383,2025-12-18,Makassar,Offline Store,Completed
+ORD-02880,CUST-0532,2025-06-09,Denpasar,Marketplace,Completed
+ORD-02881,CUST-0247,2025-03-16,Makassar,Website,Completed
+ORD-02882,CUST-0281,2025-08-04,Makassar,Reseller,Completed
+ORD-02883,CUST-0469,2025-02-24,Surabaya,Offline Store,Completed
+ORD-02884,CUST-0260,2025-05-18,Denpasar,Website,Completed
+ORD-02885,CUST-0391,2025-10-03,Jakarta,Website,Completed
+ORD-02886,CUST-0350,2025-06-20,Surabaya,Offline Store,Completed
+ORD-02887,CUST-0512,2025-04-29,Medan,Website,Completed
+ORD-02888,CUST-0648,2025-05-20,Semarang,Offline Store,Completed
+ORD-02889,CUST-0095,2025-02-14,Makassar,Reseller,Completed
+ORD-02890,CUST-0274,2025-08-30,Semarang,Marketplace,Completed
+ORD-02891,CUST-0462,2025-11-20,Jakarta,Social Commerce,Completed
+ORD-02892,CUST-0117,2025-10-06,Jakarta,Marketplace,Completed
+ORD-02893,CUST-0764,2025-04-07,Medan,Reseller,Completed
+ORD-02894,CUST-0585,2025-09-07,Surabaya,Social Commerce,Completed
+ORD-02895,CUST-0262,2025-07-01,Surabaya,Social Commerce,Completed
+ORD-02896,CUST-0134,2025-08-11,Medan,Offline Store,Completed
+ORD-02897,CUST-0664,2025-02-04,Medan,Marketplace,Completed
+ORD-02898,CUST-0691,2025-06-10,Jakarta,Reseller,Completed
+ORD-02899,CUST-0736,2025-09-07,Jakarta,Website,Completed
+ORD-02900,CUST-0106,2025-10-12,bandung,Social Commerce,Completed
+ORD-02901,CUST-0573,2025-06-04,Surabaya,Website,Completed
+ORD-02902,CUST-0793,2025-06-29,Bandung,Social Commerce,Completed
+ORD-02903,CUST-0416,2025-07-03,Semarang,Reseller,Cancelled
+ORD-02904,CUST-0425,2025-03-12,Surabaya,Reseller,Completed
+ORD-02905,CUST-0039,2025-08-28,Semarang,Social Commerce,Cancelled
+ORD-02906,CUST-0078,2025-03-03,Surabaya,Reseller,Completed
+ORD-02907,CUST-0469,2025-10-23,Surabaya,Offline Store,Completed
+ORD-02908,CUST-0190,2025-12-30,Bandung,Reseller,Completed
+ORD-02909,CUST-0124,2025-10-14,Semarang,Marketplace,Completed
+ORD-02910,CUST-0032,2025-10-12,Makassar,Marketplace,Completed
+ORD-02911,CUST-0441,2025-10-05,Surabaya,Marketplace,Completed
+ORD-02912,CUST-0413,2025-06-07,Denpasar,Social Commerce,Completed
+ORD-02913,CUST-0194,2025-01-08,Semarang,Reseller,Completed
+ORD-02914,CUST-0533,2025-09-07,Denpasar,Website,Completed
+ORD-02915,CUST-0528,2025/10/20,Bandung,Offline Store,Completed
+ORD-02916,CUST-0451,2025-10-04,Denpasar,Reseller,Completed
+ORD-02917,CUST-0405,2025-08-30,Surabaya,Offline Store,Completed
+ORD-02918,CUST-0592,2025-09-02,Surabaya,Website,Completed
+ORD-02919,CUST-0448,2025-04-06,Bandung,Reseller,Cancelled
+ORD-02920,CUST-0354,2025-05-11,Bandung,Offline Store,Completed
+ORD-02921,CUST-0795,2025-05-13,Denpasar,Website,Completed
+ORD-02922,CUST-0153,2025-11-28,Surabaya,Reseller,Completed
+ORD-02923,CUST-0738,2025-02-01,Denpasar,Offline Store,Completed
+ORD-02924,CUST-0546,2025-03-18,Surabaya,Reseller,Completed
+ORD-02925,CUST-0346,2025-04-06,Denpasar,Social Commerce,Completed
+ORD-02926,CUST-0786,2025-08-30,Semarang,Website,Completed
+ORD-02927,CUST-0203,2025-05-17,Bandung,Marketplace,Completed
+ORD-02928,CUST-0216,2025-09-21,Makassar,Offline Store,Completed
+ORD-02929,CUST-0104,2025-08-14,Makassar,Social Commerce,Completed
+ORD-02930,CUST-0395,2025-12-04,Makassar,Website,Completed
+ORD-02931,CUST-0502,2025-07-08,Semarang,Social Commerce,Completed
+ORD-02932,CUST-0664,2025-04-12,Makassar,Reseller,Completed
+ORD-02933,CUST-0039,2025-10-20,Bandung,Social Commerce,Completed
+ORD-02934,CUST-0609,2025-02-18,Makassar,Offline Store,Cancelled
+ORD-02935,CUST-0755,2025-08-11,Semarang,Social Commerce,Completed
+ORD-02936,CUST-0305,2025-04-25,Medan,Reseller,Completed
+ORD-02937,CUST-0545,2025/12/14,Medan,Marketplace,Completed
+ORD-02938,CUST-0151,2025-06-08,Denpasar,Reseller,Completed
+ORD-02939,CUST-0694,2025-05-04,Medan,Offline Store,Completed
+ORD-02940,CUST-0329,2025-06-28,Denpasar,Offline Store,Completed
+ORD-02941,CUST-0223,2025-09-09,Jakarta,Website,Completed
+ORD-02942,CUST-0209,2025-08-28,Medan,Reseller,Completed
+ORD-02943,CUST-0191,2025-12-27,Bandung,Marketplace,Completed
+ORD-02944,CUST-0618,2025-01-18,Jakarta,Offline Store,Completed
+ORD-02945,CUST-0793,2025-08-18,Denpasar,Social Commerce,Cancelled
+ORD-02946,CUST-0287,2025-11-19,Jakarta,Reseller,Completed
+ORD-02947,CUST-0203,2025-11-03,Medan,Website,Completed
+ORD-02948,CUST-0359,2025-05-27,Denpasar,Reseller,Completed
+ORD-02949,CUST-0452,2025-10-04,Denpasar,Social Commerce,Completed
+ORD-02950,CUST-0567,2025-02-14,Bandung,Reseller,Completed
+ORD-02951,CUST-0456,2025-05-02,Surabaya,Marketplace,Completed
+ORD-02952,CUST-0162,2025-07-22,Semarang,Offline Store,Completed
+ORD-02953,CUST-0400,2025-12-11,Surabaya,Reseller,Cancelled
+ORD-02954,CUST-0542,2025-05-09,Medan,Social Commerce,Completed
+ORD-02955,CUST-0241,2025-01-17,Makassar,Reseller,Completed
+ORD-02956,CUST-0339,2025-04-18,Denpasar,Offline Store,Completed
+ORD-02957,CUST-0452,2025-05-13,Surabaya,Reseller,Completed
+ORD-02958,CUST-0084,2025-08-07,Bandung,Marketplace,Completed
+ORD-02959,CUST-0419,2025-10-10,Semarang,Social Commerce,Completed
+ORD-02960,CUST-0534,2025-06-10,Makassar,Marketplace,Completed
+ORD-02961,CUST-0411,2025-12-05,Jakarta,Website,Completed
+ORD-02962,CUST-0532,2025-04-09,Jakarta,Website,Completed
+ORD-02963,CUST-0097,2025-08-27,Makassar,Website,Completed
+ORD-02964,CUST-0613,2025-02-16,Surabaya,Social Commerce,Cancelled
+ORD-02965,CUST-0038,2025-07-11,Surabaya,Offline Store,Completed
+ORD-02966,CUST-0591,2025-04-24,Medan,Social Commerce,Completed
+ORD-02967,CUST-0079,2025-09-10,Medan,Website,Completed
+ORD-02968,CUST-0612,2025-03-17,Denpasar,Marketplace,Completed
+ORD-02969,CUST-0213,2025-04-23,Denpasar,Marketplace,Completed
+ORD-02970,CUST-0791,2025-10-16,Denpasar,Offline Store,Completed
+ORD-02971,CUST-0483,2025-02-07,Medan,Offline Store,Completed
+ORD-02972,CUST-0070,2025-02-24,Semarang,Marketplace,Completed
+ORD-02973,CUST-0380,2025-10-31,Jakarta,Reseller,Completed
+ORD-02974,CUST-0684,2025-03-04,Semarang,Marketplace,Completed
+ORD-02975,CUST-0788,2025-09-18,Medan,Social Commerce,Completed
+ORD-02976,CUST-0292,2025-02-28,Denpasar,Offline Store,Cancelled
+ORD-02977,CUST-0585,2025-02-25,Denpasar,Reseller,Completed
+ORD-02978,CUST-0168,2025-06-26,Jakarta,Website,Completed
+ORD-02979,CUST-0126,2025-09-23,Medan,Offline Store,Completed
+ORD-02980,CUST-0044,2025-07-28,Makassar,Website,Cancelled
+ORD-02981,CUST-0361,2025-10-17,Jakarta,Reseller,Completed
+ORD-02982,CUST-0609,2025-08-10,Makassar,Marketplace,Cancelled
+ORD-02983,CUST-0147,2025-06-06,Semarang,Social Commerce,Completed
+ORD-02984,CUST-0780,2025-12-12,Semarang,Social Commerce,Completed
+ORD-02985,CUST-0538,2025-03-13,Semarang,Reseller,Completed
+ORD-02986,CUST-0457,2025-11-08,Medan,Website,Completed
+ORD-02987,CUST-0410,2025-05-19,Makassar,Social Commerce,Completed
+ORD-02988,CUST-0162,2025-01-23,Jakarta,Offline Store,Completed
+ORD-02989,CUST-0184,2025-05-21,Bandung,Offline Store,Completed
+ORD-02990,CUST-0615,2025-06-08,Medan,Website,Completed
+ORD-02991,CUST-0369,2025-11-17,Semarang,Marketplace,Completed
+ORD-02992,CUST-0381,2025-05-20,Medan,Website,Completed
+ORD-02993,CUST-0127,2025-12-31,Jakarta,Social Commerce,Completed
+ORD-02994,CUST-0284,2025-02-25,Semarang,Website,Completed
+ORD-02995,CUST-0272,2025-04-24,Semarang,Marketplace,Completed
+ORD-02996,CUST-0234,2025-03-17,Jakarta,Marketplace,Completed
+ORD-02997,CUST-0044,2025-01-08,Denpasar,Social Commerce,Completed
+ORD-02998,CUST-0773,2025-11-12,Denpasar,Reseller,Completed
+ORD-02999,CUST-0308,2025-12-26,Makassar,Social Commerce,Completed
+ORD-03000,CUST-0303,2025-06-09,Semarang,Marketplace,Completed
